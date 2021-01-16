@@ -1,4 +1,16 @@
-## Welcome to Mingyang Ren's homepage!
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>Mingyang Ren</h1>
+      <p><b>Ph.D. Candidate</b></p>
+      <p><b>School of Mathematics Sciences, University of Chinese Academy of Sciences</b></p>
+      <p><b>E-mail: renmingyang17@mails.ucas.ac.cn</b></p>
+    </td>
+    <td width="25%">
+      <img src="/1.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
 
 Mingyang Ren is currently a Ph.D. candidate (Sep. 2017 - Current) in statistics from [School of Mathematics Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) advised by Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang). He was a visiting scholar (Dec. 2019 - Dec. 2020) in Department of Biostatistics at [Yale School of Public Health](https://publichealth.yale.edu/) mentored by [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/). He received the B.S. degree in Mathematics (Mathematics Base Class) from [School of Mathematics and Statistics, Wuhan University](http://maths.whu.edu.cn/), in Jun. 2017. 
 
@@ -16,7 +28,7 @@ E-mail: <renmingyang17@mails.ucas.ac.cn>
 - [Empirical Likelihood Test for Regression Coefficients in High Dimensional Partially Linear Models](https://doi.org/10.1007/s11424-020-9260-3)  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020.
-- Robust ordinal mislabel logistic regression based on $\gamma$-divergence  
+- Robust ordinal mislabel logistic regression based on gamma-divergence  
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2020, Accepted.
 - [Effectiveness of Myopia Prediction Model in Screening Children and Teenager Myopia](http://rs.yiigle.com/CN115989201904/1129307.htm)  
@@ -35,7 +47,7 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 *Bioinformatics*, Under review.  
 
 ## Honors and Awards
-- Sep. 2020 &emsp; *The President Scholarship (Excellent Prize)*, Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences*.
+- 2020 &emsp; *The President Scholarship (Excellent Prize)*, Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
 - 2020 &emsp; *Merit Student*, University of Chinese Academy of Sciences.
 - 2019 &emsp; *Merit Student*, *Outstanding Student Leader*, University of Chinese Academy of Sciences.
 - 2018 &emsp; *Merit Student*, University of Chinese Academy of Sciences.
