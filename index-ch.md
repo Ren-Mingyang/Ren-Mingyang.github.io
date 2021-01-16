@@ -99,7 +99,8 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
   *高维回归分析与正则化*， 本科生机器学习讨论班，中国科学院大学 (2018年、2019年 秋季学期)  
   *人工智能导论*， 新东方人工智能冬令营，中国北京，2019年1月
 
-
+## 软件
+- *HeteroGGM*, R语言程序包, [https://github.com/Ren-Mingyang/HeteroGGM](https://github.com/Ren-Mingyang/HeteroGGM).
 
 
 
