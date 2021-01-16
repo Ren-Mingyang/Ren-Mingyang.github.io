@@ -68,7 +68,7 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 ## Conference Reports
 - *Topic*: Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
 *The 19th Annual Conference of Chinese Association for Applied Statistics*  
-Hangzhou, China, Nov. 2019.
+Beijing, China, Nov. 2019.
 - *Topic*: Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
 *The 11th National Annual Conference on Probability and Statistics*  
 Chengdu, China, Oct. 2018.
@@ -93,8 +93,8 @@ Chinese Research Academy of Environmental Sciences, Beijing, China, Aug. 2019.
   *High Dimensional Regression and Regularization*, Machine Learning Seminar for undergraduates, University of Chinese Academy of Sciences (Fall 2018, Fall 2019).  
   *Introduction to Artificial Intelligence*, The Short Internship Program organized by New Oriental Education in 2019.
 
-
-
+## Software
+- *HeteroGGM*, R package, [https://github.com/Ren-Mingyang/HeteroGGM](https://github.com/Ren-Mingyang/HeteroGGM).
 
 
 
