@@ -22,3 +22,45 @@ Meijun Guo, **Mingyang Ren**, Shiming Li \& Sanguo Zhang
 - [Effectiveness of Myopia Prediction Model in Screening Children and Teenager Myopia](http://rs.yiigle.com/CN115989201904/1129307.htm)  
 Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu, Ningli Wang  
 *Chinese Journal of Experimental Ophthalmology*, 2019, 37(4): 269-273.  
+
+## Preprints
+- Gene-environment interaction identication via penalized robust divergence  
+**Mingyang Ren**, Sanguo Zhang, Shuangge Ma \& Qingzhao Zhang  
+*Biometrical Journal*, Revised.  
+- Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features
+**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang \& Shuangge Ma  
+*Biometrics*, Under review.
+- HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
+**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang \& Shuangge Ma  
+{\it Bioinformatics}, Under review.  
+
+## Honors and Awards
+- Sep. 2020 The President Scholarship of Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences, Excellent Prize.
+- 2017 - 2020 Merit Student, Outstanding Student Leader, University of Chinese Academy of Sciences.
+- Jun. 2017 Outstanding Graduate, Wuhan University.
+- 2013 - 2017 Merit Student, Outstanding Student Leader, First Prize Scholarship, Wuhan University.
+
+## Conference Reports
+- *Topic*: Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
+*The 19th Annual Conference of Chinese Association for Applied Statistics*  
+Hangzhou, China, Nov. 2019.
+- *Topic*: Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
+*The 11th National Annual Conference on Probability and Statistics*  
+Chengdu, China, Oct. 2018.
+- *Topic*: Robust Signed-rank-based High-Dimensional Test for Mean Vector  
+*The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*  
+Nanchang, China, Apr. 2018.
+
+## Invited Talks
+- *Topic*: Let data speak  
+Chinese Research Academy of Environmental Sciences, Beijing, China, Aug. 2019.
+
+## Teaching Experiences and Services
+- **Teaching Assistant** of Postgraduate Courses in University of Chinese Academy of Sciences  
+	Advanced Mathematical Statistics (Fall 2018)  
+  Modern Statistical Methods (Spring 2019)  
+  Analysis of High-Dimensional Biostatistical Data (Summer 2019)  
+  Regression Analysis (Fall 2019)
+- **Class Adviser** 2018 Undergraduate Mathematical Class in University of Chinese Academy of Sciences.
+
+
