@@ -39,7 +39,7 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 - Gene-environment interaction identication via penalized robust divergence  
 **Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang  
 *Biometrical Journal*, Revised.  
-- Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features
+- Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
 *Biometrics*, Under review.
 - HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
