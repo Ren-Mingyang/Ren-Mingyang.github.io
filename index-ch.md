@@ -62,27 +62,27 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 
 ## 荣誉与奖项
 - 2020 &emsp; 中国科学院 数学与系统科学研究院 院长奖（优秀奖）
-- 2020 &emsp; *三好学生* 中国科学院大学
-- 2019 &emsp; *三好学生*、*优秀学生干部* 中国科学院大学
-- 2018 &emsp; *三好学生* 中国科学院大学
-- 2017 &emsp; *优秀毕业生* 武汉大学
-- 2016 &emsp; *三好学生*、*优秀学生干部*、*甲等奖学金*、*金石专项奖学金* 武汉大学
-- 2015 &emsp; *三好学生*、*优秀学生干部*、*甲等奖学金*、*三星专项奖学金* 武汉大学
-- 2014 &emsp; *三好学生*、*甲等奖学金* 武汉大学
+- 2020 &emsp; 三好学生 &emsp; 中国科学院大学
+- 2019 &emsp; 三好学生、优秀学生干部 &emsp; 中国科学院大学
+- 2018 &emsp; 三好学生 &emsp; 中国科学院大学
+- 2017 &emsp; 优秀毕业生 &emsp; 武汉大学
+- 2016 &emsp; 三好学生、优秀学生干部、甲等奖学金、金石专项奖学金 &emsp; 武汉大学
+- 2015 &emsp; 三好学生、优秀学生干部、甲等奖学金、三星专项奖学金 &emsp; 武汉大学
+- 2014 &emsp; 三好学生、甲等奖学金 &emsp; 武汉大学
 
 ## 会议报告
-- *主题*: Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
+- 主题: Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
 *第十九届中国现场统计研究会学术年会*  
 中国北京，2019年11月
-- *主题*: Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
+- 主题: Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
 *第十一届中国概率统计学会全国代表大会*  
 中国成都，2018年11月
-- *主题*: Robust Signed-rank-based High-Dimensional Test for Mean Vector  
+- 主题: Robust Signed-rank-based High-Dimensional Test for Mean Vector  
 *第四届中国现场统计研究会高维数据统计分会*  
 中国南昌，2018年4月
 
 ## 邀请报告
-- *主题*：让数据说话
+- 主题：让数据说话
 中国环境科学研究院湖泊生态环境研究所，中国北京，2019年8月
 
 ## 教学与服务经历
