@@ -16,7 +16,7 @@ E-mail: <renmingyang17@mails.ucas.ac.cn>
 - [Empirical Likelihood Test for Regression Coefficients in High Dimensional Partially Linear Models](https://doi.org/10.1007/s11424-020-9260-3)  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020.
-- Robust ordinal mislabel logistic regression based on \gamma-divergence  
+- Robust ordinal mislabel logistic regression based on $\gamma$-divergence  
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2020, Accepted.
 - [Effectiveness of Myopia Prediction Model in Screening Children and Teenager Myopia](http://rs.yiigle.com/CN115989201904/1129307.htm)  
@@ -32,13 +32,17 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 *Biometrics*, Under review.
 - HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-{\it Bioinformatics}, Under review.  
+*Bioinformatics*, Under review.  
 
 ## Honors and Awards
-- Sep. 2020 The President Scholarship of Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences, Excellent Prize.
-- 2017 - 2020 Merit Student, Outstanding Student Leader, University of Chinese Academy of Sciences.
-- Jun. 2017 Outstanding Graduate, Wuhan University.
-- 2013 - 2017 Merit Student, Outstanding Student Leader, First Prize Scholarship, Wuhan University.
+- Sep. 2020 &emsp; *The President Scholarship (Excellent Prize)*, Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences*.
+- 2020 &emsp; *Merit Student*, University of Chinese Academy of Sciences.
+- 2019 &emsp; *Merit Student*, *Outstanding Student Leader*, University of Chinese Academy of Sciences.
+- 2018 &emsp; *Merit Student*, University of Chinese Academy of Sciences.
+- 2017 &emsp; *Outstanding Graduate*, Wuhan University.
+- 2016 &emsp; *Merit Student*, *Outstanding Student Leader*, *First Prize Scholarship*, *Jinshi special scholarship*, Wuhan University.
+- 2015 &emsp; *Merit Student*, *Outstanding Student Leader*, *First Prize Scholarship*, *Samsung special scholarship*, Wuhan University.
+- 2014 &emsp; *Merit Student*, *First Prize Scholarship*, Wuhan University.
 
 ## Conference Reports
 - *Topic*: Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
@@ -58,10 +62,10 @@ Chinese Research Academy of Environmental Sciences, Beijing, China, Aug. 2019.
 ## Teaching Experiences and Services
 - **Teaching Assistant**  
   Postgraduate Courses in University of Chinese Academy of Sciences:  
-    Advanced Mathematical Statistics (Fall 2018)  
-    Modern Statistical Methods (Spring 2019)  
-    Analysis of High-Dimensional Biostatistical Data (Summer 2019)  
-    Regression Analysis (Fall 2019)
+    &emsp; Advanced Mathematical Statistics (Fall 2018)  
+    &emsp; Modern Statistical Methods (Spring 2019)  
+    &emsp; Analysis of High-Dimensional Biostatistical Data (Summer 2019)  
+    &emsp; Regression Analysis (Fall 2019)
 - **Class Adviser**  
   2018 Undergraduate Mathematical Class in University of Chinese Academy of Sciences.
 - **Instructor**
