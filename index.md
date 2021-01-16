@@ -5,9 +5,10 @@
       <p><b>Ph.D. Candidate</b></p>
       <p><b>School of Mathematics Sciences, University of Chinese Academy of Sciences</b></p>
       <p><b>E-mail: renmingyang17@mails.ucas.ac.cn</b></p>
+      <p><b>Address: 19A, Yuquan Road, Beijing, 100049, China</b></p>
     </td>
     <td width="25%">
-      <img src="/1.jpg" width="100%">      % 插入证件照代码
+      <img src="/1.jpg" width="100%">
     </td>
   </tr>
 </table>
