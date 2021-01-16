@@ -57,13 +57,13 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 
 ## Honors and Awards
 - 2020 &emsp; *The President Scholarship (Excellent Prize)*, Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
-- 2020 &emsp; *Merit Student*, University of Chinese Academy of Sciences.
-- 2019 &emsp; *Merit Student*, *Outstanding Student Leader*, University of Chinese Academy of Sciences.
-- 2018 &emsp; *Merit Student*, University of Chinese Academy of Sciences.
-- 2017 &emsp; *Outstanding Graduate*, Wuhan University.
-- 2016 &emsp; *Merit Student*, *Outstanding Student Leader*, *First Prize Scholarship*, *Jinshi special scholarship*, Wuhan University.
-- 2015 &emsp; *Merit Student*, *Outstanding Student Leader*, *First Prize Scholarship*, *Samsung special scholarship*, Wuhan University.
-- 2014 &emsp; *Merit Student*, *First Prize Scholarship*, Wuhan University.
+- 2020 &emsp; *Merit Student*, &emsp; University of Chinese Academy of Sciences.
+- 2019 &emsp; *Merit Student*, *Outstanding Student Leader*, &emsp; University of Chinese Academy of Sciences.
+- 2018 &emsp; *Merit Student*, &emsp; University of Chinese Academy of Sciences.
+- 2017 &emsp; *Outstanding Graduate*, &emsp; Wuhan University.
+- 2016 &emsp; *Merit Student*, *Outstanding Student Leader*, *First Prize Scholarship*, *Jinshi special scholarship*, &emsp; Wuhan University.
+- 2015 &emsp; *Merit Student*, *Outstanding Student Leader*, *First Prize Scholarship*, *Samsung special scholarship*, &emsp; Wuhan University.
+- 2014 &emsp; *Merit Student*, *First Prize Scholarship*, &emsp; Wuhan University.
 
 ## Conference Reports
 - *Topic*: Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
