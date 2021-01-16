@@ -8,30 +8,30 @@ E-mail: <renmingyang17@mails.ucas.ac.cn>
 
 ## Journal Publications
 - Gaussian graphical model-based heterogeneity analysis via penalized fusion  
-**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang \& Shuangge Ma  
+**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 *Biometrics*, 2021, Accepted.
 - [Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)  
-**Mingyang Ren**, Sanguo Zhang \& Qingzhao Zhang  
+**Mingyang Ren**, Sanguo Zhang & Qingzhao Zhang  
 *Annals of the Institute of Statistical Mathematics*, 2020.
 - [Empirical Likelihood Test for Regression Coefficients in High Dimensional Partially Linear Models](https://doi.org/10.1007/s11424-020-9260-3)  
-Yan Liu, **Mingyang Ren** \& Sanguo Zhang  
+Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020.
-- Robust ordinal mislabel logistic regression based on $\gamma$-divergence  
-Meijun Guo, **Mingyang Ren**, Shiming Li \& Sanguo Zhang  
+- Robust ordinal mislabel logistic regression based on \gamma-divergence  
+Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2020, Accepted.
 - [Effectiveness of Myopia Prediction Model in Screening Children and Teenager Myopia](http://rs.yiigle.com/CN115989201904/1129307.htm)  
-Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu, Ningli Wang  
+Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang  
 *Chinese Journal of Experimental Ophthalmology*, 2019, 37(4): 269-273.  
 
 ## Preprints
 - Gene-environment interaction identication via penalized robust divergence  
-**Mingyang Ren**, Sanguo Zhang, Shuangge Ma \& Qingzhao Zhang  
+**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang  
 *Biometrical Journal*, Revised.  
 - Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features
-**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang \& Shuangge Ma  
+**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
 *Biometrics*, Under review.
 - HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
-**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang \& Shuangge Ma  
+**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 {\it Bioinformatics}, Under review.  
 
 ## Honors and Awards
@@ -56,11 +56,22 @@ Nanchang, China, Apr. 2018.
 Chinese Research Academy of Environmental Sciences, Beijing, China, Aug. 2019.
 
 ## Teaching Experiences and Services
-- **Teaching Assistant** of Postgraduate Courses in University of Chinese Academy of Sciences  
-	Advanced Mathematical Statistics (Fall 2018)  
-  Modern Statistical Methods (Spring 2019)  
-  Analysis of High-Dimensional Biostatistical Data (Summer 2019)  
-  Regression Analysis (Fall 2019)
-- **Class Adviser** 2018 Undergraduate Mathematical Class in University of Chinese Academy of Sciences.
+- **Teaching Assistant**  
+  Postgraduate Courses in University of Chinese Academy of Sciences:  
+    Advanced Mathematical Statistics (Fall 2018)  
+    Modern Statistical Methods (Spring 2019)  
+    Analysis of High-Dimensional Biostatistical Data (Summer 2019)  
+    Regression Analysis (Fall 2019)
+- **Class Adviser**  
+  2018 Undergraduate Mathematical Class in University of Chinese Academy of Sciences.
+- **Instructor**
+  *High Dimensional Regression and Regularization*, Machine Learning Seminar for undergraduates, University of Chinese Academy of Sciences (Fall 2018, Fall 2019).
+  *Introduction to Artificial Intelligence*, The Short Internship Program organized by New Oriental Education in 2019.
+
+
+
+
+
+
 
 
