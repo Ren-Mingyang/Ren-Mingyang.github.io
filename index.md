@@ -1,3 +1,7 @@
+<header>
+   <h1><a href="https://Ren-Mingyang.github.io/">Mingyang Ren (任明旸)</a></h1>
+</header>
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -7,7 +11,7 @@
       <p><b>University of Chinese Academy of Sciences </b></p>
       <p><b>E-mail: renmingyang17@mails.ucas.ac.cn </b></p>
       <p><b>Address: 19A, Yuquan Road, Beijing, China, 100049. </b></p>
-      <a href="CV_Botao_Hao.pdf">[CV]</a>
+      <a href="CV_Mingyang_Ren.pdf">[CV]</a> <a href="https://github.com/Ren-Mingyang">[GitHub]</a>
     </td>
     <td width="25%">
       <img src="11.jpg" width="100%">
