@@ -27,6 +27,7 @@ He was a visiting scholar (Dec. 2019 - Dec. 2020) in Department of Biostatistics
 ## Research Interests
 Analysis of High-Dimensional Data, Heterogeneity Analysis, Robust Statistics, Biostatistics.
 
+
 ## Journal Publications
 - Gaussian graphical model-based heterogeneity analysis via penalized fusion  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
