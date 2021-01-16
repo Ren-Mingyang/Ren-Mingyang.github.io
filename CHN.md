@@ -1,5 +1,5 @@
 <header>
-   <h1><a href="https://Ren-Mingyang.github.io/">任明旸的个人主页<br /> <div style="font-size: 10px;">在理性的基础上，所有判断都是统计</div></a></h1>
+   <h1><a href="https://Ren-Mingyang.github.io/">任明旸的个人主页<br /> <p font-size: 5px;>在理性的基础上，所有判断都是统计</p></a></h1>
 </header>
 
 <table border="0">
