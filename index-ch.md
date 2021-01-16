@@ -7,8 +7,7 @@
     <td width="75%">
       <h1>任明旸 (Mingyang Ren)</h1>
       <p><b>博士生</b></p>
-      <p><b>数学科学学院</b></p>
-      <p><b>中国科学院大学</b></p>
+      <p><b>中国科学院大学 数学科学学院</b></p>
       <p><b>电子邮箱: renmingyang17@mails.ucas.ac.cn </b></p>
       <p><b>地址: 北京市石景山区玉泉路19号(甲), 100049 </b></p>
       <a href="CV_Mingyang_Ren.pdf">[CV]</a> <a href="https://github.com/Ren-Mingyang">[GitHub]</a> <a href="/index.html">[English]</a>
@@ -21,7 +20,7 @@
 
 ## 教育经历
 - 2017年至今，博士生，[中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/) 统计学  
-导师：[张三国](http://people.ucas.ac.cn/~sgzhang)教授。
+导师：[张三国](http://people.ucas.ac.cn/~sgzhang)教授
 - 2019年12月 - 2020年12月，联合培养博士生，[耶鲁大学 公共卫生学院](https://publichealth.yale.edu/) 生物统计系  
 导师：[马双鸽](https://publichealth.yale.edu/profile/shuangge_ma/)教授
 - 2013年9月 - 2017年6月，理学学士，[武汉大学数学与统计学院](http://maths.whu.edu.cn/)（数学基地班）
@@ -43,10 +42,10 @@ Yan Liu, **Mingyang Ren** & Sanguo Zhang
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2020, Accepted.
 - [眼轴长度用于近视预测模型对儿童和青少年近视筛查的效能研究](http://rs.yiigle.com/CN115989201904/1129307.htm)  
-李仕明，**任明旸**，张三国，李翯，刘洛如，王宁利
+李仕明，**任明旸**，张三国，李翯，刘洛如，王宁利  
 *中华实验眼科杂志*, 2019, 37(4): 269-273.
 - [巧用准线解决抛体问题](https://www.cnki.com.cn/Article/CJFDTotal-WLZX201303029.htm)  
-**任明旸**
+**任明旸**  
 *中学物理：高中版*, 2013, 2: 46-48.
 
 
