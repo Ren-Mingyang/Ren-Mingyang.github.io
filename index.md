@@ -3,9 +3,9 @@
     <td width="75%">
       <h1>Mingyang Ren</h1>
       <p><b>Ph.D. Candidate</b></p>
-      <p><b>School of Mathematics Sciences, University of Chinese Academy of Sciences</b></p>
-      <p><b>E-mail: renmingyang17@mails.ucas.ac.cn</b></p>
-      <p><b>Address: 19A, Yuquan Road, Beijing, 100049, China</b></p>
+      <p><b>School of Mathematics Sciences, University of Chinese Academy of Sciences </b></p>
+      <p><b>E-mail: <renmingyang17@mails.ucas.ac.cn> </b></p>
+      <p><b>Address: 19A, Yuquan Road, Beijing, China, 100049. </b></p>
     </td>
     <td width="25%">
       <img src="/1.jpg" width="100%">
@@ -15,9 +15,8 @@
 
 Mingyang Ren is currently a Ph.D. candidate (Sep. 2017 - Current) in statistics from [School of Mathematics Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) advised by Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang). He was a visiting scholar (Dec. 2019 - Dec. 2020) in Department of Biostatistics at [Yale School of Public Health](https://publichealth.yale.edu/) mentored by [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/). He received the B.S. degree in Mathematics (Mathematics Base Class) from [School of Mathematics and Statistics, Wuhan University](http://maths.whu.edu.cn/), in Jun. 2017. 
 
-His research interests include analysis of high-dimensional data, heterogeneity analysis, robust statistics, and biostatistics. Previously, he worked on analysis of high-dimensional heterogeneous data.
-
-E-mail: <renmingyang17@mails.ucas.ac.cn>
+## Research interests
+Analysis of High-Dimensional Data, Heterogeneity Analysis, Robust Statistics, Biostatistics.
 
 ## Journal Publications
 - Gaussian graphical model-based heterogeneity analysis via penalized fusion  
