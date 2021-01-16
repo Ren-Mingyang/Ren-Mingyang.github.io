@@ -23,7 +23,7 @@
 导师：[张三国](http://people.ucas.ac.cn/~sgzhang)教授
 - 2019年12月 - 2020年12月，联合培养博士生，[耶鲁大学 公共卫生学院](https://publichealth.yale.edu/) 生物统计系  
 导师：[马双鸽](https://publichealth.yale.edu/profile/shuangge_ma/)教授
-- 2013年9月 - 2017年6月，理学学士，[武汉大学数学与统计学院](http://maths.whu.edu.cn/)（数学基地班）
+- 2013年9月 - 2017年6月，理学学士，[武汉大学 数学与统计学院](http://maths.whu.edu.cn/)（数学基地班）
 
 ## 研究兴趣
 高维数据分析，异质数据分析，稳健统计，生物统计
