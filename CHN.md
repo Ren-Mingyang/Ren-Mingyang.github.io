@@ -1,5 +1,5 @@
 <header>
-   <h1><a>任明旸的个人主页<br /><div style="font-size: 20px;">在理性基础上，所有判断皆为统计</div></a></h1>
+   <h1><a>任明旸的个人主页<br /><div style="font-size: 20px;">在理性的基础上，所有判断皆为统计</div></a></h1>
 </header>
 
 <table border="0">
@@ -11,7 +11,7 @@
       <p><b>中国科学院大学 数学科学学院</b></p>
       <p><b>电子邮箱: renmingyang17@mails.ucas.ac.cn </b></p>
       <p><b>地址: 北京市石景山区玉泉路19号(甲), 100049 </b></p>
-      <a href="CV_Mingyang_Ren.pdf">[CV]</a> <a href="https://github.com/Ren-Mingyang">[GitHub]</a> <a href="/index.html">[English]</a>
+      <a href="CV_Mingyang_Ren.pdf">[CV]</a>  &nbsp; <a href="https://github.com/Ren-Mingyang">[GitHub]</a> &nbsp; <a href="/index.html">[English]</a>
     </td>
   </tr>
 </table>
