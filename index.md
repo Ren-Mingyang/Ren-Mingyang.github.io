@@ -1,5 +1,7 @@
 <header>
    <h1><a href="https://Ren-Mingyang.github.io/">Welcome to Mingyang Ren's Homepage</a></h1>
+   <p><b>Ph.D. Candidate</b></p>
+   <img src="22.jpg" width="60%">
 </header>
 
 <table border="0">
