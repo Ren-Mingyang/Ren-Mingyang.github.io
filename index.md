@@ -1,6 +1,6 @@
 <header>
    <h1><a>Mingyang Ren</a></h1>
-   <p><a>Ph.D. Candidate</a>  &nbsp;  
+   <p><a>Ph.D. Candidate</a>  &nbsp;  </p>
    <p><a>School of Mathematics Sciences, University of Chinese Academy of Sciences </a></p>
 </header>
 
@@ -14,7 +14,7 @@
       <a href="CV_Mingyang_Ren.pdf">[CV]</a><a href="https://github.com/Ren-Mingyang">[GitHub]</a>
     </td>
     <td width="20%">
-      <a href="/CHN.html">[中文版]</a></p>
+      <a href="/CHN.html">[中文版]</a>
     </td>
   </tr>
 </table>
