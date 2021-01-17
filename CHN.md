@@ -6,11 +6,11 @@
   <tr>
     <td width="100%">
       <h1>任明旸 (Mingyang Ren)</h1>
+      <img src="22.jpg" width="55%"> <br />
       <p><b>博士生</b></p>
       <p><b>中国科学院大学 数学科学学院</b></p>
       <p><b>电子邮箱: renmingyang17@mails.ucas.ac.cn </b></p>
       <p><b>地址: 北京市石景山区玉泉路19号(甲), 100049 </b></p>
-      <img src="22.jpg" width="55%">  
       <a href="CV_Mingyang_Ren.pdf">[CV]</a> <a href="https://github.com/Ren-Mingyang">[GitHub]</a> <a href="/index.html">[English]</a>
     </td>
   </tr>
