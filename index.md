@@ -1,6 +1,6 @@
 <header>
    <h1><a href="https://Ren-Mingyang.github.io/">Mingyang Ren</a></h1>
-   <p><a>Ph.D. Candidate</a>  <a href="CV_Mingyang_Ren.pdf">[CV]</a> &nbsp; <a href="https://github.com/Ren-Mingyang">[GitHub]</a> <a href="/CHN.html">[中文版]</a></p>
+   <p><a>Ph.D. Candidate</a>  &nbsp; <a href="CV_Mingyang_Ren.pdf">[CV]</a><a href="https://github.com/Ren-Mingyang">[GitHub]</a> <a href="/CHN.html">[中文版]</a></p>
    <p><a>School of Mathematics Sciences, University of Chinese Academy of Sciences </a></p>
 </header>
 
