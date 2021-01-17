@@ -71,13 +71,13 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 - 2014 &emsp; 三好学生、甲等奖学金 &emsp; 武汉大学
 
 ## 会议报告
-- 主题: Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
+- Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
 *第十九届中国现场统计研究会学术年会*  
 中国北京，2019年11月
-- 主题: Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
+- Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
 *第十一届中国概率统计学会全国代表大会*  
 中国成都，2018年11月
-- 主题: Robust Signed-rank-based High-Dimensional Test for Mean Vector  
+- Robust Signed-rank-based High-Dimensional Test for Mean Vector  
 *第四届中国现场统计研究会高维数据统计分会*  
 中国南昌，2018年4月
 
