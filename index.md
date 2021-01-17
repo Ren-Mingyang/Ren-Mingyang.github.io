@@ -11,7 +11,8 @@
       <p><b>University of Chinese Academy of Sciences </b></p>
       <p><b>E-mail: renmingyang17@mails.ucas.ac.cn </b></p>
       <p><b>Address: 19A, Yuquan Road, Beijing, China, 100049. </b></p>
-      <a href="CV_Mingyang_Ren.pdf">[CV]</a> <a href="https://github.com/Ren-Mingyang">[GitHub]</a> <a href="/CHN.html">[中文版]</a>
+      <a href="CV_Mingyang_Ren.pdf">[CV]</a> <a href="https://github.com/Ren-Mingyang">[GitHub]</a> <a href="/CHN.html">[中文版]</a>  
+       
       <img src="22.jpg" width="100%">
     </td>
   </tr>
