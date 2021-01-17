@@ -1,5 +1,5 @@
 <header>
-   <h1><a href="https://Ren-Mingyang.github.io/">Welcome to Mingyang Ren's Homepage</a></h1>
+   <h1><a href="https://Ren-Mingyang.github.io/">Mingyang Ren</a></h1>
    <p><a>Ph.D. Candidate</a></p>
    <p><a>School of Mathematics Sciences, University of Chinese Academy of Sciences </a></p>
    <p><a>E-mail: renmingyang17@mails.ucas.ac.cn </a></p>
