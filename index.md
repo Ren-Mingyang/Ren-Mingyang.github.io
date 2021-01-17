@@ -65,7 +65,7 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 - 2016 &emsp; *Merit Student*, *Outstanding Student Leader*, *First Prize Scholarship*, *Jinshi special scholarship*, &emsp; Wuhan University.
 - 2015 &emsp; *Merit Student*, *Outstanding Student Leader*, *First Prize Scholarship*, *Samsung special scholarship*, &emsp; Wuhan University.
 - 2014 &emsp; *Merit Student*, *First Prize Scholarship*, &emsp; Wuhan University.
-
+ 
 ## Conference Reports
 - *Topic*: Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
 *The 19th Annual Conference of Chinese Association for Applied Statistics*  
