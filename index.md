@@ -4,7 +4,7 @@
 
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="100%">
       <h1>Mingyang Ren (任明旸)</h1>
       <p><b>Ph.D. Candidate</b></p>
       <p><b>School of Mathematics Sciences </b></p>
@@ -12,13 +12,10 @@
       <p><b>E-mail: renmingyang17@mails.ucas.ac.cn </b></p>
       <p><b>Address: 19A, Yuquan Road, Beijing, China, 100049. </b></p>
       <a href="CV_Mingyang_Ren.pdf">[CV]</a> <a href="https://github.com/Ren-Mingyang">[GitHub]</a> <a href="/CHN.html">[中文版]</a>
-    </td>
-    <td width="40%">
       <img src="22.jpg" width="100%">
     </td>
   </tr>
 </table>
-
 
 Mingyang Ren is currently a Ph.D. candidate (Sep. 2017 - Current) in *Statistics* from [School of Mathematics Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), advised by Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang). He received the B.S. degree in *Mathematics* (Mathematics Base Class) from [School of Mathematics and Statistics, Wuhan University](http://maths.whu.edu.cn/), in Jun. 2017. 
 
