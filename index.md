@@ -8,10 +8,10 @@
   <tr>
     <td width="100%">
       <h1>Mingyang Ren (任明旸)</h1>  
+      <img src="22.jpg" width="55%"> <br />
       <p><a>E-mail: renmingyang17@mails.ucas.ac.cn </a></p>
       <p><a>Address: 19A, Yuquan Road, Beijing, China, 100049. </a></p>
       <a href="CV_Mingyang_Ren.pdf">[CV]</a><a href="https://github.com/Ren-Mingyang">[GitHub]</a><a href="/CHN.html">[中文版]</a>  
-      <img src="22.jpg" width="55%">
     </td>
   </tr>
 </table>
