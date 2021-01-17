@@ -67,13 +67,13 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 - 2014 &emsp; *Merit Student*, *First Prize Scholarship*, &emsp; Wuhan University.
  
 ## Conference Reports
-- *Topic*: Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
+- Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
 *The 19th Annual Conference of Chinese Association for Applied Statistics*  
 Beijing, China, Nov. 2019.
-- *Topic*: Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
+- Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
 *The 11th National Annual Conference on Probability and Statistics*  
 Chengdu, China, Oct. 2018.
-- *Topic*: Robust Signed-rank-based High-Dimensional Test for Mean Vector  
+- Robust Signed-rank-based High-Dimensional Test for Mean Vector  
 *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*  
 Nanchang, China, Apr. 2018.
 
