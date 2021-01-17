@@ -4,7 +4,7 @@
 
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h1>Mingyang Ren (任明旸)</h1>
       <p><b>Ph.D. Candidate</b></p>
       <p><b>School of Mathematics Sciences </b></p>
