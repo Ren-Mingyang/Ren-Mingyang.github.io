@@ -1,5 +1,5 @@
 <header>
-   <h1><a>Welcome to Mingyang Ren's Homepage!<br /><div style="font-size: 20px;">Strive to develop useful models, although all are essentially wrong.</div></a></h1>
+   <h1><a>Welcome to Mingyang Ren's Homepage!<br /><div style="font-size: 20px;">Essentially, all models are wrong, but some are useful.</div></a></h1>
 </header>
 
 <table border="0">
