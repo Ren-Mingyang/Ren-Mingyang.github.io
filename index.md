@@ -4,8 +4,9 @@
 
 <table border="0">
   <tr>
-    <td width="50%">
-      <h1>Mingyang Ren (任明旸)</h1>
+    <td width="60%">
+      <h1>Mingyang Ren</h1>
+       <h1>任明旸</h1>
       <p><b>Ph.D. Candidate</b></p>
       <p><b>School of Mathematics Sciences </b></p>
       <p><b>University of Chinese Academy of Sciences </b></p>
@@ -13,7 +14,7 @@
       <p><b>Address: 19A, Yuquan Road, Beijing, China, 100049. </b></p>
       <a href="CV_Mingyang_Ren.pdf">[CV]</a> <a href="https://github.com/Ren-Mingyang">[GitHub]</a> <a href="/CHN.html">[中文版]</a>
     </td>
-    <td width="50%">
+    <td width="40%">
       <img src="22.jpg" width="100%">
     </td>
   </tr>
