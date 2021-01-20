@@ -49,14 +49,11 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 
 ## 在审论文
 - Gene-environment interaction identication via penalized robust divergence  
-**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang  
-*Biometrical Journal*, Revised.  
+**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, Revised.  
 - Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features  
-**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
-*Biometrics*, Under review.
+**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma, Under review.
 - HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
-**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Bioinformatics*, Under review.  
+**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma, Under review.  
 
 ## 荣誉与奖项
 - 2020 &emsp; 中国科学院 数学与系统科学研究院 院长奖（优秀奖）
