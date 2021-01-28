@@ -27,7 +27,7 @@
 高维数据分析，异质数据分析，稳健统计，生物统计
 
 ## 发表论文
-- Gaussian graphical model-based heterogeneity analysis via penalized fusion  
+- [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426)   
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 *Biometrics*, 2021, Accepted.
 - [Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)  
