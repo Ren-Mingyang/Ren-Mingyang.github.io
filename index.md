@@ -25,9 +25,9 @@ Analysis of High-Dimensional Data, Heterogeneity Analysis, Robust Statistics, Bi
 
 
 ## Journal Publications
-- Gaussian graphical model-based heterogeneity analysis via penalized fusion  
+- [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426)  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Biometrics*, 2021, Accepted.
+*Biometrics*, 2021.
 - [Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)  
 **Mingyang Ren**, Sanguo Zhang & Qingzhao Zhang  
 *Annals of the Institute of Statistical Mathematics*, 2020.
