@@ -94,7 +94,7 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
   *人工智能导论*， 新东方人工智能冬令营，中国北京，2019年1月
 
 ## 软件
-- *HeteroGGM*, R语言程序包, [https://CRAN.R-project.org/package=HeteroGGM](https://CRAN.R-project.org/package=HeteroGGM) & [https://github.com/Ren-Mingyang/HeteroGGM](https://github.com/Ren-Mingyang/HeteroGGM).
+- *HeteroGGM*, R语言程序包, [https://CRAN.R-project.org/package=HeteroGGM](https://CRAN.R-project.org/package=HeteroGGM).
 
 
 
