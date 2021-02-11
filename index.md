@@ -88,7 +88,7 @@ Chinese Research Academy of Environmental Sciences, Beijing, China, Aug. 2019.
   *Introduction to Artificial Intelligence*, The Short Internship Program organized by New Oriental Education in 2019.
 
 ## Software
-- *HeteroGGM*, R package, [https://CRAN.R-project.org/package=HeteroGGM](https://CRAN.R-project.org/package=HeteroGGM) & [https://github.com/Ren-Mingyang/HeteroGGM](https://github.com/Ren-Mingyang/HeteroGGM).
+- *HeteroGGM*, R package, [https://CRAN.R-project.org/package=HeteroGGM](https://CRAN.R-project.org/package=HeteroGGM).
 
 
 
