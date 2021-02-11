@@ -48,12 +48,12 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 
 
 ## 在审论文
-- Gene-environment interaction identication via penalized robust divergence  
-**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, Revised.  
-- Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
-**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma, Under review.
 - HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
-**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma, Under review.  
+**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma, Bioinformatics, Minor Revision.  
+- Gene-environment interaction identication via penalized robust divergence  
+**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, Biometrical Journal, Revision.  
+- Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
+**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma, Under review. 
 
 ## 荣誉与奖项
 - 2020 &emsp; 中国科学院 数学与系统科学研究院 院长奖（优秀奖）
@@ -94,7 +94,7 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
   *人工智能导论*， 新东方人工智能冬令营，中国北京，2019年1月
 
 ## 软件
-- *HeteroGGM*, R语言程序包, [https://github.com/Ren-Mingyang/HeteroGGM](https://github.com/Ren-Mingyang/HeteroGGM).
+- *HeteroGGM*, R语言程序包, [https://CRAN.R-project.org/package=HeteroGGM](https://CRAN.R-project.org/package=HeteroGGM) & [https://github.com/Ren-Mingyang/HeteroGGM](https://github.com/Ren-Mingyang/HeteroGGM).
 
 
 
