@@ -19,7 +19,8 @@
 ## 教育经历
 - 2017年至今，博士生，[中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/) 统计学  
 导师：[张三国](http://people.ucas.ac.cn/~sgzhang)教授
-- 2019年12月 - 2020年12月，访问学者(联合培养博士生)，[耶鲁大学 公共卫生学院](https://publichealth.yale.edu/) 生物统计系  
+- 2019年12月 - 2020年12月，访问学者(联合培养博士生)  
+[耶鲁大学 公共卫生学院](https://publichealth.yale.edu/) 生物统计系  
 导师：[马双鸽](https://publichealth.yale.edu/profile/shuangge_ma/)教授
 - 2013年9月 - 2017年6月，理学学士，[武汉大学 数学与统计学院](http://maths.whu.edu.cn/)（数学基地班）
  
