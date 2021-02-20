@@ -25,27 +25,28 @@ Analysis of High-Dimensional Data, Heterogeneity Analysis, Robust Statistics, Bi
 
 
 ## Journal Publications
+- HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
+**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
+*Bioinformatics*, 2021+, Accepted.  
 - [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426)  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Biometrics*, 2021.
+*Biometrics*, 2021+.
 - [Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)  
 **Mingyang Ren**, Sanguo Zhang & Qingzhao Zhang  
-*Annals of the Institute of Statistical Mathematics*, 2020.
+*Annals of the Institute of Statistical Mathematics*, 2020+.
 - [Empirical likelihood test for regression coefficients in high-dimensional partially linear models](https://doi.org/10.1007/s11424-020-9260-3)  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
-*Journal of Systems Science and Complexity*, 2020.
+*Journal of Systems Science and Complexity*, 2020+.
 - Robust ordinal mislabel logistic regression based on gamma-divergence  
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
-*Journal of University of Chinese Academy of Sciences*, 2020, Accepted.
+*Journal of University of Chinese Academy of Sciences*, 2020+, Accepted.
 - [Effectiveness of myopia prediction model in screening children and teenager myopia](http://rs.yiigle.com/CN115989201904/1129307.htm)  
 Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang  
 *Chinese Journal of Experimental Ophthalmology*, 2019, 37(4): 269-273.  
 
 ## Preprints
-- HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
-**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma, Bioinformatics, Minor Revision.  
 - Gene-environment interaction identication via penalized robust divergence  
-**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, Biometrical Journal, Revision.  
+**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, *Biometrical Journal*, Revised.  
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma, Under review.
 
