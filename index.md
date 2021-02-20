@@ -30,13 +30,13 @@ Analysis of High-Dimensional Data, Heterogeneity Analysis, Robust Statistics, Bi
 *Bioinformatics*, 2021+, Accepted.  
 - [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426)  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Biometrics*, 2021+.
+*Biometrics*, 2021+, Published Online.
 - [Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)  
 **Mingyang Ren**, Sanguo Zhang & Qingzhao Zhang  
-*Annals of the Institute of Statistical Mathematics*, 2020+.
+*Annals of the Institute of Statistical Mathematics*, 2020+, Published Online.
 - [Empirical likelihood test for regression coefficients in high-dimensional partially linear models](https://doi.org/10.1007/s11424-020-9260-3)  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
-*Journal of Systems Science and Complexity*, 2020+.
+*Journal of Systems Science and Complexity*, 2020+, Published Online.
 - Robust ordinal mislabel logistic regression based on gamma-divergence  
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2020+, Accepted.
