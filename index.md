@@ -25,7 +25,7 @@ Analysis of High-Dimensional Data, Heterogeneity Analysis, Robust Statistics, Bi
 
 
 ## Journal Publications
-- HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
+- [HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis](https://doi.org/10.1093/bioinformatics/btab134)  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 *Bioinformatics*, 2021+, Accepted.  
 - [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426)  
