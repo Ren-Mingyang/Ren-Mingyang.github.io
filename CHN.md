@@ -28,9 +28,9 @@
 高维数据分析，异质数据分析，稳健统计，生物统计
 
 ## 发表论文
-- HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
+- [HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis](https://doi.org/10.1093/bioinformatics/btab134)  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Bioinformatics*, 2021+, Accepted.
+*Bioinformatics*, 2021+, Published Online.
 - [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426)   
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 *Biometrics*, 2021+, Published Online.
