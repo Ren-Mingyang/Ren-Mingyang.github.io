@@ -45,10 +45,11 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 *Chinese Journal of Experimental Ophthalmology*, 2019, 37(4): 269-273.  
 
 ## Preprints
-- Gene-environment interaction identication via penalized robust divergence  
-**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, *Biometrical Journal*, Revised.  
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
-**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma, Under review.
+**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma, *Biometrics*, Revision Invited.  
+- Gene-environment interaction identication via penalized robust divergence  
+**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, *Biometrical Journal*, Revision.  
+
 
 ## Honors and Awards
 - 2020 &emsp; *The President Scholarship (Excellent Prize)*, Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
