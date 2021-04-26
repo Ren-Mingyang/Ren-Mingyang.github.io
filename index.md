@@ -21,7 +21,7 @@ Mingyang Ren is currently a Ph.D. candidate (Sep. 2017 - Current) in *Statistics
 He was a visiting scholar (Dec. 2019 - Dec. 2020) in Department of Biostatistics at [Yale School of Public Health](https://publichealth.yale.edu/), mentored by Prof. [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/). 
 
 ## Research Interests
-Analysis of High-Dimensional Data, Heterogeneity Analysis, Robust Statistics, Biostatistics.
+Analysis of High-Dimensional Data, Heterogeneity Analysis, Graphical Model, Biostatistics.
 
 
 ## Journal Publications
