@@ -52,6 +52,7 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 
 
 ## Honors and Awards
+- 2020 &emsp; *Pacemaker to Merit Student* (only one/school), &emsp; University of Chinese Academy of Sciences.
 - 2020 &emsp; *The President Scholarship (Excellent Prize)*, Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
 - 2020 &emsp; *Merit Student*, &emsp; University of Chinese Academy of Sciences.
 - 2019 &emsp; *Merit Student*, *Outstanding Student Leader*, &emsp; University of Chinese Academy of Sciences.
