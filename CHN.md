@@ -25,7 +25,7 @@
 - 2013年9月 - 2017年6月，理学学士，[武汉大学 数学与统计学院](http://maths.whu.edu.cn/)（数学基地班）
  
 ## 研究兴趣
-高维数据分析，异质数据分析，稳健统计，生物统计
+高维数据分析，异质数据分析，图模型，生物统计
 
 ## 发表论文
 - [HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis](https://doi.org/10.1093/bioinformatics/btab134)  
@@ -58,6 +58,7 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 **Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, *Biometrical Journal*, Revision.  
 
 ## 荣誉与奖项
+- 2021 &emsp; 三好学生标兵 &emsp; 中国科学院大学
 - 2020 &emsp; 中国科学院 数学与系统科学研究院 院长奖（优秀奖）
 - 2020 &emsp; 三好学生 &emsp; 中国科学院大学
 - 2019 &emsp; 三好学生、优秀学生干部 &emsp; 中国科学院大学
