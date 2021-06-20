@@ -39,7 +39,7 @@
 *Annals of the Institute of Statistical Mathematics*, 2020+, Published Online.
 - [Empirical likelihood test for regression coefficients in high-dimensional partially linear models](https://doi.org/10.1007/s11424-020-9260-3)  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
-*Journal of Systems Science and Complexity*, 2020+, Published Online.
+*Journal of Systems Science and Complexity*, 2020, 34: 1135–1155.
 - Robust ordinal mislabel logistic regression based on gamma-divergence  
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2020+, Accepted.
@@ -58,6 +58,7 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 **Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, *Biometrical Journal*, Revision.  
 
 ## 荣誉与奖项
+- 2021 &emsp; 朱李月华优秀博士生奖学金 &emsp; 中国科学院大学大学
 - 2021 &emsp; 三好学生标兵 &emsp; 中国科学院大学
 - 2020 &emsp; 中国科学院 数学与系统科学研究院 院长奖（优秀奖）
 - 2020 &emsp; 三好学生 &emsp; 中国科学院大学
@@ -80,6 +81,8 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 中国南昌，2018年4月
 
 ## 邀请报告
+- 主题：生活中的统计学（科普报告）  
+怀北中学，中国北京，2021年5月
 - 主题：让数据说话  
 中国环境科学研究院湖泊生态环境研究所，中国北京，2019年8月
 
