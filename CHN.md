@@ -6,7 +6,7 @@
   <tr>
     <td width="100%">
       <h1>任明旸 (Mingyang Ren)</h1>
-      <img src="22.jpg" width="55%"> <br />
+      <img src="22.jpg" width="25%"> <br />
       <p><b>博士生</b></p>
       <p><b>中国科学院大学 数学科学学院</b></p>
       <p><b>电子邮箱: renmingyang17@mails.ucas.ac.cn </b></p>
