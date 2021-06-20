@@ -58,7 +58,7 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 **Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, *Biometrical Journal*, Revision.  
 
 ## 荣誉与奖项
-- 2021 &emsp; 朱李月华优秀博士生奖学金 &emsp; 中国科学院大学大学
+- 2021 &emsp; 朱李月华优秀博士生奖学金 &emsp; 中国科学院大学
 - 2021 &emsp; 三好学生标兵 &emsp; 中国科学院大学
 - 2020 &emsp; 中国科学院 数学与系统科学研究院 院长奖（优秀奖）
 - 2020 &emsp; 三好学生 &emsp; 中国科学院大学
