@@ -36,7 +36,7 @@ Analysis of High-Dimensional Data, Heterogeneity Analysis, Graphical Model, Bios
 *Annals of the Institute of Statistical Mathematics*, 2020+, Published Online.
 - [Empirical likelihood test for regression coefficients in high-dimensional partially linear models](https://doi.org/10.1007/s11424-020-9260-3)  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
-*Journal of Systems Science and Complexity*, 2020+, Published Online.
+*Journal of Systems Science and Complexity*, 2020, 34: 1135–1155.
 - Robust ordinal mislabel logistic regression based on gamma-divergence  
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2020+, Accepted.
