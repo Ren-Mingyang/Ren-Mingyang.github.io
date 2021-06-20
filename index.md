@@ -52,6 +52,7 @@ Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang
 
 
 ## Honors and Awards
+- 2021 &emsp; *Zhu-Li-Yuehua Outstanding Doctoral Scholarship* (only one/school), &emsp; University of Chinese Academy of Sciences.
 - 2021 &emsp; *Pacemaker to Merit Student* (only one/school), &emsp; University of Chinese Academy of Sciences.
 - 2020 &emsp; *The President Scholarship (Excellent Prize)*, Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
 - 2020 &emsp; *Merit Student*, &emsp; University of Chinese Academy of Sciences.
@@ -74,6 +75,8 @@ Chengdu, China, Oct. 2018.
 Nanchang, China, Apr. 2018.
 
 ## Invited Talks
+- *Topic*: Statistics in Life (Science popularization report)  
+Huibei High School, Beijing, China, May 2021.  
 - *Topic*: Let data speak  
 Chinese Research Academy of Environmental Sciences, Beijing, China, Aug. 2019.
 
