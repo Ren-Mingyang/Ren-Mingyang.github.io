@@ -36,7 +36,7 @@
 *Biometrics*, 2021+, Published Online.
 - [Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)  
 **Mingyang Ren**, Sanguo Zhang & Qingzhao Zhang  
-*Annals of the Institute of Statistical Mathematics*, 2020+, Published Online.
+*Annals of the Institute of Statistical Mathematics*, 2021, 73: 703–736.
 - [Empirical likelihood test for regression coefficients in high-dimensional partially linear models](https://doi.org/10.1007/s11424-020-9260-3)  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020, 34: 1135–1155.
@@ -55,7 +55,7 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma, *Biometrics*, Revision Invited.  
 - Gene-environment interaction identication via penalized robust divergence  
-**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, *Biometrical Journal*, Revision.  
+**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang, *Biometrical Journal*, Minor Revision.  
 
 ## 荣誉与奖项
 - 2021 &emsp; 朱李月华优秀博士生奖学金 &emsp; 中国科学院大学
