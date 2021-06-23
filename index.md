@@ -33,7 +33,7 @@ Analysis of High-Dimensional Data, Heterogeneity Analysis, Graphical Model, Bios
 *Biometrics*, 2021+, Published Online.
 - [Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)  
 **Mingyang Ren**, Sanguo Zhang & Qingzhao Zhang  
-*Annals of the Institute of Statistical Mathematics*, 2020+, Published Online.
+*Annals of the Institute of Statistical Mathematics*, 2021, 73: 703–736.
 - [Empirical likelihood test for regression coefficients in high-dimensional partially linear models](https://doi.org/10.1007/s11424-020-9260-3)  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020, 34: 1135–1155.
