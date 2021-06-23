@@ -1,12 +1,16 @@
+<header>
+   <h1><a></a></h1>
+</header>
+
 <table border="0">
   <tr>
     <td width="100%">
       <h1>Mingyang Ren (任明旸)</h1>  
       <img src="22.jpg" width="25%"> <br />  
-      <p><b>Ph.D. Candidate</b></p>
-      <p><b>School of Mathematics Sciences, University of Chinese Academy of Sciences</b></p>
-      <p><b>E-mail: renmingyang17@mails.ucas.ac.cn </b></p>
-      <p><b>Address: 19A, Yuquan Road, Beijing, China, 100049. </b></p>
+      <b>Ph.D. Candidate</b><br />  
+      <b>School of Mathematics Sciences, University of Chinese Academy of Sciences</b><br />  
+      <b>E-mail: renmingyang17@mails.ucas.ac.cn </b><br />  
+      <b>Address: 19A, Yuquan Road, Beijing, China, 100049. </b><br />  
       <a href="CV_Mingyang_Ren.pdf">[CV]</a>  &nbsp; <a href="https://github.com/Ren-Mingyang">[GitHub]</a>  &nbsp; <a href="/CHN.html">[中文版]</a>  
     </td>
   </tr>
