@@ -7,7 +7,7 @@
     <td width="100%">
       <h1>任明旸 (Mingyang Ren)</h1>
       <img src="22.jpg" width="25%"> <br />
-      <b>博士生</b></p>
+      <b>博士生</b>
       <b>中国科学院大学 数学科学学院</b><br />
       <b>电子邮箱: renmingyang17@mails.ucas.ac.cn </b><br />
       <b>地址: 北京市石景山区玉泉路19号(甲), 100049 </b><br />
