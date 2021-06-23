@@ -1,5 +1,5 @@
 <header>
-   <h1><a><img src="22.jpg" width="25%"></a></h1>
+   <img src="22.jpg" width="5%">
 </header>
 
 <table border="0">
