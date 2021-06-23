@@ -1,5 +1,5 @@
 <header>
-   <h1>任明旸的个人主页</h1>
+   任明旸的个人主页
 </header>
 
 <table border="0">
