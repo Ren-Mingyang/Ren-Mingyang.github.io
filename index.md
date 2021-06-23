@@ -1,11 +1,12 @@
 <header>
-   <img src="22.jpg" width="5%">
+
 </header>
 
 <table border="0">
   <tr>
     <td width="100%">
       <h1>Mingyang Ren (任明旸)</h1>
+      <img src="22.jpg" width="25%">
       <b>Ph.D. Candidate</b><br />  
       <b>School of Mathematics Sciences, University of Chinese Academy of Sciences</b><br />  
       <b>E-mail: renmingyang17@mails.ucas.ac.cn </b><br />  
