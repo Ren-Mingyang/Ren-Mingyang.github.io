@@ -5,7 +5,7 @@
 <table border="0">
   <tr>
     <td width="100%">
-      <h1>Mingyang Ren (任明旸)</h1><br />  
+      <h1>Mingyang Ren (任明旸)</h1>
       <b>Ph.D. Candidate</b><br />  
       <b>School of Mathematics Sciences, University of Chinese Academy of Sciences</b><br />  
       <b>E-mail: renmingyang17@mails.ucas.ac.cn </b><br />  
