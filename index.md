@@ -1,7 +1,3 @@
-<header>
-   <h1><a>Welcome to Mingyang Ren's Homepage!</a></h1>
-</header>
-
 <table border="0">
   <tr>
     <td width="100%">
