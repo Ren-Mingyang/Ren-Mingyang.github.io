@@ -1,5 +1,5 @@
 <header>
-   <h1><a>任明旸的个人主页</a></h1>
+   <h1>任明旸的个人主页</h1>
 </header>
 
 <table border="0">
@@ -7,10 +7,10 @@
     <td width="100%">
       <h1>任明旸 (Mingyang Ren)</h1>
       <img src="22.jpg" width="25%"> <br />
-      <p><b>博士生</b></p>
-      <p><b>中国科学院大学 数学科学学院</b></p>
-      <p><b>电子邮箱: renmingyang17@mails.ucas.ac.cn </b></p>
-      <p><b>地址: 北京市石景山区玉泉路19号(甲), 100049 </b></p>
+      <b>博士生</b></p>
+      <b>中国科学院大学 数学科学学院</b><br />
+      <b>电子邮箱: renmingyang17@mails.ucas.ac.cn </b><br />
+      <b>地址: 北京市石景山区玉泉路19号(甲), 100049 </b><br />
       <a href="CV_CHN.pdf">[CV]</a>  &nbsp; <a href="https://github.com/Ren-Mingyang">[GitHub]</a> &nbsp; <a href="/index.html">[English]</a>
     </td>
   </tr>
