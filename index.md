@@ -1,5 +1,5 @@
 <header>
-     Welcome to Mingyang Ren's Homepage!
+     <h1>Welcome to Mingyang Ren's Homepage!</h1>
 </header>
 
 <table border="0">
