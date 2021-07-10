@@ -1,5 +1,5 @@
 <header>
-     <h1>Welcome to Mingyang Ren's Homepage!</h1>
+     <h1><img src="ucas_logo.pdf" width="100%"></h1>
 </header>
 
 <table border="0">
