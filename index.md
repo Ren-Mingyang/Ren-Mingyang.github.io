@@ -1,6 +1,5 @@
 <header>
-     <img src="111.jpg" width="10%">
-     <h1>Mingyang Ren, UCAS</h1>
+     <img src="ucas.jpg" width="10%">
 </header>
 
 <table border="0">
