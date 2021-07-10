@@ -1,5 +1,5 @@
 <header>
-     <h1><img src="111.jpg" width="5%"></h1>
+     <img src="111.jpg" width="5%">
      <b>Mingyang Ren, Ph.D. Candidate, UCAS</b>
 </header>
 
