@@ -1,6 +1,6 @@
 <header>
-     <img src="111.jpg" width="5%">
-     <b>Mingyang Ren, Ph.D. Candidate, UCAS</b>
+     <img src="111.jpg" width="10%">
+     <h1>Mingyang Ren, UCAS</h1>
 </header>
 
 <table border="0">
