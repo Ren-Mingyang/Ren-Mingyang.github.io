@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Ph.D** in Probability and Mathematical Statistics, University of Chinese Academy of Sciences, 2019 </br>
+*Advisors*: Professor [Sanguo Zhang](https://people.ucas.ac.cn/~sgzhang) and Professor [Qizhai Li](https://people.ucas.ac.cn/~liq) </br>
+**Joint Ph.D** in Biostatistics, Yale University, 2017-2018 </br>
+*Advisor*: Professor [Shuangge Ma](https://ysph.yale.edu/profile/shuangge_ma/) </br>
+**B.S.** in Statistics & Economics, Shandong University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Postdoctoral Fellow**, Academy of Mathematics and Systems Science, Chinese Academy of Sciences, 2021-present </br>
+*Advisor*: Professor [Xinyu Zhang](http://homepage.amss.ac.cn/research/homePage/dc8f0ecc0eb548d88443b15d46ca8569/myHomePage.html) </br>
+**Data Scientist**, PCG, Tencent Co., Ltd., 2019-2021
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**National Projects** </br>
+* **Research on Reliable Model Selection and Combination Forecasting Methods Under High-Dimensional Model Uncertainty**, *The 70th Funding of China Postdoctoral Science Foundation (Grant No.2021M703428)*, Funding period: 2021-2023, PI.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**Enterprise Projects** </br>
+* **Data analysis for Recommendation system in Tencent Video**, *Tencent Co., Ltd. in Beijing*, Sep. 2019 - Jun.2021
+* **Comprehensive evaluation system of quality network index**, *Huawei Technology Co., Ltd.*, Dec. 2017 - Jun. 2018
+* **Design of intelligent matching model for commodity coding**, *Aisino Co., Ltd.*, Jan. 2017 - Aug. 2017
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**President Award of Academy of Mathematics and Systems Sciences**, *Chinese Academy of Sciences*, 09/2017 </br>
+**School Merit Student and Outstanding Student Cadre**, *University of Chinese Academy of Sciences*, 07/2015 </br>
+**Outstanding graduates of Shandong Province**, *Human Resources and Social Security Department of Shandong Province*, 07/2014 </br>
+**MCM/ICM Meritorious Winner**, *COMAP*, 04/2013 </br>
+**CUMCM Provincial First Prize**, *CSIAM*, 06/2012
+
