@@ -34,9 +34,9 @@ author_profile: true
 
 <!-- <sup>*</sup> Equal authorship statement -->
 
-## Working Paper
+<!-- ## Working Paper
 - - -
 
 * **Hu, X.**, & Zhang, X. (2022). Optimal parameter-transfer learning by model averaging under semiparametric models.
 
-* **Hu, X.** (2022). A variable selection stability test for high-dimensional regression model. 
+* **Hu, X.** (2022). A variable selection stability test for high-dimensional regression model.  -->
