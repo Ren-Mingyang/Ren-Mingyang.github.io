@@ -33,10 +33,3 @@ author_profile: true
 * **Hu, X.**, Zhang, W., Zhang, S., Ma, S., & Li, Q. (2016). Group-combined P-values with applications to genetic association studies. *Bioinformatics*, **32**(18), 2737-2743. [[html](https://doi.org/10.1093/bioinformatics/btw314)] [[pdf](./publications/GCP_Bioinfo.pdf)] [[code](https://github.com/XnhuUcas/GCP)]
 
 <!-- <sup>*</sup> Equal authorship statement -->
-
-<!-- ## Working Paper
-- - -
-
-* **Hu, X.**, & Zhang, X. (2022). Optimal parameter-transfer learning by model averaging under semiparametric models.
-
-* **Hu, X.** (2022). A variable selection stability test for high-dimensional regression model.  -->
