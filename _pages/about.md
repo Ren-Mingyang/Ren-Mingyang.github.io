@@ -28,8 +28,3 @@ I currently work at [Academy of Mathematics and Systems Science](https://amss.ca
     🏢 Contact: Academy of Mathematics and Systems Science, Chinese Academy of Sciences,
                 No.55 Zhongguancun East Road,
                 Haidian District, Beijing, P.R.China 100190
-
-< a href=" ">
-< img src="https://www.easycounter.com/counter.php?xnhuucas"
-border="0" alt="Free Web Counter"></ a>
-<br>< a href="https://www.easycounter.com/">Free Web Counters</ a>
