@@ -12,7 +12,7 @@ redirect_from:
 
 WELCOME TO MY HOMEPAGE! 
 
-I currently work at [Academy of Mathematics and Systems Science](https://amss.cas.cn/), Chinese Academy of Sciences as a postdoctoral researcher. Prior to joining the AMSS, I worked at Tencent Co., Ltd. as a Data Scientist from 2019 to 2021. I received Ph.D degree in probability and mathematical statistics at [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) in 2019. 
+I currently work at [Academy of Mathematics and Systems Science](https://amss.cas.cn/), Chinese Academy of Sciences as a postdoctoral researcher. Prior to joining the AMSS, I worked at Tencent as a Data Scientist from 2019 to 2021. I received my Ph.D degree of Probability and Mathematical Statistics at [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/) in 2019. 
 
 ## Research Interest
 

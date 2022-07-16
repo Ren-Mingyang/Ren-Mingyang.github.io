@@ -17,7 +17,7 @@ redirect_from:
 *Advisors*: Professor [Sanguo Zhang](https://people.ucas.ac.cn/~sgzhang) and Professor [Qizhai Li](https://people.ucas.ac.cn/~liq) <br>
 **Joint Ph.D** in Biostatistics, Yale University, 2017-2018 <br>
 *Advisor*: Professor [Shuangge Ma](https://ysph.yale.edu/profile/shuangge_ma/) <br>
-**Bachelor of Science/Economics** in Statistics & Finance, Shandong University, 2014
+**B.Sc.** in Statistics and Finance, Shandong University, 2014
 
 ## Work experience
 ---
