@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-## Publications and Working Papers
-**Statistical Journal**  
+## Statistical Publications and Working Papers
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding (Under review)   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data (Under review)  
@@ -33,11 +32,16 @@ Yan Liu, **Mingyang Ren** & Sanguo Zhang
 - [Robust ordinal mislabel logistic regression based on gamma-divergence](http://journal.ucas.ac.cn/CN/10.7523/j.ucas.2020.0056)  
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2022, 39(3): 289-301.  
+- [Robust individualized subgroup analysis](http://journal.ucas.ac.cn/CN/10.7523/j.ucas.2022.037)
+Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang  
+*Journal of University of Chinese Academy of Sciences*, 2022+, Published Online.  
 
-**Medical Journal** (#co-first author)  
+
+## Medical Publications and Working Papers
+**#co-first author**  
 - Text messaging parents of school-aged children to increase outdoor time to control myopia: a one-year randomized controlled trial   
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
-*JAMA Pediatrics*, Revision.
+*JAMA Pediatrics*, Accepted.
 - [Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study](https://doi.org/10.1007/s40123-021-00450-2)  
 Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
 *Ophthalmology and Therapy*, 2022, 11: 573–585.
