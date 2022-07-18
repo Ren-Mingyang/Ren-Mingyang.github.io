@@ -4,14 +4,16 @@ title: "News"
 ---
 
 ## 2022
-- Advanced Mathematical Statistics (Fall 2018)  
-- Modern Statistical Methods (Spring 2019)  
-- Analysis of High-Dimensional Biostatistical Data (Summer 2019)  
-- Regression Analysis (Fall 2019)
+- 
+- 
+- 
+- May 19, I defended my doctoral dissertation online
 
 ## 2021
-- Nov. 17, 
+- Nov. 17, I came to Hong Kong starting a new journey as a research assistant.
 - Nov. 10, I received National Scholarship for Doctoral Students after two defenses at the school and university.
+- Oct. 13, the article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by *Biometrical Journal*, after about 2 years of submission and revision.
+- Aug. 10, the article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in *Biometrics*.
 - Jun. 18, I received the *Zhu-Li-Yuehua Outstanding Doctoral Scholarship* after defending at the college and reviewing at the university.
 - May 7, Ms. Wei and I got married after a five-year long love journey.
 - Feb. 12, my first R package was accepted for release at CRAN, and the relevant article was also accepted by *Bioinformatics* later. Welcome to use!
