@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I currently work in Department of Statistics, The Chinese University of Hong Kong as a postdoctoral fellow. I received my Ph.D degree in Statistics at University of Chinese Academy of Sciences in 2022. Prior to UCAS, I obtained my bachelor’s degree in Mathematics at Wuhan University in 2017.
+My name is Mingyang Ren (任明旸). I currently work in Department of Statistics, The Chinese University of Hong Kong as a postdoctoral fellow. I received my Ph.D degree in Statistics at University of Chinese Academy of Sciences in 2022. Prior to UCAS, I obtained my bachelor’s degree in Mathematics at Wuhan University in 2017.
 
 
 ## Educations
