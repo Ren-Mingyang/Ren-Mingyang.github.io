@@ -1,7 +1,7 @@
 
 # About me
+I currently work in [Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) as a postdoctoral fellow.
 
-WELCOME TO MY HOMEPAGE! 
 
 ## Research Interests
 Analysis of High-Dimensional Data, Graphical Model, Network Analysis, Biostatistics, Statistical Machine Learning.
