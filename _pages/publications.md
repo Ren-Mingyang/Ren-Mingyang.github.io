@@ -32,7 +32,7 @@ Yan Liu, **Mingyang Ren** & Sanguo Zhang
 - [Robust ordinal mislabel logistic regression based on gamma-divergence](http://journal.ucas.ac.cn/CN/10.7523/j.ucas.2020.0056)  
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2022, 39(3): 289-301.  
-- [Robust individualized subgroup analysis](http://journal.ucas.ac.cn/CN/10.7523/j.ucas.2022.037)
+- [Robust individualized subgroup analysis](http://journal.ucas.ac.cn/CN/10.7523/j.ucas.2022.037)  
 Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2022+, Published Online.  
 
