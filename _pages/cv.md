@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 ---
 
 <h1>任明旸</h1>
-<b>博士后</b><br />  
-<b>香港中文大学 统计系</b><br />  
-<b>电子邮箱: renmingyang17 AT mails DOT ucas DOT ac DOT cn </b><br />  
+<b>博士后</b>  
+<b>香港中文大学 统计系</b>  
+<b>电子邮箱: renmingyang17 AT mails DOT ucas DOT ac DOT cn </b>  
 
 ## 研究兴趣
 高维数据分析，图模型，网络分析，生物统计，统计机器学习
