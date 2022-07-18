@@ -6,9 +6,10 @@ title: "News"
 ## 2022
 - Jul. 15, my collaborative medical article was accepted in the top journal *JAMA Pediatrics* after 3 years of submission and revision.
 - Jul. 3, affected by the epidemic, I attended my doctoral graduation ceremony online. It announced the end of my 21-year student career and the beginning of a new phase of my life.  
-                   <img src="../images/grad.jpg" width="25%">
+                   <img src="../images/grad.jpg" width="40%">
 - Jul. 1, I received the Chinese Academy of Sciences President Award, which might be a good ending to my PhD journey.       
 - May 19, I defended my doctoral dissertation online, which was an important day in my life. It has been a remarkable PhD journey and there are so many people to thank along the way. [[Acknowledgements for doctoral dissertations](./publications/Acknowledgement.pdf)]
+                   <img src="../images/defend.jpg" width="40%">
 - Jan. 12, my first medical SCI article was accepted in *Ophthalmology and Therapy* after 4 years of repeated submission-rejection-revision, which has really been a tough journey.
 
 ## 2021
