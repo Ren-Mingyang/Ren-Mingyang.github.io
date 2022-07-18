@@ -11,9 +11,6 @@ redirect_from:
 I currently work in Department of Statistics, The Chinese University of Hong Kong as a postdoctoral fellow. I received my Ph.D degree in Statistics at University of Chinese Academy of Sciences in 2022. Prior to UCAS, I obtained my bachelor’s degree in Mathematics at Wuhan University in 2017.
 
 
-## Research Interests
-Analysis of High-Dimensional Data, Graphical Model, Network Analysis, Biostatistics, Statistical Machine Learning.
-
 ## Educations
 - Sep. 2017 - Jul. 2022,  Ph.D. in *Statistics*  
 [School of Mathematics Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
@@ -30,6 +27,15 @@ Advisor: Prof. [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/)
 Mentor: Prof. [Junhui Wang](http://www.cityu.edu.hk/stfprofile/junhwang.htm)
 - Dec. 2021 - Jul. 2022,  Research Assistant  
 [School of Data Science](https://www.sdsc.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/)  
+
+
+## Research Interests
+* Analysis of High-Dimensional Data
+* Graphical Model
+* Network Analysis
+* Biostatistics
+* Statistical Machine Learning
+
 
 ## Contact Info
 
