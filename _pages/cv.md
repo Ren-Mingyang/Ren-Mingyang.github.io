@@ -1,16 +1,12 @@
 ---
 layout: archive
-title: "Resume"
+title: "任明旸"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
 <table border="0">
   <tr>
     <td width="100%">
-      <h1>任明旸</h1>
       <b>博士后</b><br />
       <b>香港中文大学 统计系</b><br />
       <b>电子邮箱: renmingyang17 AT mails DOT ucas DOT ac DOT cn </b><br />
