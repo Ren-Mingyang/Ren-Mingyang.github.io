@@ -7,7 +7,7 @@ title: "News"
 - 
 - 
 - 
-- May 19, I defended my doctoral dissertation online
+- May 19, I defended my doctoral dissertation online, which was an important day in my life. It has been a remarkable PhD journey and there are so many people to thank along the way.
 
 ## 2021
 - Nov. 17, I came to Hong Kong starting a new journey as a research assistant.
