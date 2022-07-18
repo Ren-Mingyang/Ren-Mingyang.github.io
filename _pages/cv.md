@@ -31,7 +31,7 @@ redirect_from:
 - 2013年9月 - 2017年7月，理学学士  
 [武汉大学 数学与统计学院](http://maths.whu.edu.cn/) 数学基地班
  
-## 专业经历
+## 工作经历
 - 2022年8月至今，博士后   
 [香港中文大学](https://www.cuhk.edu.hk/) [统计系](https://www.sta.cuhk.edu.hk/)    
 导师：[王军辉](http://www.cityu.edu.hk/stfprofile/junhwang.htm)教授
