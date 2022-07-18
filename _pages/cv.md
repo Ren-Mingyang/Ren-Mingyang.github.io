@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "任明旸"
+title: " "
 permalink: /cv/
 ---
 
