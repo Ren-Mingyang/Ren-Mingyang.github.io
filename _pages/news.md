@@ -5,7 +5,7 @@ title: "News"
 
 ## 2022
 - Jul. 3, affected by the epidemic, I attended my doctoral graduation ceremony online. It announced the end of my 21-year student career and the beginning of a new phase of my life.  
-<img src="../images/grad.jpg" width="25%">
+                   <img src="../images/grad.jpg" width="25%">
 - May 19, I defended my doctoral dissertation online, which was an important day in my life. It has been a remarkable PhD journey and there are so many people to thank along the way. [[Acknowledgements for doctoral dissertations](./publications/Acknowledgement.pdf)]
 
 ## 2021
