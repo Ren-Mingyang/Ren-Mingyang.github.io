@@ -49,8 +49,8 @@ title: "News and some random thoughts"
 - Apr. 21, I attended *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Nanchang, China.
 
 ## 2017
-- Aug. 24, I came to Yanqi Lake campus of UCAS to start my PhD journey. This is also a place with beautiful scenery by the mountain and water.  
+- Aug. 24, I came to Yanqi Lake campus of UCAS to start my PhD journey. This is also a place with beautiful scenery by the mountain and water.    
                      <img src="../images/yanqi.jpg" width="15%"> <img src="../images/qing0.jpg" width="26.6%">   
-- Jun. 22, I graduated from Wuhan University after a grand graduation ceremony.  
+- Jun. 22, I graduated from Wuhan University after a grand graduation ceremony. Frankly, WHU is probably the most beautiful campus I have ever seen.  
                      <img src="../images/whu.jpg" width="25%"> <img src="../images/whu2.jpg" width="27.5%"> <img src="../images/whu1.jpg" width="10.6%">
 
