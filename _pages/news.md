@@ -25,7 +25,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - May 7, Ms. W and I got married after a five-year long love journey.
 - Feb. 12, my first R package [*HeteroGGM*](https://CRAN.R-project.org/package=HeteroGGM) was accepted for release at CRAN, and the relevant article was also accepted by *Bioinformatics* later. Welcome to use!
 - Feb. 5, I successfully proposed on the waterfront of the South Lake in my hometown!  
-                    <img src="../images/propose.jpg" width="40%"> <img src="../images/prop1.jpg" width="40%">
+                    <img src="../images/propose.jpg" width="40%"> <img src="../images/prop1.jpg" width="38%">
 - Jan. 6, the article "Gaussian graphical model-based heterogeneity analysis via penalized fusion" was accepted in *Biometrics*.
 
 ## 2020
