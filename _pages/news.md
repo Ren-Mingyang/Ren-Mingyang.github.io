@@ -38,7 +38,7 @@ This column will be updated with some news and random thoughts about me, sorry f
                      <img src="../images/new.jpg" width="25%"> <img src="../images/snow.jpg" width="25%"> 
 - Nov. 2, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Beijing, China.               
 - Aug. 2, I was invited to give a report "Let data speak" on *Academic forum of Lake Research Institute*, Chinese Research Academy of Environmental Sciences.
-- Jul. 26, I was awarded a scholarship by the UCAS in Joint PhD Program and would go to Yale University for exchange for one year.
+- Jul. 26, I was awarded a scholarship by the UCAS in Joint PhD Program and would go to Yale University for one year.
 - Jun. 18, I gave a small talk in the graduate academic seminar organized by the graduate association of National Science library and AMSS, CAS. [[news](https://mp.weixin.qq.com/s/OwGjg-RwRffqb8P3X7mHJQ)]  
 - Apr. 20, I attended *The 5th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Hangzhou, China.
                      
