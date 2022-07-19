@@ -31,8 +31,8 @@ title: "News and some random thoughts"
 - Aug. 17, my first SCI article was finally accepted by *AISM* after 2 years of submission and revision, which is perhaps the small start of my academic career.
 
 ## 2019
-- Dec. 15, I arrived in New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
-                     <img src="../images/snow.jpg" width="25%"> <img src="../images/new.jpg" width="25%">
+- Dec. 15, I arrived in cold New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
+                     <img src="../images/new.jpg" width="25%"> <img src="../images/snow.jpg" width="25%"> 
 - Nov. 2, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Beijing, China.               
 - Aug. 2, I was invited to give a report "Let data speak" on *Academic forum of Lake Research Institute*, Chinese Research Academy of Environmental Sciences.
 - Jul. 26, I was awarded a scholarship by the UCAS in Joint PhD Program and would go to Yale University for exchange for one year.
