@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-title: "News"
+title: "News and some random thoughts"
 ---
 
 ## 2022
