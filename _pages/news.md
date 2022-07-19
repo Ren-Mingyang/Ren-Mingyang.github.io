@@ -25,7 +25,18 @@ title: "News and some random thoughts"
 - Jan. 6, the article "Gaussian graphical model-based heterogeneity analysis via penalized fusion" was accepted in *Biometrics*.
 
 ## 2020
-- Dec. 17, I successfully returned home after a 1 year joint Ph.D. program at Yale! It was a difficult journey during the COVID-19 pandemic in the US.   
-                    <img src="../images/yal.jpg" width="40%">
+- Dec. 17, I successfully returned home after the one-year joint Ph.D. program at "Jialidun" university! It was a hard journey during the COVID-19 pandemic in the US. The deepest memory was the view of the four seasons outside the window...  
+                    <img src="../images/hom.jpg" width="40%">
 - Sept. 24, after an online defense, I received the President Award of Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
 - Aug. 17, my first SCI article was finally accepted by *AISM* after 2 years of submission and revision, which is perhaps the small start of my academic career.
+
+## 2019
+- Dec. 15, I successfully returned home after a 1 year joint Ph.D. program at Yale! It was a difficult journey during the COVID-19 pandemic in the US.
+                     <img src="../images/yal.jpg" width="40%">
+                     
+## 2017
+- Aug. 24, I came to Yanqi Lake campus of UCAS to start my PhD journey. This is also a place with beautiful scenery by the mountain and water.  
+                     <img src="../images/yanqi.jpg" width="40%">
+- Jun. 22, I graduated from Wuhan University after a grand graduation ceremony.  
+                     <img src="../images/whu.jpg" width="40%">
+
