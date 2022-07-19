@@ -52,5 +52,5 @@ title: "News and some random thoughts"
 - Aug. 24, I came to Yanqi Lake campus of UCAS to start my PhD journey. This is also a place with beautiful scenery by the mountain and water.  
                      <img src="../images/yanqi.jpg" width="15%"> <img src="../images/qing0.jpg" width="26.6%">   
 - Jun. 22, I graduated from Wuhan University after a grand graduation ceremony.  
-                     <img src="../images/whu.jpg" width="25%"> <img src="../images/whu2.jpg" width="27.5%"> <img src="../images/whu1.jpg" width="11.5%">
+                     <img src="../images/whu.jpg" width="25%"> <img src="../images/whu2.jpg" width="27.5%"> <img src="../images/whu1.jpg" width="11%">
 
