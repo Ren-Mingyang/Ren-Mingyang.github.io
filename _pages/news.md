@@ -13,7 +13,7 @@ title: "News and some random thoughts"
 
 ## 2021
 - Nov. 17, I came to CityU as a research assistant starting a new and first journey in Hong Kong.  
-                   <img src="../images/HKb.jpg" width="40%">
+                   <img src="../images/HKb.jpg" width="40%"> <img src="../images/HKb1.jpg" width="40%">
 - Nov. 10, I received National Scholarship for Doctoral Students after two defenses at the school and university.
 - Oct. 13, the article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by *Biometrical Journal*, after about 2 years of submission and revision.
 - Aug. 10, the article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in *Biometrics*.
