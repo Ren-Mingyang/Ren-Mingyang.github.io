@@ -22,7 +22,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - Aug. 10, the article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in *Biometrics*.
 - Jun. 18, I received the *[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)* after defending at the school and reviewing at the university.
 - May. 17, I was invited to give a science popularization report "Statistics in Life" in Huaibei High School, Huairou, Beijing. [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)] 
-- May 7, Ms. Wei and I got married after a five-year long love journey.
+- May 7, Ms. W and I got married after a five-year long love journey.
 - Feb. 12, my first R package [*HeteroGGM*](https://CRAN.R-project.org/package=HeteroGGM) was accepted for release at CRAN, and the relevant article was also accepted by *Bioinformatics* later. Welcome to use!
 - Feb. 5, I successfully proposed on the waterfront of the South Lake in my hometown!  
                     <img src="../images/propose.jpg" width="40%">
