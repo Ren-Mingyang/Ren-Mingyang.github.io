@@ -1,9 +1,9 @@
 ---
 permalink: /news/
-title: "News and some random thoughts"
+title: "News and some casual thoughts"
 ---
 
-This column will be updated with some news and random thoughts about me, sorry for being possibly quite wordy......  
+This column will be updated with some personal news and casual thoughts, sorry for being possibly quite wordy......  
 
 ## 2022
 - Jul. 15, my collaborative medical article was accepted in the top journal *JAMA Pediatrics* after 3 years of submission and revision.
