@@ -31,14 +31,17 @@ title: "News and some random thoughts"
 - Aug. 17, my first SCI article was finally accepted by *AISM* after 2 years of submission and revision, which is perhaps the small start of my academic career.
 
 ## 2019
-- Dec. 15, I arrived in New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.
-                     <img src="../images/yal.jpg" width="25%">
+- Dec. 15, I arrived in New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
+                     <img src="../images/new.jpg" width="25%">
 - Jul. 26, I was awarded a scholarship by the UCAS in Joint PhD Program and would go to Yale University for exchange for one year.
                      
 ## 2018
-- A year of silent research with little news...
-- Aug. 27, I came to Yuquan Road campus of UCAS, which was perhaps the smallest campus I have ever lived on.
-                     <img src="../images/yuq.jpg" width="25%">
+- Nov. 30, I attended *The First Workshop on Data Science and Big Data in Health Care of Xiamen University*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk by the way. Xiamen is really a beautiful city.
+- Oct. 28, I attended *The 11th National Annual Conference on Probability and Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk by the way in Chengdu, China. This is a revisit to the same place after 4 years.   
+- Sep. 2, I came to Yuquan Road campus of UCAS, which was perhaps the smallest campus I have ever lived on.  
+                     <img src="../images/yuq.jpg" width="25%">  
+- Aug. 25, I attended *Resource and Environment Statistics Conference of Chinese Association for Applied Statistics* in Yinchuan, China.
+- Apr. 21, I attended *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk by the way in Nanchang, China.
 
 ## 2017
 - Aug. 24, I came to Yanqi Lake campus of UCAS to start my PhD journey. This is also a place with beautiful scenery by the mountain and water.  
