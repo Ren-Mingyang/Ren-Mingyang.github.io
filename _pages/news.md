@@ -26,17 +26,23 @@ title: "News and some random thoughts"
 
 ## 2020
 - Dec. 17, I successfully returned home after the one-year joint Ph.D. program at "Jialidun" university! It was a hard journey during the COVID-19 pandemic in the US. The deepest memory was the view of the four seasons outside the window...  
-                    <img src="../images/hom.jpg" width="40%">
+                    <img src="../images/hom.jpg" width="25%">
 - Sept. 24, after an online defense, I received the President Award of Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
 - Aug. 17, my first SCI article was finally accepted by *AISM* after 2 years of submission and revision, which is perhaps the small start of my academic career.
 
 ## 2019
-- Dec. 15, I successfully returned home after a 1 year joint Ph.D. program at Yale! It was a difficult journey during the COVID-19 pandemic in the US.
-                     <img src="../images/yal.jpg" width="40%">
+- Dec. 15, I arrived in New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.
+                     <img src="../images/yal.jpg" width="25%">
+- Jul. 26, I was awarded a scholarship by the UCAS in Joint PhD Program and would go to Yale University for exchange for one year.
                      
+## 2018
+- A year of silent research with little news...
+- Aug. 27, I came to Yuquan Road campus of UCAS, which was perhaps the smallest campus I have ever lived on.
+                     <img src="../images/yuq.jpg" width="25%">
+
 ## 2017
 - Aug. 24, I came to Yanqi Lake campus of UCAS to start my PhD journey. This is also a place with beautiful scenery by the mountain and water.  
-                     <img src="../images/yanqi.jpg" width="40%">
+                     <img src="../images/yanqi.jpg" width="25%"> <img src="../images/qing.jpg" width="25%">   
 - Jun. 22, I graduated from Wuhan University after a grand graduation ceremony.  
-                     <img src="../images/whu.jpg" width="40%">
+                     <img src="../images/whu.jpg" width="25%">
 
