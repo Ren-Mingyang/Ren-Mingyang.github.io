@@ -12,7 +12,7 @@ title: "News and some random thoughts"
 - Jan. 12, my first medical SCI article was accepted in *Ophthalmology and Therapy* after 4 years of repeated submission-rejection-revision, which has really been a tough journey.
 
 ## 2021
-- Nov. 17, I came to CityU as a research assistant starting a new and first journey in Hong Kong. Frankly, , I was surprised to feel that the Yuquan Road campus of UCAS is not really small after coming to CityU.  
+- Nov. 17, I came to CityU as a research assistant starting a new and first journey in Hong Kong. Frankly, I was surprised to feel that the Yuquan Road campus of UCAS is not really small after coming to CityU.  
                    <img src="../images/HKb.jpg" width="40%"> <img src="../images/HKb1.jpg" width="40%">
 - Nov. 10, I received National Scholarship for Doctoral Students after two defenses at the school and university.
 - Oct. 13, the article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by *Biometrical Journal*, after about 2 years of submission and revision.
