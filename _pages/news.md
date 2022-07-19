@@ -6,13 +6,13 @@ title: "News and some random thoughts"
 ## 2022
 - Jul. 15, my collaborative medical article was accepted in the top journal *JAMA Pediatrics* after 3 years of submission and revision.
 - Jul. 3, affected by the epidemic, I attended my doctoral graduation ceremony online. It announced the end of my 21-year student career and the beginning of a new phase of my life.  
-                   <img src="../images/grad.jpg" width="40%">
+                   <img src="../images/grad.jpg" width="30%">
 - Jul. 1, I received the Chinese Academy of Sciences President Award, which might be a good ending to my PhD journey.       
 - May 19, I defended my doctoral dissertation online, which was an important day in my life. It has been a remarkable PhD journey and there are so many people to thank along the way. [[Acknowledgements for doctoral dissertations](./publications/Acknowledgement.pdf)]  
 - Jan. 12, my first medical SCI article was accepted in *Ophthalmology and Therapy* after 4 years of repeated submission-rejection-revision, which has really been a tough journey.
 
 ## 2021
-- Nov. 17, I came to CityU as a research assistant starting a new and first journey in Hong Kong.  
+- Nov. 17, I came to CityU as a research assistant starting a new and first journey in Hong Kong. Frankly, , I was surprised to feel that the Yuquan Road campus of UCAS is not really small after coming to CityU.  
                    <img src="../images/HKb.jpg" width="40%"> <img src="../images/HKb1.jpg" width="40%">
 - Nov. 10, I received National Scholarship for Doctoral Students after two defenses at the school and university.
 - Oct. 13, the article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by *Biometrical Journal*, after about 2 years of submission and revision.
