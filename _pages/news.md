@@ -41,6 +41,8 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - Aug. 17, my first SCI article was finally accepted by *AISM* after 2 years of submission and revision, which is perhaps the small start of my academic career.
 - May. 14, the first time out of the house after about 2 months of working from home during the COVID-19 pandemic.  
                     <img src="../images/new2.jpg" width="25%">
+- Mar. 12, the COVID-19 pandemic in the United States had begun, and residents' panic was spreading. We stocked up on frozen meat that would last for about two months and are preparing to enter a period of working from home. Hope everything would get better soon.
+                    <img src="../images/pand2.jpg" width="20%"> <img src="../images/pand1.jpg" width="20%"> 
 
 ## 2019
 - *Year-end Summary*. Embarked on an "exotic" journey. 
@@ -51,6 +53,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - Jul. 26, I was awarded [a scholarship by the UCAS in Joint PhD Program](https://www.ucas.ac.cn/site/157?u=67789) and would go to Yale University for one year.
 - Jun. 18, I gave a talk in the graduate academic seminar organized by the graduate association of National Science library and AMSS, CAS. [[news](https://mp.weixin.qq.com/s/OwGjg-RwRffqb8P3X7mHJQ)]  
 - Apr. 20, I attended *The 5th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Hangzhou.
+
                      
 ## 2018
 - *Year-end Summary*. The cumbersome move and a bit too many meetings were the two "themes" of the year.
