@@ -37,20 +37,20 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 ## 2019
 - Dec. 15, I arrived in cold New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
                      <img src="../images/new.jpg" width="17%"> <img src="../images/snow.jpg" width="17%"> 
-- Nov. 2, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Beijing, China.               
+- Nov. 2, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Beijing.               
 - Aug. 2, I was invited to give a report "Let data speak" on *Academic forum of Lake Research Institute*, Chinese Research Academy of Environmental Sciences.
 - Jul. 26, I was awarded [a scholarship by the UCAS in Joint PhD Program](https://www.ucas.ac.cn/site/157?u=67789) and would go to Yale University for one year.
 - Jun. 18, I gave a talk in the graduate academic seminar organized by the graduate association of National Science library and AMSS, CAS. [[news](https://mp.weixin.qq.com/s/OwGjg-RwRffqb8P3X7mHJQ)]  
-- Apr. 20, I attended *The 5th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Hangzhou, China.
+- Apr. 20, I attended *The 5th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Hangzhou.
                      
 ## 2018
 - Nov. 30, I attended *The First Workshop on Data Science and Big Data in Health Care of Xiamen University*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk. Xiamen is really a beautiful city.  
                     <img src="../images/xia.jpg" width="25%">
-- Oct. 28, I attended *The 11th National Annual Conference on Probability and Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Chengdu, China. This is a revisit to the same place after 4 years.   
+- Oct. 28, I attended *The 11th National Annual Conference on Probability and Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Chengdu. This is a revisit to the same place after 4 years.   
 - Sep. 2, I came to Yuquan Road campus of UCAS, which was perhaps the smallest campus I have ever lived on.  
                      <img src="../images/yuq.jpg" width="25%">  <img src="../images/yuq1.jpg" width="14%">  
-- Aug. 25, I attended *Resource and Environment Statistics Conference of Chinese Association for Applied Statistics* in Yinchuan, China.
-- Apr. 21, I attended *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Nanchang, China.
+- Aug. 25, I attended *Resource and Environment Statistics Conference of Chinese Association for Applied Statistics* in Yinchuan.
+- Apr. 21, I attended *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Nanchang.
 
 ## 2017
 - Aug. 24, I came to Yanqi Lake campus of UCAS to start my PhD journey. This is also a place with beautiful scenery by the mountain and water.    
