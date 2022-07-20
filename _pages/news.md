@@ -43,7 +43,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
                     <img src="../images/new2.jpg" width="25%">
 
 ## 2019
-- *Year-end Summary*. Embarking on an "exotic" journey. 
+- *Year-end Summary*. Embarked on an "exotic" journey. 
 - Dec. 15, I arrived in cold New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
                      <img src="../images/new.jpg" width="17%"> <img src="../images/snow.jpg" width="17%"> <img src="../images/new1.jpg" width="30%"> 
 - Nov. 2, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Beijing.               
