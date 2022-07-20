@@ -21,7 +21,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - Oct. 13, the article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by *Biometrical Journal*, after about 2 years of submission and revision.
 - Aug. 10, the article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in *Biometrics*.
 - In July, a honeymoon trip in Yunnan, Guizhou, and Sichuan. How an amazing scenery in the southwest border!  
-                  <img src="../images/lv0.jpg" width="40%"> <img src="../images/lv2.jpg" width="25%"> 
+                  <img src="../images/lv0.jpg" width="42%"> <img src="../images/lv2.jpg" width="25%">   
                   <img src="../images/lv1.jpg" width="30%"> <img src="../images/lv3.jpg" width="30%"> 
 - Jun. 18, I received the *[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)* after defending at the school and reviewing at the university.
 - May. 17, I was invited to give a science popularization report "Statistics in Life" in Huaibei High School, Huairou, Beijing. [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)] 
