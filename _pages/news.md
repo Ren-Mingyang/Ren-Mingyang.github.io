@@ -43,6 +43,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
                     <img src="../images/new2.jpg" width="25%">
 
 ## 2019
+- *Year-end Summary*. Embarking on an "exotic" journey. 
 - Dec. 15, I arrived in cold New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
                      <img src="../images/new.jpg" width="17%"> <img src="../images/snow.jpg" width="17%"> <img src="../images/new1.jpg" width="30%"> 
 - Nov. 2, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Beijing.               
@@ -52,6 +53,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - Apr. 20, I attended *The 5th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Hangzhou.
                      
 ## 2018
+- *Year-end Summary*. The cumbersome move and a bit too many meetings were the two "themes" of the year.
 - Nov. 30, I attended *The First Workshop on Data Science and Big Data in Health Care of Xiamen University*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk. Xiamen is really a beautiful city.  
                     <img src="../images/xia.jpg" width="25%">
 - Oct. 28, I attended *The 11th National Annual Conference on Probability and Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Chengdu. This is a revisit to the same place after 4 years.   
