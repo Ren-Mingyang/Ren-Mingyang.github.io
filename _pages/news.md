@@ -40,7 +40,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - Sep. 24, after an online defense, I received the President Award of Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
 - Aug. 17, my first SCI article was finally accepted by *AISM* after 2 years of submission and revision, which is perhaps the small start of my academic career.
 - May. 14, the first time out of the house after about 2 months of working from home during the COVID-19 pandemic.  
-                    <img src="../images/new2.jpg" width="25%"> <img src="../images/new4.jpg" width="25%"> 
+                    <img src="../images/new2.jpg" width="25%"> <img src="../images/new4.jpg" width="27%"> 
 - Mar. 12, the COVID-19 pandemic in the United States had begun, and residents' panic was spreading. We stocked up on frozen meat that could be consumed for about two months and were preparing to enter a period of working from home. Hope everything would get better soon.    
                     <img src="../images/pand2.jpg" width="15%"> <img src="../images/pand1.jpg" width="31%"> 
 
