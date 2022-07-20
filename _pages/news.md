@@ -42,7 +42,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - May. 14, the first time out of the house after about 2 months of working from home during the COVID-19 pandemic.  
                     <img src="../images/new2.jpg" width="25%">
 - Mar. 12, the COVID-19 pandemic in the United States had begun, and residents' panic was spreading. We stocked up on frozen meat that would last for about two months and are preparing to enter a period of working from home. Hope everything would get better soon.
-                    <img src="../images/pand2.jpg" width="15%"> <img src="../images/pand1.jpg" width="32%"> 
+                    <img src="../images/pand2.jpg" width="15%"> <img src="../images/pand1.jpg" width="31%"> 
 
 ## 2019
 - *Year-end Summary*. Embarked on an "exotic" journey. 
