@@ -15,6 +15,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - Jan. 12, my first medical SCI article was accepted in *Ophthalmology and Therapy* after 4 years of repeated submission-rejection-revision. This article started at the beginning of my doctoral study (earlier than all other statistical articles during my doctor's period) and accepted at the end of my doctoral study (later than all other statistical articles). It was really tough and coincidental.
 
 ## 2021
+- It was a rewarding year, with the acceptance of all the statistical papers in my PhD work, completion of my doctoral dissertation, confirmation of my graduation destination, and marriage. Hope the future is as fortunate as this year.
 - Dec. 1, I came to CityU as a research assistant starting a new and first journey in Hong Kong. Frankly, I was surprised to feel that the Yuquan Road campus of UCAS is not really small comparing to CityU.  
                    <img src="../images/HKb.jpg" width="40%"> <img src="../images/HKb1.jpg" width="40%">
 - Nov. 10, I received *[National Scholarship for Doctoral Students](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)* after two defenses at the school and university.
@@ -26,6 +27,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - Jun. 18, I received the *[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)* after defending at the school and reviewing at the university.
 - May. 17, I was invited to give a science popularization report "Statistics in Life" in Huaibei High School, Huairou, Beijing. [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)] 
 - May 7, Ms. W and I got married after a five-year long love journey.
+- Feb. 26, I finished the first draft of my doctoral dissertation as well as waiting for the submitted articles to be published.
 - Feb. 12, a happy start of Chinese New Year! My first R package [*HeteroGGM*](https://CRAN.R-project.org/package=HeteroGGM) was accepted for release at CRAN, and the relevant article was also accepted by *Bioinformatics* later. Welcome to use!
 - Feb. 5, I successfully proposed on the waterfront of the South Lake in my hometown!  
                     <img src="../images/propose.jpg" width="40%"> <img src="../images/prop1.jpg" width="39%">
