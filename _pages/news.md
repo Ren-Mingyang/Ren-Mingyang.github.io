@@ -1,6 +1,6 @@
 ---
 permalink: /news/
-title: "News, gallery, and some casual thoughts"
+title: "News & Gallery"
 ---
 
 This column will be updated with some personal news and casual thoughts......  
