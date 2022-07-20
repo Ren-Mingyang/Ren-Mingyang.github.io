@@ -29,6 +29,7 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 - Jan. 6, the article "Gaussian graphical model-based heterogeneity analysis via penalized fusion" was accepted in *Biometrics*.
 
 ## 2020
+- It was a year of silent research at home with little news.
 - Dec. 17, I successfully returned home after the one-year joint Ph.D. program at "Jialidun" university! It was a hard journey during the COVID-19 pandemic in the US. The deepest memory was the view of the four seasons outside the window...  
                     <img src="../images/hom.jpg" width="20%"> <img src="../images/eas.jpg" width="40%">
 - Sep. 24, after an online defense, I received the President Award of Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
