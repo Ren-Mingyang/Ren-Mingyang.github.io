@@ -30,13 +30,15 @@ Overall, it has been a remarkable PhD journey, during which I have studied and l
 
 ## 2020
 - Dec. 17, I successfully returned home after the one-year joint Ph.D. program at "Jialidun" university! It was a hard journey during the COVID-19 pandemic in the US. The deepest memory was the view of the four seasons outside the window...  
-                    <img src="../images/hom.jpg" width="25%">
+                    <img src="../images/hom.jpg" width="25%"> <img src="../images/eas.jpg" width="25%">
 - Sep. 24, after an online defense, I received the President Award of Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
 - Aug. 17, my first SCI article was finally accepted by *AISM* after 2 years of submission and revision, which is perhaps the small start of my academic career.
+- May. 14, the First time out of the house after 2 months of working from home during the COVID-19 pandemic.  
+                    <img src="../images/new2.jpg" width="25%">
 
 ## 2019
 - Dec. 15, I arrived in cold New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
-                     <img src="../images/new.jpg" width="17%"> <img src="../images/snow.jpg" width="17%"> 
+                     <img src="../images/new.jpg" width="17%"> <img src="../images/snow.jpg" width="17%"> <img src="../images/new1.jpg" width="17%"> 
 - Nov. 2, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Beijing.               
 - Aug. 2, I was invited to give a report "Let data speak" on *Academic forum of Lake Research Institute*, Chinese Research Academy of Environmental Sciences.
 - Jul. 26, I was awarded [a scholarship by the UCAS in Joint PhD Program](https://www.ucas.ac.cn/site/157?u=67789) and would go to Yale University for one year.
