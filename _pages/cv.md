@@ -11,9 +11,11 @@ permalink: /cv/
 <b>电子邮箱: renmingyang17 AT mails DOT ucas DOT ac DOT cn </b>  
 
 ## 研究兴趣
+- - -
 高维数据分析，图模型，网络分析，生物统计，统计机器学习
 
 ## 教育经历
+- - -
 - 2017年9月 - 2022年7月，理学博士  
 [中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/) 统计学  
 导师：[张三国](http://people.ucas.ac.cn/~sgzhang)教授
@@ -24,6 +26,7 @@ permalink: /cv/
 [武汉大学 数学与统计学院](http://maths.whu.edu.cn/) 数学基地班
  
 ## 工作经历
+- - -
 - 2022年8月至今，博士后   
 [香港中文大学](https://www.cuhk.edu.hk/) [统计系](https://www.sta.cuhk.edu.hk/)    
 导师：[王军辉](http://www.cityu.edu.hk/stfprofile/junhwang.htm)教授
@@ -33,10 +36,12 @@ permalink: /cv/
 
 
 ## 论文发表
+- - -
 - [已发表或完成的学术论文](https://ren-mingyang.github.io//publications/)  
 - [谷歌学术主页](https://scholar.google.com/citations?user=eciAdOQAAAAJ&hl=zh-CN)
 
 ## 荣誉奖项
+- - -
 - 2022 &emsp; 中国科学院 院长奖（优秀奖）
 - 2021 &emsp; [博士生国家奖学金](https://onestop.ucas.ac.cn/home/infob/07c2afe9-eee8-468a-9613-52f5febcc262/1)
 - 2021 &emsp; [朱李月华优秀博士生奖学金](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2) &emsp; 中国科学院大学
@@ -51,6 +56,7 @@ permalink: /cv/
 - 2014 &emsp; 甲等奖学金、三好学生 &emsp; 武汉大学
 
 ## 会议报告
+- - -
 - Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
 *第十九届中国现场统计研究会学术年会*  
 中国北京，2019年11月
@@ -62,6 +68,7 @@ permalink: /cv/
 中国南昌，2018年4月
 
 ## 邀请报告
+- - -
 - 主题：生活中的统计学（科普报告）  
 怀北中学，中国北京，2021年5月 [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)]  
 淮北市第十二中学，中国安徽，2021年6月  
@@ -69,6 +76,7 @@ permalink: /cv/
 中国环境科学研究院湖泊生态环境研究所，中国北京，2019年8月
 
 ## 教学服务
+- - -
 - **助教**  
   中国科学院大学研究生课程:  
     &emsp; 高等数理统计 (2018年秋季学期)  
@@ -83,5 +91,6 @@ permalink: /cv/
 
 
 ## 程序开发
+- - -
 - *HeteroGGM*, R语言程序包, [https://CRAN.R-project.org/package=HeteroGGM](https://CRAN.R-project.org/package=HeteroGGM).
 
