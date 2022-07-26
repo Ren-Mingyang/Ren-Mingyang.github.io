@@ -35,7 +35,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 
 ## 2020
 - *Year-end Summary*. It was a year of writing papers and delving into cooking uneventfully, trapped at home with little news.
-- Dec. 17, I successfully returned home after the one-year joint Ph.D. program at "Jialidun" university! It was a hard journey during the COVID-19 pandemic in the US. The deepest memory was the view of the four seasons outside the window...  
+- Dec. 17, I successfully returned home after the one-year joint Ph.D. program at "Jialidun" university! It was a hard journey during the COVID-19 pandemic in the US. The main memory of this year, reluctantly, was the scenery of the four seasons outside the window, while it was not bad...  
                     <img src="../images/hom.jpg" width="20%"> <img src="../images/eas.jpg" width="40%"> <img src="../images/new3.jpg" width="20%">
 - Sep. 24, after an online defense, I received the President Award of Academy of Mathematics and Systems Sciences, Chinese Academy of Sciences.
 - Aug. 17, my first SCI article was finally accepted by *AISM* after 2 years of submission and revision, which is perhaps the small start of my academic career.
