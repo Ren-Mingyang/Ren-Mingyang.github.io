@@ -7,6 +7,8 @@ author_profile: true
 
 
 ## Statistical Publications and Working Papers
+- - -
+
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding (Under review)   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data (Under review)  
@@ -38,6 +40,8 @@ Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang
 
 
 ## Medical Publications and Working Papers
+- - -
+
 **#co-first author**  
 - Text messaging parents of school-aged children to increase outdoor time to control myopia: a one-year randomized controlled trial   
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
