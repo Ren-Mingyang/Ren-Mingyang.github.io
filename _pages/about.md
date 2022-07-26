@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mingyang Ren (任明旸)"
+title: "Mingyang Ren 任明旸"
 excerpt: "任明旸"
 author_profile: true
 redirect_from: 
