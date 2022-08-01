@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
+  
 ## Education
 ---
 
@@ -36,7 +36,7 @@ redirect_from:
 * Data analysis for Recommendation system in Tencent Video, *Tencent Co., Ltd. in Beijing*, Sep. 2019 - Jun.2021
 * Comprehensive evaluation system of quality network index, *Huawei Technology Co., Ltd.*, Dec. 2017 - Jun. 2018
 * Design of intelligent matching model for commodity coding, *Aisino Co., Ltd.*, Jan. 2017 - Aug. 2017
-  
+
 ## Awards
 ---
 
