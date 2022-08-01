@@ -6,6 +6,10 @@ title: "News & Gallery"
 This column will be updated with some personal news and casual thoughts......  
 
 ## 2022
+
+
+
+## 2022
 - Jul. 15, my collaborative medical article was accepted in the top journal *JAMA Pediatrics* after 3 years of submission and revision.
 - Jul. 3, affected by the epidemic, I attended my doctoral graduation ceremony online. It announced the end of my 21-year student career and the beginning of a new phase of my life.  
                    <img src="../images/grad.jpg" width="30%">   
