@@ -25,7 +25,7 @@ Advisor: Prof. [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/)
 ## Professional Experiences
 - Aug. 2022 - Current, Postdoctoral Fellow   
 [Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/)  
-Mentor: Prof. [Junhui Wang](http://www.cityu.edu.hk/stfprofile/junhwang.htm)
+Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 - Dec. 2021 - Jul. 2022,  Research Assistant  
 [School of Data Science](https://www.sdsc.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/)  
 
