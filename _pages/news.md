@@ -6,14 +6,14 @@ title: "News & Gallery"
 This column will be updated with some personal news and casual thoughts......  
 
 ## 2022
-- Aug. 1, I started a new journey as a postdoctoral fellow at CUHK.
-- Jul. 15, my collaborative medical article was accepted in the top journal *JAMA Pediatrics* after 3 years of submission and revision.
-- Jul. 3, affected by the epidemic, I attended my doctoral graduation ceremony online. It announced the end of my 21-year student career and the beginning of a new phase of my life.  
+- **Aug. 1**, I started a new journey as a postdoctoral fellow at CUHK.
+- **Jul. 15**, my collaborative medical article was accepted in the top journal *JAMA Pediatrics* after 3 years of submission and revision.
+- **Jul. 3**, affected by the epidemic, I attended my doctoral graduation ceremony online. It announced the end of my 21-year student career and the beginning of a new phase of my life.  
                    <img src="../images/grad.jpg" width="30%">   
 Overall, it has been a memorable PhD journey for me, during which I have studied and lived in several places for a long period of time, including Huairou and Shijingshan District in Beijing, Shanghai, Hong Kong, and New Haven. There is a Chinese proverb said, "Traveling thousands of miles is better than reading thousands of books", hope to have a richer journey in the future.
-- Jul. 1, I received the *[Chinese Academy of Sciences President Award](https://math.ucas.ac.cn/index.php/zh-CN/qyntz/2729-202)*, which might be a good ending to my PhD journey.       
-- May 19, I passed the PhD dissertation defense online, which was an important day in my life. There are so many people to thank along the way. [[Acknowledgements for doctoral dissertation](./publications/Acknowledgement.pdf)]  
-- Jan. 12, my first medical SCI article was accepted in *Ophthalmology and Therapy* after 4 years of repeated submission-rejection-revision. This article started at the beginning of my doctoral study (earlier than all other statistical articles during my doctor's period) and accepted at the end of my doctoral study (later than all other statistical articles). It was really tough and coincidental.
+- **Jul. 1**, I received the *[Chinese Academy of Sciences President Award](https://math.ucas.ac.cn/index.php/zh-CN/qyntz/2729-202)*, which might be a good ending to my PhD journey.       
+- **May 19**, I passed the PhD dissertation defense online, which was an important day in my life. There are so many people to thank along the way. [[Acknowledgements for doctoral dissertation](./publications/Acknowledgement.pdf)]  
+- **Jan. 12**, my first medical SCI article was accepted in *Ophthalmology and Therapy* after 4 years of repeated submission-rejection-revision. This article started at the beginning of my doctoral study (earlier than all other statistical articles during my doctor's period) and accepted at the end of my doctoral study (later than all other statistical articles). It was really tough and coincidental.
 
 ## 2021
 - *Year-end Summary*. It was a rewarding year, with the acceptance of all the statistical papers in my PhD work, completion of my doctoral dissertation, confirmation of my graduation destination, and marriage, just waiting to graduate. Hope the future is as fortunate as this year.
