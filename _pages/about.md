@@ -42,3 +42,9 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 
     📧 Email: renmingyang17 AT mails DOT ucas DOT ac DOT cn
 
+## Hobbies
+* I am an amateur table tennis player. I won the top 16 in both the undergraduate table tennis match of WHU and the postgraduate freshmen table tennis match of UCAS.
+* I am also an amateur swimmer. I used to swim in many open waters, such as East Lake in Wuhan, Yangtze River, etc.
+
+
+
