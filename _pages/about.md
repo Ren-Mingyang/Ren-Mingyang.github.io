@@ -40,7 +40,7 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 
 ## Contact Info
 
-    📧 Email: renmingyang17 AT mails DOT ucas DOT ac DOT cn
+    📧 Email: mingyangren AT cuhk DOT edu DOT hk
 
 ## Hobbies
 * I am an amateur table tennis player. I won the top 16 in both the undergraduate table tennis match of WHU and the postgraduate freshmen table tennis match of UCAS.
