@@ -7,13 +7,13 @@ This column will be updated with some personal news and casual thoughts......
 
 ## 2022
 - **Aug. 1**, I started a new journey as a postdoctoral fellow at CUHK.
-- **Jul. 15**, my collaborative medical article was accepted in the top journal *JAMA Pediatrics* after 3 years of submission and revision.
+- **Jul. 15**, my collaborative medical article was accepted in the top journal *JAMA Pediatrics*.
 - **Jul. 3**, affected by the epidemic, I attended my **doctoral graduation ceremony** online. It announced the end of my 21-year student career and the beginning of a new phase of my life.  
                    <img src="../images/grad.jpg" width="30%">   
 Overall, it has been a memorable PhD journey for me, during which I have studied and lived in several places for a long period of time, including Huairou and Shijingshan District in Beijing, Shanghai, Hong Kong, and New Haven. There is a Chinese proverb said, "Traveling thousands of miles is better than reading thousands of books", hope to have a richer journey in the future.
 - **Jul. 1**, I received the *[Chinese Academy of Sciences President Award](https://math.ucas.ac.cn/index.php/zh-CN/qyntz/2729-202)*, which might be a good ending to my PhD journey.       
 - **May 19**, I passed the **PhD dissertation defense** online, which was an important day in my life. There are so many people to thank along the way. [[Acknowledgements for doctoral dissertation](./publications/Acknowledgement.pdf)]  
-- **Jan. 12**, my first medical SCI article was accepted in *Ophthalmology and Therapy* after 4 years of repeated submission-rejection-revision. This article started at the beginning of my doctoral study (earlier than all other statistical articles during my doctor's period) and accepted at the end of my doctoral study (later than all other statistical articles). It was really tough and coincidental.
+- **Jan. 12**, my first medical SCI article was accepted in *Ophthalmology and Therapy*.
 
 ## 2021
 - ***Year-end Summary***. It was a rewarding year, with the acceptance of all the statistical papers in my PhD work, completion of my doctoral dissertation, confirmation of my graduation destination, and marriage, just waiting to graduate. Hope the future is as fortunate as this year.
@@ -24,14 +24,11 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Aug. 10**, the article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in *Biometrics*.
 - **In July**, we went to Yunnan, Guizhou, and Sichuan for a honeymoon trip. What an amazing scenery in the southwest border!  
                   <img src="../images/lv0.jpg" width="44%"> <img src="../images/lv2.jpg" width="26.5%">   
-                  <img src="../images/lv1.jpg" width="33.25%"> <img src="../images/lv3.jpg" width="37.5%"> 
+                  <img src="../images/lv1.jpg" width="33.25%"> <img src="../images/lv4.jpg" width="37.5%"> 
 - **Jun. 18**, I received the *[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)* after defending at the school and reviewing at the university.
 - **May. 17**, I was invited to give a science popularization report "Statistics in Life" in Huaibei High School, Huairou, Beijing. [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)] 
-- **May 7**, Ms. W and I got married after a five-year long love journey.
 - **Feb. 26**, I finished the first draft of my doctoral dissertation as well as waiting for the submitted articles to be published.
 - **Feb. 12**, a happy start of Chinese New Year! My first R package [*HeteroGGM*](https://CRAN.R-project.org/package=HeteroGGM) was accepted for release at CRAN, and the relevant article was also accepted by *Bioinformatics* later. Welcome to use!
-- **Feb. 5**, I successfully proposed on the waterfront of the South Lake in my hometown!  
-                    <img src="../images/propose.jpg" width="40%"> <img src="../images/prop1.jpg" width="39%">
 - **Jan. 6**, a happy start of the year! The article "Gaussian graphical model-based heterogeneity analysis via penalized fusion" was accepted in *Biometrics*.
 
 ## 2020
