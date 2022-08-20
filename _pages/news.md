@@ -26,7 +26,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
                   <img src="../images/lv0.jpg" width="44%"> <img src="../images/lv2.jpg" width="26.5%">   
                   <img src="../images/lv1.jpg" width="30%"> <img src="../images/lv4.jpg" width="42%"> 
 - **Jun. 18**, I received the ***[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)*** after defending at the school and reviewing at the university.
-- **May. 17**, I was invited to give a science popularization report "Statistics in Life" in Huaibei High School, Huairou, Beijing. [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)] 
+- **May. 17**, I was invited to give a science popularization report "Statistics in Life" in Huaibei High School, Huairou, Beijing. [**[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)**] 
 - **Feb. 26**, I finished the first draft of my doctoral dissertation as well as waiting for the submitted articles to be published.
 - **Feb. 12**, a happy start of Chinese New Year! My first R package [***HeteroGGM***](https://CRAN.R-project.org/package=HeteroGGM) was accepted for release at CRAN, and the relevant article was also accepted by *Bioinformatics* later. Welcome to use!
 - **Jan. 6**, a happy start of the year! The article "Gaussian graphical model-based heterogeneity analysis via penalized fusion" was accepted in ***Biometrics***.
@@ -50,7 +50,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
                     <img src="../images/talk.jpg" width="40%">          
 - **Aug. 2**, I was invited to give a report "Let data speak" on *Academic forum of Lake Research Institute*, Chinese Research Academy of Environmental Sciences.
 - **Jul. 26**, I was awarded ***[a scholarship by the UCAS in Joint PhD Program](https://www.ucas.ac.cn/site/157?u=67789)*** and would go to Yale University for one year.
-- **Jun. 18**, I gave a talk in the graduate academic seminar organized by the graduate association of National Science library and AMSS, CAS. [[news](https://mp.weixin.qq.com/s/OwGjg-RwRffqb8P3X7mHJQ)]  
+- **Jun. 18**, I gave a talk in the graduate academic seminar organized by the graduate association of National Science library and AMSS, CAS. [**[news](https://mp.weixin.qq.com/s/OwGjg-RwRffqb8P3X7mHJQ)**]  
 - **Apr. 20**, I attended *The 5th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Hangzhou.
 
                      
