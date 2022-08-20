@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Statistical Publications and Working Papers
+## Statistical Publications and Submitted Papers
 - - -
 
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding (Under review)   
@@ -39,7 +39,7 @@ Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang
 *Journal of University of Chinese Academy of Sciences*, 2022+, Published Online.  
 
 
-## Medical Publications and Working Papers
+## Medical Publications and Submitted Papers
 - - -
 
 **#co-first author**  
