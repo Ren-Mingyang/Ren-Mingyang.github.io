@@ -20,7 +20,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Dec. 1**, I came to CityU as a research assistant starting **a new and first journey in Hong Kong**. Frankly, I was surprised to feel that the Yuquan Road campus of UCAS is not really small comparing to CityU.  
                    <img src="../images/HKb.jpg" width="40%"> <img src="../images/HKb1.jpg" width="40%">
 - **Nov. 10**, I received *[National Scholarship for Doctoral Students](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)* after two defenses at the school and university.
-- **Oct. 13**, the article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by *Biometrical Journal*, after about 2 years of submission and revision.
+- **Oct. 13**, the article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by *Biometrical Journal*.
 - **Aug. 10**, the article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in *Biometrics*.
 - **In July**, we went to Yunnan, Guizhou, and Sichuan for a honeymoon trip. What an amazing scenery in the southwest border!  
                   <img src="../images/lv0.jpg" width="44%"> <img src="../images/lv2.jpg" width="26.5%">   
