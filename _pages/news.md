@@ -22,7 +22,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Nov. 10**, I received *[National Scholarship for Doctoral Students](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)* after two defenses at the school and university.
 - **Oct. 13**, the article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by *Biometrical Journal*.
 - **Aug. 10**, the article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in *Biometrics*.
-- **In July**, we went to Yunnan, Guizhou, and Sichuan for a honeymoon trip. What an amazing scenery in the southwest border!  
+- **In July**, I went to Yunnan, Guizhou, and Sichuan for a honeymoon trip. What an amazing scenery in the southwest border!  
                   <img src="../images/lv0.jpg" width="44%"> <img src="../images/lv2.jpg" width="26.5%">   
                   <img src="../images/lv1.jpg" width="30%"> <img src="../images/lv4.jpg" width="42%"> 
 - **Jun. 18**, I received the *[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)* after defending at the school and reviewing at the university.
