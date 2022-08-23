@@ -25,7 +25,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **In July**, I went to Yunnan, Guizhou, and Sichuan for a honeymoon trip. What an amazing scenery in the southwest border!  
                   <img src="../images/lv0.jpg" width="44%"> <img src="../images/lv2.jpg" width="26.5%">   
                   <img src="../images/lv1.jpg" width="30%"> <img src="../images/lv4.jpg" width="42%"> 
-- **Jun. 18**, I received the ***[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)*** after defending at the school and reviewing at the university.
+- **Jun. 18**, I received the ***[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)***.
 - **May. 17**, I was invited to give a science popularization report "Statistics in Life" in Huaibei High School, Huairou, Beijing. [**[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)**] 
 - **Feb. 26**, I finished the first draft of my doctoral dissertation as well as waiting for the submitted articles to be published.
 - **Feb. 12**, a happy start of Chinese New Year! My first R package [***HeteroGGM***](https://CRAN.R-project.org/package=HeteroGGM) was accepted for release at CRAN, and the relevant article was also accepted by ***Bioinformatics*** later. Welcome to use!
@@ -35,7 +35,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - ***Year-end Summary***. It was a year of writing papers and delving into cooking uneventfully, trapped at home with little news.
 - **Dec. 17**, I successfully returned home after the one-year joint Ph.D. program at "Jialidun" university! It was a hard journey during the COVID-19 pandemic in the US. The main memory of this year, reluctantly, was the scenery of the four seasons outside the window, while it was not bad...  
                     <img src="../images/hom.jpg" width="20%"> <img src="../images/eas.jpg" width="40%"> <img src="../images/new3.jpg" width="20%">
-- **Sep. 24**, after an online defense, I received the **President Award of Academy of Mathematics and Systems Sciences**, Chinese Academy of Sciences.
+- **Sep. 24**, I received the **President Award of Academy of Mathematics and Systems Sciences**, Chinese Academy of Sciences.
 - **Aug. 17**, my first SCI article was finally accepted by ***AISM*** after 2 years of submission and revision, which is perhaps the small start of my academic career.
 - **May. 14**, the first time out of the house after about 2 months of working from home during the COVID-19 pandemic.  
                     <img src="../images/new2.jpg" width="26%"> <img src="../images/new4.jpg" width="27%"> 
@@ -46,7 +46,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - ***Year-end Summary***. Embarked on an "exotic" journey. 
 - **Dec. 15**, I arrived in cold New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
                      <img src="../images/new.jpg" width="17%"> <img src="../images/snow.jpg" width="17%"> <img src="../images/new1.jpg" width="30%"> 
-- **Nov. 2**, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Beijing.     
+- **Nov. 2**, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics* and gave a small talk in Beijing.     
                     <img src="../images/talk.jpg" width="40%">          
 - **Aug. 2**, I was invited to give a report "Let data speak" on *Academic forum of Lake Research Institute*, Chinese Research Academy of Environmental Sciences.
 - **Jul. 26**, I was awarded ***[a scholarship by the UCAS in Joint PhD Program](https://www.ucas.ac.cn/site/157?u=67789)*** and would go to Yale University for one year.
@@ -56,9 +56,9 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
                      
 ## 2018
 - ***Year-end Summary***. The cumbersome move and a bit too many meetings were the two "themes" of the year.
-- **Nov. 30**, I attended *The First Workshop on Data Science and Big Data in Health Care of Xiamen University*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk. Xiamen is really a beautiful city.  
+- **Nov. 30**, I attended *The First Workshop on Data Science and Big Data in Health Care of Xiamen University* and gave a small talk. Xiamen is really a beautiful city.  
                     <img src="../images/xia.jpg" width="25%">
-- **Oct. 28**, I attended *The 11th National Annual Conference on Probability and Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a small talk in Chengdu. This is a revisit to the same place after 4 years.   
+- **Oct. 28**, I attended *The 11th National Annual Conference on Probability and Statistics* gave a small talk in Chengdu. This is a revisit to the same place after 4 years.   
 - **Sep. 2**, I came to Yuquan Road campus of UCAS, which was perhaps the smallest campus I have ever lived on.  
                      <img src="../images/yuq.jpg" width="25%">  <img src="../images/yuq1.jpg" width="14%">  
 - **Aug. 25**, I attended *Resource and Environment Statistics Conference of Chinese Association for Applied Statistics* in Yinchuan.
