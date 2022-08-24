@@ -43,9 +43,6 @@ Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang
 - - -
 
 **#co-first author**  
-- Text messaging parents of school-aged children to increase outdoor time to control myopia: a one-year randomized controlled trial   
-Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
-*JAMA Pediatrics*, Accepted.
 - [Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study](https://doi.org/10.1007/s40123-021-00450-2)  
 Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
 *Ophthalmology and Therapy*, 2022, 11: 573–585.
