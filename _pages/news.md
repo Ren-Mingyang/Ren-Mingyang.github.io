@@ -7,8 +7,8 @@ This column will be updated with some personal news and casual thoughts......
 
 ## 2022
 - **Aug. 1**, I started a new journey as a postdoctoral fellow at CUHK.  
-                  <img src="../images/CUHK1.jpg" width="40%"> <img src="../images/CUHK2.jpg" width="30%">   
-                  <img src="../images/CUHK3.jpg" width="40%"> <img src="../images/CUHK4.jpg" width="30%"> 
+                  <img src="../images/CUHK1.jpg" width="50%"> <img src="../images/CUHK2.jpg" width="30%">   
+                  <img src="../images/CUHK4.jpg" width="30%"> <img src="../images/CUHK3.jpg" width="50%"> 
 - **Jul. 15**, my collaborative medical article was accepted in the top journal ***JAMA Pediatrics***.
 - **Jul. 3**, affected by the epidemic, I attended my **doctoral graduation ceremony** online. It announced the end of my 21-year student career and the beginning of a new phase of my life.  
                    <img src="../images/grad.jpg" width="30%">   
