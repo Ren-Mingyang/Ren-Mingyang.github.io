@@ -6,7 +6,7 @@ title: "News & Gallery"
 This column will be updated with some personal news and casual thoughts......  
 
 ## 2022
-- **Aug. 1**, I started a new phase as a postdoctoral fellow at CUHK, another beautiful campus by the mountains and water in my journey..  
+- **Aug. 1**, I started a new phase as a postdoctoral fellow at CUHK, another beautiful campus by the mountains and water in my journey.   
                   <img src="../images/CUHK1.jpg" width="50%"> <img src="../images/CUHK2.jpg" width="30%">   
                   <img src="../images/CUHK4.jpg" width="30%"> <img src="../images/CUHK3.jpg" width="50%"> 
 - **Jul. 15**, my collaborative medical article was accepted in the top journal ***JAMA Pediatrics***.
