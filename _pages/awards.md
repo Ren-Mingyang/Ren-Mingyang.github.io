@@ -1,9 +1,8 @@
 ---
 permalink: /awards/
-title: "Awards"
+title: "Awards and Honors"
 ---
 
-## Honors and Awards
 - 2022 &emsp; *[Chinese Academy of Sciences President Award (Excellent Prize)](https://math.ucas.ac.cn/index.php/zh-CN/qyntz/2729-202)*.
 - 2021 &emsp; *[National Scholarship for Doctoral Students](https://onestop.ucas.ac.cn/home/infob/07c2afe9-eee8-468a-9613-52f5febcc262/1)*.
 - 2021 &emsp; *[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)* (only one/school), &emsp; University of Chinese Academy of Sciences.
