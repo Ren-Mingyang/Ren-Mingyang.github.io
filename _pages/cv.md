@@ -17,7 +17,7 @@ permalink: /cv/
 ## 教育经历
 - - -
 - 2017年9月 - 2022年7月，理学博士  
-[中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/) 统计学  
+[中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/) 数理统计  
 导师：[张三国](http://people.ucas.ac.cn/~sgzhang)教授
 - 2019年12月 - 2020年12月，联合培养博士生  
 [耶鲁大学 公共卫生学院](https://publichealth.yale.edu/) 生物统计系  
