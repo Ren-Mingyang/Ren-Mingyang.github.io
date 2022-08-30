@@ -31,11 +31,11 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 
 
 ## Research Interests
+* Transfer Learning
+* Subgroup Analysis
 * Analysis of High-Dimensional Data
 * Graphical Model
-* Network Analysis
 * Biostatistics
-* Statistical Machine Learning
 
 
 ## Contact Info
