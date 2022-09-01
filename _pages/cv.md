@@ -43,7 +43,7 @@ permalink: /cv/
 ## 荣誉奖项
 - - -
 - 2022 &emsp; [中国科学院 院长奖（优秀奖）](https://math.ucas.ac.cn/index.php/zh-CN/qyntz/2729-202)
-- 2021 &emsp; [博士生国家奖学金](https://onestop.ucas.ac.cn/home/infob/07c2afe9-eee8-468a-9613-52f5febcc262/1)
+- 2021 &emsp; [博士生国家奖学金](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)
 - 2021 &emsp; [朱李月华优秀博士生奖学金](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2) &emsp; 中国科学院大学
 - 2021 &emsp; [三好学生标兵](https://math.ucas.ac.cn/index.php/zh-CN/qyntz/2610-2020-2022) &emsp; 中国科学院大学
 - 2020 &emsp; 中国科学院 [数学与系统科学研究院 院长奖（优秀奖）](https://math.ucas.ac.cn/index.php/zh-CN/news/2551-2020-10-07-07-59-36)
