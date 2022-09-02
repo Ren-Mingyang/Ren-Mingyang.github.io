@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-I currently work in Department of Statistics, The Chinese University of Hong Kong as a postdoctoral fellow. I received my Ph.D degree in Statistics at University of Chinese Academy of Sciences in 2022. Prior to UCAS, I obtained my bachelor’s degree in Mathematics at Wuhan University in 2017.
-
+Postdoctoral Fellow, Department of Statistics, The Chinese University of Hong Kong.
 
 ## Educations
 - Sep. 2017 - Jul. 2022,  Ph.D. in *Mathematical Statistics*  
@@ -22,13 +20,12 @@ Advisor: Prof. [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/)
 - Sep. 2013 – Jul. 2017,  B.S. in *Mathematics* (Mathematics Base Class)  
 [School of Mathematics and Statistics, Wuhan University](http://maths.whu.edu.cn/)
 
-## Professional Experiences
+## Work Experiences
 - Aug. 2022 - Current, Postdoctoral Fellow   
 [Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/)  
 Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 - Dec. 2021 - Jul. 2022,  Research Assistant  
-[School of Data Science](https://www.sdsc.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/)  
-
+[School of Data Science](https://www.sdsc.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) 
 
 ## Research Interests
 * Transfer Learning
