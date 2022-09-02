@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Fellow, Department of Statistics, The Chinese University of Hong Kong.
+Postdoctoral Fellow  
+Department of Statistics 
+The Chinese University of Hong Kong
 
 ## Educations
 - Sep. 2017 - Jul. 2022,  Ph.D. in *Mathematical Statistics*  
