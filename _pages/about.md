@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Postdoctoral Fellow  
-Department of Statistics 
+Department of Statistics   
 The Chinese University of Hong Kong
 
 ## Educations
