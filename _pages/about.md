@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Postdoctoral Fellow  
-Department of Statistics, The Chinese University of Hong Kong
+Department of Statistics, The Chinese University of Hong Kong  
+Email: mingyangren AT cuhk DOT edu DOT hk
 
 ## Educations
 - Sep. 2017 - Jul. 2022,  Ph.D. in *Mathematical Statistics*  
@@ -34,11 +35,6 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 * Analysis of High-Dimensional Data
 * Graphical Model
 * Biostatistics
-
-
-## Contact Info
-
-    📧 Email: mingyangren AT cuhk DOT edu DOT hk
 
 ## Hobbies
 * I am an amateur table tennis player. I won the top 16 in both the undergraduate table tennis match of WHU and the postgraduate freshmen table tennis match of UCAS.
