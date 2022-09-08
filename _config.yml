@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingyang Ren"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Mingyang Ren"
 description              : &description "Postdoctoral Fellow"
