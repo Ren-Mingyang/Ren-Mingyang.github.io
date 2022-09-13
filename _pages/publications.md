@@ -9,10 +9,11 @@ author_profile: true
 ## Statistical Publications and Submitted Papers
 - - -
 
-- Consistent Estimation of the Number of Communities via Regularized Network Embedding (Under review)   
-**Mingyang Ren**, Sanguo Zhang & Junhui Wang  
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data (Under review)  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
+- Consistent Estimation of the Number of Communities via Regularized Network Embedding   
+**Mingyang Ren**, Sanguo Zhang & Junhui Wang  
+*Biometrics*, Revision Invited.
 - [Hierarchical cancer heterogeneity analysis based on histopathological imaging features](https://doi.org/10.1111/biom.13544)  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
 *Biometrics*, 2022+, Published Online. [[pdf](./publications/Ren_Hierarchical.pdf)] [[Supplement](./publications/Ren_Hierarchical_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)]
