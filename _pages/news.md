@@ -3,13 +3,13 @@ permalink: /news/
 title: "News & Gallery"
 ---
 
-This column will be updated with some personal news and casual thoughts......  
+This column will be updated with some personal news and casual thoughts.  
 
 ## 2022
+- **Sep. 26**, my collaborative medical article "Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia" was published online in the top journal ***JAMA Pediatrics***.
 - **Aug. 1**, I started a new phase as a postdoctoral fellow at CUHK, another beautiful campus by the mountains and water in my journey.   
                   <img src="../images/CUHK1.jpg" width="50%"> <img src="../images/CUHK2.jpg" width="30%">   
                   <img src="../images/CUHK4.jpg" width="30%"> <img src="../images/CUHK3.jpg" width="50%"> 
-- **Jul. 15**, my collaborative medical article was accepted in the top journal ***JAMA Pediatrics***.
 - **Jul. 3**, affected by the epidemic, I attended my **doctoral graduation ceremony** online. It announced the end of my 21-year student career and the beginning of a new phase of my life.  
                    <img src="../images/grad.jpg" width="30%">   
 Overall, it has been a memorable PhD journey for me, during which I have studied and lived in several places for a long period of time, including Huairou and Shijingshan District in Beijing, Shanghai, Hong Kong, and New Haven. There is a Chinese proverb said, "Traveling thousands of miles is better than reading thousands of books", hope to have a richer journey in the future.
