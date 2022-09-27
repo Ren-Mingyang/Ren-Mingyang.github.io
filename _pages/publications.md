@@ -44,7 +44,7 @@ Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang
 - - -
 
 **#co-first author**  
-- [Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2796425?utm_campaign=articlePDF&utm_medium=articlePDFlink&utm_source=articlePDF&utm_content=jamapediatrics.2022.3542)   
+- [Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)    
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
 *JAMA Pediatrics*, 2022+, Published Online.
 - [Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study](https://doi.org/10.1007/s40123-021-00450-2)  
