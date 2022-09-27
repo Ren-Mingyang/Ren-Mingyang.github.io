@@ -40,7 +40,7 @@ Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang
 *Journal of University of Chinese Academy of Sciences*, 2022+, Published Online.  
 
 
-## Medical Publications and Submitted Papers
+## Medical Publications
 - - -
 
 **#co-first author**  
