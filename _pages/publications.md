@@ -16,7 +16,7 @@ author_profile: true
 *Biometrics*, Revision Invited.
 - [Hierarchical cancer heterogeneity analysis based on histopathological imaging features](https://doi.org/10.1111/biom.13544)  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
-*Biometrics*, 2022+, Published Online. [[pdf](./publications/Ren_Hierarchical.pdf)] [[Supplement](./publications/Ren_Hierarchical_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)]
+*Biometrics*, 2022+, In press. [[pdf](./publications/Ren_Hierarchical.pdf)] [[Supplement](./publications/Ren_Hierarchical_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)]
 - [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426)  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 *Biometrics*, 2022, 78(2): 524-535. [[pdf](./publications/Ren2021_Gaussian.pdf)] [[Supplement](./publications/Ren2021_Gaussian_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] 
@@ -37,7 +37,7 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 *Journal of University of Chinese Academy of Sciences*, 2022, 39(3): 289-301.  
 - [Robust individualized subgroup analysis](http://journal.ucas.ac.cn/CN/10.7523/j.ucas.2022.037)  
 Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang  
-*Journal of University of Chinese Academy of Sciences*, 2022+, Published Online.  
+*Journal of University of Chinese Academy of Sciences*, 2022+, In press.  
 
 
 ## Medical Publications
@@ -46,7 +46,7 @@ Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang
 **#co-first author**  
 - [Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)    
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
-*JAMA Pediatrics*, 2022+, Published Online.
+*JAMA Pediatrics*, 2022+, In press.
 - [Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study](https://doi.org/10.1007/s40123-021-00450-2)  
 Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
 *Ophthalmology and Therapy*, 2022, 11: 573–585.
