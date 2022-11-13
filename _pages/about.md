@@ -36,9 +36,5 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 * Graphical Model
 * Biostatistics
 
-## Hobbies
-* I am an amateur table tennis player. I won the top 16 in both the undergraduate table tennis match of WHU and the postgraduate freshmen table tennis match of UCAS.
-* I also enjoy swimming. I used to swim in many open waters, such as East Lake in Wuhan, Yangtze River, etc.
-
 
 
