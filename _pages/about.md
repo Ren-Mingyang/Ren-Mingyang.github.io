@@ -10,7 +10,7 @@ redirect_from:
 
 Postdoctoral Fellow  
 Department of Statistics, The Chinese University of Hong Kong  
-Email: mingyangren AT cuhk DOT edu DOT hk
+Email: mingyangren AT cuhk DOT edu DOT hk  
 Research Interests: Transfer Learning; Heterogeneous data analysis; High-dimensional data analysis; Graphical Model; Biostatistics
 
 ## Educations
