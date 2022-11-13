@@ -19,7 +19,7 @@ author_profile: true
 *Biometrics*, 2022+, In press. [[pdf](./publications/Ren_Hierarchical.pdf)] [[Supplement](./publications/Ren_Hierarchical_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)]
 - [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426)  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Biometrics*, 2022, 78(2): 524-535. [[pdf](./publications/Ren2021_Gaussian.pdf)] [[Supplement](./publications/Ren2021_Gaussian_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] 
+*Biometrics*, 2022, 78(2): 524-535. [[pdf](./publications/Ren2021_Gaussian.pdf)] [[Supplement](./publications/Ren2021_Gaussian_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] [[R package](https://CRAN.R-project.org/package=HeteroGGM)]
 - [Gene-environment interaction identication via penalized robust divergence](https://doi.org/10.1002/bimj.202000157)  
 **Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang  
 *Biometrical Journal*, 2022, 64(3): 461-480. [[pdf](./publications/Ren_biomj_GE.pdf)] [[Supplement](./publications/Ren_GE_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GE-PRD)]
