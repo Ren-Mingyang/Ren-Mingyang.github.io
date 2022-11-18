@@ -9,13 +9,15 @@ author_profile: true
 ## Statistical Publications and Submitted Papers
 - - -
 
-- Transfer learning for tensor Gaussian graphical models (Under review) [[Arxiv](https://arxiv.org/abs/2211.09391)]   
-**Mingyang Ren**, Yaoming Zhen & Junhui Wang 
-- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data (Under review)  
+- Transfer learning for tensor Gaussian graphical models     
+**Mingyang Ren**, Yaoming Zhen & Junhui Wang  
+2022+. Under review. [[Arxiv](https://arxiv.org/abs/2211.09391)]
+- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data ()  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
+2022+. Under review.
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
-*Biometrics*, Revision Invited.
+*Biometrics*, 2022+, Revision Invited.
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
 *Biometrics*, 2022+, In press. [[Article](https://doi.org/10.1111/biom.13544)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)]
@@ -46,13 +48,13 @@ Xiaoling Zhang, **Mingyang Ren** & Sanguo Zhang
 - - -
 
 **#co-first author**  
-- [Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)    
+- Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial    
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
-*JAMA Pediatrics*, 2022, 176(11):1077-1083.
-- [Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study](https://doi.org/10.1007/s40123-021-00450-2)  
+*JAMA Pediatrics*, 2022. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
+- Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study  
 Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
-*Ophthalmology and Therapy*, 2022, 11: 573–585.
-- [Effectiveness of myopia prediction model in screening children and teenager myopia](http://rs.yiigle.com/CN115989201904/1129307.htm) (In Chinese)  
+*Ophthalmology and Therapy*, 2022. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
+- Effectiveness of myopia prediction model in screening children and teenager myopia (In Chinese)  
 Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang  
-*Chinese Journal of Experimental Ophthalmology*, 2019, 37(4): 269-273.  
+*Chinese Journal of Experimental Ophthalmology*, 2019. [[Article](http://rs.yiigle.com/CN115989201904/1129307.htm)]  
 
