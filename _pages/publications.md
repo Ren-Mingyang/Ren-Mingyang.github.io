@@ -12,7 +12,7 @@ author_profile: true
 - Transfer learning for tensor Gaussian graphical models     
 **Mingyang Ren**, Yaoming Zhen & Junhui Wang  
 2022+. Under review. [[Arxiv](https://arxiv.org/abs/2211.09391)]
-- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data ()  
+- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
 2022+. Under review.
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
