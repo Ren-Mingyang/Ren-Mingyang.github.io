@@ -9,6 +9,8 @@ author_profile: true
 ## Statistical Publications and Submitted Papers
 - - -
 
+- Transfer learning for tensor Gaussian graphical models (Under review) [[Arxiv](https://arxiv.org/abs/2211.09391)] 
+**Mingyang Ren**, Yaoming Zhen & Junhui Wang 
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data (Under review)  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
