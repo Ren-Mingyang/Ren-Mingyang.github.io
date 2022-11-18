@@ -18,22 +18,22 @@ author_profile: true
 *Biometrics*, Revision Invited.
 - [Hierarchical cancer heterogeneity analysis based on histopathological imaging features](https://doi.org/10.1111/biom.13544)  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
-*Biometrics*, 2022+, In press. [[pdf](./publications/Ren_Hierarchical.pdf)] [[Supplement](./publications/Ren_Hierarchical_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)]
+*Biometrics*, 2022+, In press. [[Article](./publications/Ren_Hierarchical.pdf)] [[Supplement](./publications/Ren_Hierarchical_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)]
 - [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426)  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Biometrics*, 2022, 78(2): 524-535. [[pdf](./publications/Ren2021_Gaussian.pdf)] [[Supplement](./publications/Ren2021_Gaussian_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] [[R package](https://CRAN.R-project.org/package=HeteroGGM)]
+*Biometrics*, 2022, 78(2): 524-535. [[Article](./publications/Ren2021_Gaussian.pdf)] [[Supplement](./publications/Ren2021_Gaussian_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] [[R package](https://CRAN.R-project.org/package=HeteroGGM)]
 - [Gene-environment interaction identication via penalized robust divergence](https://doi.org/10.1002/bimj.202000157)  
 **Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang  
-*Biometrical Journal*, 2022, 64(3): 461-480. [[pdf](./publications/Ren_biomj_GE.pdf)] [[Supplement](./publications/Ren_GE_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GE-PRD)]
+*Biometrical Journal*, 2022, 64(3): 461-480. [[Article](./publications/Ren_biomj_GE.pdf)] [[Supplement](./publications/Ren_GE_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/GE-PRD)]
 - [HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis](https://doi.org/10.1093/bioinformatics/btab134)  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Bioinformatics*, 2021, 37(18): 3073–3074. [[pdf](./publications/Ren2021_HeteroGGM.pdf)] [[Supplement](./publications/Ren2021_HeteroGGM_supp.pdf)] [[Codes](https://github.com/Ren-Mingyang/HeteroGGM)] [[CRAN](https://CRAN.R-project.org/package=HeteroGGM)]
+*Bioinformatics*, 2021, 37(18): 3073–3074. [[Article](./publications/Ren2021_HeteroGGM.pdf)] [[Supplement](./publications/Ren2021_HeteroGGM_supp.pdf)] [[Github](https://github.com/Ren-Mingyang/HeteroGGM)] [[CRAN](https://CRAN.R-project.org/package=HeteroGGM)]
 - [Robust high-dimensional regression for data with anomalous responses](https://doi.org/10.1007/s10463-020-00764-1)  
 **Mingyang Ren**, Sanguo Zhang & Qingzhao Zhang  
-*Annals of the Institute of Statistical Mathematics*, 2021, 73: 703–736. [[pdf](./publications/Ren2021_Robust.pdf)] [[Supplement](./publications/Ren2021_Robust_supp.pdf)]
+*Annals of the Institute of Statistical Mathematics*, 2021, 73: 703–736. [[Article](./publications/Ren2021_Robust.pdf)] [[Supplement](./publications/Ren2021_Robust_supp.pdf)]
 - [Empirical likelihood test for regression coefficients in high-dimensional partially linear models](https://doi.org/10.1007/s11424-020-9260-3)  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
-*Journal of Systems Science and Complexity*, 2020, 34: 1135–1155. [[pdf](./publications/2020_Empirical.pdf)]
+*Journal of Systems Science and Complexity*, 2020, 34: 1135–1155. [[Article](./publications/2020_Empirical.pdf)]
 - [Robust ordinal mislabel logistic regression based on gamma-divergence](http://journal.ucas.ac.cn/CN/10.7523/j.ucas.2020.0056)  
 Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
 *Journal of University of Chinese Academy of Sciences*, 2022, 39(3): 289-301.  
