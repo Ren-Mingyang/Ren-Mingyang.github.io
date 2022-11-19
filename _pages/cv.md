@@ -90,5 +90,5 @@ permalink: /cv/
 
 ## 程序开发
 - - -
-- *HeteroGGM*, R语言程序包, [https://CRAN.R-project.org/package=HeteroGGM](https://CRAN.R-project.org/package=HeteroGGM).
+- [R语言程序包](https://ren-mingyang.github.io//software/).
 
