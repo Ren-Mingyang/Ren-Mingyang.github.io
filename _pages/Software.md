@@ -5,10 +5,6 @@ permalink: /software/
 author_profile: true
 ---
 
-
-## R packages
-- - -
-
 - *TransTGGM* [[CRAN]]. An R package for Transfer learning for tensor Gaussian graphical models.
 Reference:  
 [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022+.
