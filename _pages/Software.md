@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-- *TransTGGM* [[CRAN]]. An R package for Transfer learning for tensor Gaussian graphical models.
+- *TransTGGM* [[CRAN]]. An R package for Transfer learning for tensor Gaussian graphical models.  
 Reference:  
 [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022+.
 - *HhP* [[CRAN]]. An R package for hierarchical heterogeneity analysis. The current version contains only regression-based supervised hierarchical heterogeneity analysis, and will be supplemented with Gaussian graphical model-based unsupervised methods in the next step.  
