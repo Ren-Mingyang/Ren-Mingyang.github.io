@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-- **cencrne** [[Link to *Github*](https://github.com/Ren-Mingyang/cencrne)]  
+- **cencrne** [Link to [*Github*](https://github.com/Ren-Mingyang/cencrne)]  
 An R package for consistent estimation of the number of communities via regularized network embedding.  
 *Reference*:  
 To be supplemented.
