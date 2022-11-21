@@ -6,7 +6,8 @@ title: "News & Gallery"
 This column will be updated with some personal news and casual thoughts.  
 
 ## 2022
-- **Sep. 26**, my collaborative medical article "Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia" was published online in the top journal ***JAMA Pediatrics***.
+- **Nov. 17**, Our manuscript "[Transfer learning for tensor Gaussian graphical model(https://arxiv.org/abs/2211.09391)" is available on arXiv.
+- **Sep. 26**, our medical article "Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia" was published online in the top journal ***JAMA Pediatrics***.
 - **Aug. 1**, I started a new phase as a postdoctoral fellow at CUHK, another beautiful campus by the mountains and water in my journey.   
                   <img src="../images/CUHK1.jpg" width="50%"> <img src="../images/CUHK2.jpg" width="30%">   
                   <img src="../images/CUHK4.jpg" width="30%"> <img src="../images/CUHK3.jpg" width="50%"> 
@@ -22,8 +23,8 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Dec. 1**, I came to CityU as a research assistant starting **a new and first journey in Hong Kong**. Frankly, I was surprised to feel that the Yuquan Road campus of UCAS is not really small comparing to CityU.  
                    <img src="../images/HKb.jpg" width="40%"> <img src="../images/HKb1.jpg" width="40%">
 - **Nov. 10**, I received ***[National Scholarship for Doctoral Students](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)*** after two defenses at the school and university.
-- **Oct. 13**, the article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by ***Biometrical Journal***.
-- **Aug. 10**, the article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in ***Biometrics***.
+- **Oct. 13**, our article "Gene–environment interaction identification via penalized robust divergence" was finally accepted by ***Biometrical Journal***.
+- **Aug. 10**, our article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in ***Biometrics***.
 - **In July**, I went to Yunnan, Guizhou, and Sichuan for a honeymoon trip. What an amazing scenery in the southwest border!  
                   <img src="../images/lv0.jpg" width="44%"> <img src="../images/lv2.jpg" width="26.5%">   
                   <img src="../images/lv1.jpg" width="30%"> <img src="../images/lv4.jpg" width="42%"> 
@@ -31,7 +32,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **May. 17**, I was invited to give a science popularization report "Statistics in Life" in Huaibei High School, Huairou, Beijing. [**[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)**] 
 - **Feb. 26**, I finished the first draft of my doctoral dissertation as well as waiting for the submitted articles to be published.
 - **Feb. 12**, a happy start of Chinese New Year! My first R package [***HeteroGGM***](https://CRAN.R-project.org/package=HeteroGGM) was accepted for release at CRAN, and the relevant article was also accepted by ***Bioinformatics*** later. Welcome to use!
-- **Jan. 6**, a happy start of the year! The article "Gaussian graphical model-based heterogeneity analysis via penalized fusion" was accepted in ***Biometrics***.
+- **Jan. 6**, a happy start of the year! Our article "Gaussian graphical model-based heterogeneity analysis via penalized fusion" was accepted in ***Biometrics***.
 
 ## 2020
 - ***Year-end Summary***. It was a year of writing papers and delving into cooking uneventfully, trapped at home with little news.
