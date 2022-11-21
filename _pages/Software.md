@@ -11,7 +11,7 @@ An R package for consistent estimation of the number of communities via regulari
 To be supplemented.
 
 
-- **HeteroGGM** [[Link to *CRAN*](https://CRAN.R-project.org/package=HeteroGGM)] 
+- **HeteroGGM** [[Link to *CRAN*](https://CRAN.R-project.org/package=HeteroGGM)]   
 An R package for Gaussian graphical model-based heterogeneity analysis.  
 *Reference*:  
 [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426), Biometrics, 2022.  
