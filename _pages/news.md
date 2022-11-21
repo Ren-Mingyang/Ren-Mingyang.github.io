@@ -6,7 +6,7 @@ title: "News & Gallery"
 This column will be updated with some personal news and casual thoughts.  
 
 ## 2022
-- **Nov. 22**, our R package "[***cencrne***]([https://arxiv.org/abs/2211.09391](https://ren-mingyang.github.io//software/))" is available on my Github.
+- **Nov. 22**, our R package "[***cencrne***](https://ren-mingyang.github.io//software/)" is available on my Github.
 - **Nov. 17**, our manuscript "[Transfer learning for tensor Gaussian graphical model](https://arxiv.org/abs/2211.09391)" is available on arXiv.
 - **Sep. 26**, our medical article "Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia" was published online in the top journal ***JAMA Pediatrics***.
 - **Aug. 1**, I started a new phase as a postdoctoral fellow at CUHK, another beautiful campus by the mountains and water in my journey.   
