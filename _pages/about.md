@@ -11,7 +11,7 @@ redirect_from:
 Postdoctoral Fellow  
 Department of Statistics, The Chinese University of Hong Kong  
 Email: mingyangren AT cuhk DOT edu DOT hk  
-Research Interests: Transfer Learning; Heterogeneous data analysis; High-dimensional data analysis; Graphical Model; Biostatistics
+
 
 ## Educations
 - Sep. 2017 - Jul. 2022,  Ph.D. in *Mathematical Statistics*  
@@ -30,6 +30,7 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 - Dec. 2021 - Jul. 2022,  Research Assistant  
 [School of Data Science](https://www.sdsc.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) 
 
-
+## Research Interests
+Transfer Learning,  Heterogeneous data analysis,  High-dimensional data analysis,  Graphical Model,  Biostatistics
 
 
