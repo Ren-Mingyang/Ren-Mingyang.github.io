@@ -10,7 +10,7 @@ redirect_from:
 
 Postdoctoral Fellow  
 Department of Statistics, The Chinese University of Hong Kong  
-Email: mingyangren AT cuhk DOT edu DOT hk  
+Email: mingyangren[at]cuhk[dot]edu[dot]hk  
 
 
 ## Educations
