@@ -8,7 +8,7 @@ permalink: /cv/
 
 <b>博士后</b>  
 <b>香港中文大学 统计系</b>  
-<b>电子邮箱: mingyangren AT cuhk DOT edu DOT hk </b>  
+<b>电子邮箱: mingyangren[at]cuhk[dot]edu[dot]hk </b>  
 
 ## 研究兴趣
 - - -
