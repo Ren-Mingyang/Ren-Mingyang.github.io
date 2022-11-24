@@ -31,6 +31,8 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 [School of Data Science](https://www.sdsc.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) 
 
 ## Research Interests
-Transfer Learning  &emsp;  Heterogeneous data analysis  &emsp;  High-dimensional data analysis  &emsp;  Graphical Model  &emsp;  Biostatistics
+- Heterogeneous data analysis: transfer learning, subgroup analysis
+- High-dimensional data analysis: robust high-dimensional regression, high-dimensional graphical model, tensor analysis
+- Biostatistics: brain functional connectivity network analysis, cancer genomics
 
 
