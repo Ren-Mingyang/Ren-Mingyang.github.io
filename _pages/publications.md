@@ -11,16 +11,16 @@ author_profile: true
 
 - Transfer learning for tensor Gaussian graphical models     
 **Mingyang Ren**, Yaoming Zhen & Junhui Wang  
-2022+. Under review. [[arXiv](https://arxiv.org/abs/2211.09391)]
+2022+. Under review. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://cran.r-project.org/web/packages/TransTGGM/)]
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
 2022+. Under review.
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
-*Biometrics*, 2022+, Revision Invited.
+*Biometrics*, 2022+, Revision Invited. [[R package](https://github.com/Ren-Mingyang/cencrne)]
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
-*Biometrics*, 2022+, In press. [[Article](https://doi.org/10.1111/biom.13544)] [[Codes](https://github.com/Ren-Mingyang/HhP)]
+*Biometrics*, 2022+, In press. [[Article](https://doi.org/10.1111/biom.13544)] [[Codes](https://github.com/Ren-Mingyang/HhP)] [[R package](https://cran.r-project.org/web/packages/HhP/)]
 - Gaussian graphical model-based heterogeneity analysis via penalized fusion  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 *Biometrics*, 2022. [[Article](https://doi.org/10.1111/biom.13426)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] [[R package](https://CRAN.R-project.org/package=HeteroGGM)]
