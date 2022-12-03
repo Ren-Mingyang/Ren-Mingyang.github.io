@@ -15,7 +15,7 @@ Email: mingyangren[at]cuhk[dot]edu[dot]hk
 
 ## Educations
 - Sep. 2017 - Jul. 2022,  Ph.D. in *Mathematical Statistics*  
-[School of Mathematics Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
+[School of Mathematical Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
 Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 - Dec. 2019 - Dec. 2020,  Joint Ph.D in *Biostatistics*  
 [Department of Biostatistics, School of Public Health](https://publichealth.yale.edu/), [Yale University](https://www.yale.edu/)   
