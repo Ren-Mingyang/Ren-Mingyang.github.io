@@ -20,7 +20,7 @@ author_profile: true
 
 
 
-## Statistical Publications and Submitted Papers
+## Statistical Publications
 - - -
 
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
