@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-## Statistical Publications and Submitted Papers
+## Submitted Papers
 - - -
 
 - Transfer learning for tensor Gaussian graphical models     
@@ -18,6 +17,12 @@ author_profile: true
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
 *Biometrics*, 2022+, Revision Invited. [[R package](https://github.com/Ren-Mingyang/cencrne)]
+
+
+
+## Statistical Publications and Submitted Papers
+- - -
+
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
 *Biometrics*, 2022+, In press. [[Article](https://doi.org/10.1111/biom.13544)] [[Codes](https://github.com/Ren-Mingyang/HhP)] [[R package](https://cran.r-project.org/web/packages/HhP/)]
