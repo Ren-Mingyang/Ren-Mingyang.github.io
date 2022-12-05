@@ -21,7 +21,6 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Jan. 12**, my first medical SCI article was accepted in ***Ophthalmology and Therapy***.
 
 ## 2021
-- ***Year-end Summary***. It was a rewarding year, with the acceptance of all the statistical papers in my PhD work, completion of my doctoral dissertation, confirmation of my graduation destination, and marriage, just waiting to graduate. Hope the future is as fortunate as this year.
 - **Dec. 1**, I came to CityU as a research assistant starting **a new and first journey in Hong Kong**. Frankly, I was surprised to feel that the Yuquan Road campus of UCAS is not really small comparing to CityU.  
                    <img src="../images/HKb.jpg" width="40%"> <img src="../images/HKb1.jpg" width="40%">
 - **Nov. 10**, I received ***[National Scholarship for Doctoral Students](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)*** after two defenses at the school and university.
@@ -37,7 +36,6 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Jan. 6**, a happy start of the year! Our article "Gaussian graphical model-based heterogeneity analysis via penalized fusion" was accepted in ***Biometrics***.
 
 ## 2020
-- ***Year-end Summary***. It was a year of writing papers and delving into cooking uneventfully, trapped at home with little news.
 - **Dec. 17**, I successfully returned home after the one-year joint Ph.D. program at "Jialidun" university! It was a hard journey during the COVID-19 pandemic in the US. The main memory of this year, reluctantly, was the scenery of the four seasons outside the window, while it was not bad...  
                     <img src="../images/hom.jpg" width="20%"> <img src="../images/eas.jpg" width="40%"> <img src="../images/new3.jpg" width="20%">
 - **Sep. 24**, I received the **President Award of Academy of Mathematics and Systems Sciences**, Chinese Academy of Sciences.
@@ -48,7 +46,6 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
                     <img src="../images/pand2.jpg" width="15%"> <img src="../images/pand1.jpg" width="31%"> 
 
 ## 2019
-- ***Year-end Summary***. Embarked on an "exotic" journey. 
 - **Dec. 15**, I arrived in cold New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
                      <img src="../images/new.jpg" width="17%"> <img src="../images/snow.jpg" width="17%"> <img src="../images/new1.jpg" width="30%"> 
 - **Nov. 2**, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics* and gave a small talk in Beijing.     
@@ -60,7 +57,6 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 
                      
 ## 2018
-- ***Year-end Summary***. The cumbersome move and a bit too many meetings were the two "themes" of the year.
 - **Nov. 30**, I attended *The First Workshop on Data Science and Big Data in Health Care of Xiamen University* and gave a small talk. Xiamen is really a beautiful city.  
                     <img src="../images/xia.jpg" width="25%">
 - **Oct. 28**, I attended *The 11th National Annual Conference on Probability and Statistics* gave a small talk in Chengdu. This is a revisit to the same place after 4 years.   
