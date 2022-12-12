@@ -8,22 +8,22 @@ author_profile: true
 - **TransTGGM** [Link to [*CRAN*](https://cran.r-project.org/web/packages/TransTGGM/)]   
 An R package for Transfer learning for tensor Gaussian graphical models.  
 *Reference*:  
-- [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022.
+-- [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022.
 
 - **cencrne** [Link to [*Github*](https://github.com/Ren-Mingyang/cencrne)]   
 An R package for consistent estimation of the number of communities via regularized network embedding.  
 *Reference*:  
-- Consistent estimation of the number of communities via regularized network embedding, Manuscript.
+-- Consistent estimation of the number of communities via regularized network embedding, Manuscript.
 
 - **HhP** [Link to [*CRAN*](https://cran.r-project.org/web/packages/HhP/)]   
 An R package for hierarchical heterogeneity analysis. The current version contains only regression-based supervised hierarchical heterogeneity analysis, and will be supplemented with Gaussian graphical model-based unsupervised hierarchical heterogeneity analysis in the next step.  
 *Reference*:  
 [Hierarchical cancer heterogeneity analysis based on histopathological imaging features](https://doi.org/10.1111/biom.13544), Biometrics, 2022+.    
-- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data, Manuscript.
+-- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data, Manuscript.
 
 - **HeteroGGM** [Link to [*CRAN*](https://CRAN.R-project.org/package=HeteroGGM)]   
 An R package for Gaussian graphical model-based heterogeneity analysis.  
 *Reference*:  
-- [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426), Biometrics, 2022.  
-- [HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis](https://doi.org/10.1093/bioinformatics/btab134), Bioinformatics, 2021.     
+-- [Gaussian graphical model-based heterogeneity analysis via penalized fusion](https://doi.org/10.1111/biom.13426), Biometrics, 2022.  
+-- [HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis](https://doi.org/10.1093/bioinformatics/btab134), Bioinformatics, 2021.     
  
