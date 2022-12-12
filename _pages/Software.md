@@ -8,7 +8,7 @@ author_profile: true
 - **TransTGGM** [Link to [*CRAN*](https://cran.r-project.org/web/packages/TransTGGM/)]   
 An R package for Transfer learning for tensor Gaussian graphical models.  
 *Reference*:  
-* [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022.
+· [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022.
 
 - **cencrne** [Link to [*Github*](https://github.com/Ren-Mingyang/cencrne)]   
 An R package for consistent estimation of the number of communities via regularized network embedding.  
