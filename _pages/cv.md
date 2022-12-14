@@ -44,6 +44,7 @@ permalink: /cv/
 
 ## 荣誉奖项
 - - -
+- 2023 &emsp; ENAR会议杰出学生论文奖 &emsp; International Biometric Society
 - 2022 &emsp; [中国科学院 院长奖（优秀奖）](https://math.ucas.ac.cn/index.php/zh-CN/news/2765-2022-2)
 - 2021 &emsp; [博士生国家奖学金](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)
 - 2021 &emsp; [朱李月华优秀博士生奖学金](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2) &emsp; 中国科学院大学
