@@ -14,7 +14,7 @@ Under review. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://c
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
 Under review.  
-This work wins Distinguished Student Paper Award from the International Biometric Society ENAR 2023 spring meeting.
+This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
 *Biometrics*, Revision Invited. [[R package](https://github.com/Ren-Mingyang/cencrne)]
