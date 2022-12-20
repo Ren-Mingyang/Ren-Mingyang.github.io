@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 - **TransTGGM** [Link to [*CRAN*](https://cran.r-project.org/web/packages/TransTGGM/)]   
-An R package for Transfer learning for tensor Gaussian graphical models.  
+An R package for transfer learning for tensor Gaussian graphical models.  
 *Reference*:  
 **·** [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022.
 
