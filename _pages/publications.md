@@ -15,15 +15,15 @@ Under review. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://c
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
 Under review.  
 This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.
-- Consistent Estimation of the Number of Communities via Regularized Network Embedding   
-**Mingyang Ren**, Sanguo Zhang & Junhui Wang  
-*Biometrics*, Revision Invited. [[R package](https://github.com/Ren-Mingyang/cencrne)]
 
 
 
 ## Statistical Publications
 - - -
 
+- Consistent Estimation of the Number of Communities via Regularized Network Embedding   
+**Mingyang Ren**, Sanguo Zhang & Junhui Wang  
+*Biometrics*, 2023+, In press. [[Codes](https://github.com/Ren-Mingyang/net-community-number-est)] [[R package](https://github.com/Ren-Mingyang/cencrne)]
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
 *Biometrics*, 2022+, In press. [[Article](https://doi.org/10.1111/biom.13544)] [[Codes](https://github.com/Ren-Mingyang/HhP)] [[R package](https://cran.r-project.org/web/packages/HhP/)]
