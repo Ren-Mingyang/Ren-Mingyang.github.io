@@ -6,6 +6,7 @@ title: "News & Gallery"
 This column will be updated with some personal news and casual thoughts.  
 
 ## 2022
+- **Dec. 21**, our article "Consistent Estimation of the Number of Communities via Regularized Network Embedding" was accepted in ***Biometrics***.
 - **Dec. 1**, our R packages "[***HhP***](https://ren-mingyang.github.io//software/)" and "[***TransTGGM***](https://ren-mingyang.github.io//software/)" are available on CRAN.
 - **Nov. 22**, our R package "[***cencrne***](https://ren-mingyang.github.io//software/)" is available on my Github.
 - **Nov. 17**, our manuscript "[Transfer learning for tensor Gaussian graphical model](https://arxiv.org/abs/2211.09391)" is available on arXiv.
