@@ -26,7 +26,7 @@ This work wins *Distinguished Student Paper Award* from the International Biomet
 *Biometrics*, 2023+, In press. [[Codes](https://github.com/Ren-Mingyang/net-community-number-est)] [[R package](https://github.com/Ren-Mingyang/cencrne)]
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
-*Biometrics*, 2022+, In press. [[Article](https://doi.org/10.1111/biom.13544)] [[Codes](https://github.com/Ren-Mingyang/HhP)] [[R package](https://cran.r-project.org/web/packages/HhP/)]
+*Biometrics*, 2022. [[Article](https://doi.org/10.1111/biom.13544)] [[Codes](https://github.com/Ren-Mingyang/HhP)] [[R package](https://cran.r-project.org/web/packages/HhP/)]
 - Gaussian graphical model-based heterogeneity analysis via penalized fusion  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 *Biometrics*, 2022. [[Article](https://doi.org/10.1111/biom.13426)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] [[R package](https://CRAN.R-project.org/package=HeteroGGM)]
