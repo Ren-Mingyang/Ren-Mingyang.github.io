@@ -11,7 +11,7 @@ This column will be updated with some personal news and casual thoughts.
 ## 2022
 - **Dec. 1**, our R packages "[***HhP***](https://ren-mingyang.github.io//software/)" and "[***TransTGGM***](https://ren-mingyang.github.io//software/)" were available on CRAN.
 - **Nov. 17**, our manuscript "[Transfer learning for tensor Gaussian graphical model](https://arxiv.org/abs/2211.09391)" was available on arXiv.
-- **Sep. 26**, our medical article "Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia" was published online in the top journal ***JAMA Pediatrics***.
+- **Sep. 26**, our medical article "Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia" in ***JAMA Pediatrics*** was published online.
 - **Aug. 1**, I started a new phase as a postdoctoral fellow at CUHK, another beautiful campus by the mountains and water in my journey.   
                   <img src="../images/CUHK1.jpg" width="50%"> <img src="../images/CUHK2.jpg" width="30%">   
                   <img src="../images/CUHK4.jpg" width="30%"> <img src="../images/CUHK3.jpg" width="50%"> 
