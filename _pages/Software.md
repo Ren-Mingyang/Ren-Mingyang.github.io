@@ -10,7 +10,7 @@ An R package for transfer learning for tensor Gaussian graphical models.
 *Reference*:  
 **·** [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022.
 
-- **cencrne** [Link to [*Github*](https://github.com/Ren-Mingyang/cencrne)]   
+- **cencrne** [Link to [*Github*](https://CRAN.R-project.org/package=cencrne)]   
 An R package for consistent estimation of the number of communities via regularized network embedding.  
 *Reference*:  
 **·** [Consistent estimation of the number of communities via regularized network embedding](https://doi.org/10.1111/biom.13815), Biometrics, 2023+.
