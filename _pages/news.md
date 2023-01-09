@@ -6,10 +6,11 @@ title: "News & Gallery"
 This column will be updated with some personal news and casual thoughts.  
 
 ## 2023
-- **Jan. 7**, our article "Consistent Estimation of the Number of Communities via Regularized Network Embedding" in ***Biometrics*** was published online, and the corresponding R package "[***cencrne***](https://ren-mingyang.github.io//software/)" was available on my Github.
+- **Jan. 7**, our article "Consistent Estimation of the Number of Communities via Regularized Network Embedding" in ***Biometrics*** was published online, and the corresponding R package "[***cencrne***](https://ren-mingyang.github.io//software/)" was available on CRAN.
 
 ## 2022
-- **Dec. 1**, our R packages "[***HhP***](https://ren-mingyang.github.io//software/)" and "[***TransTGGM***](https://ren-mingyang.github.io//software/)" were available on CRAN.
+- **Dec. 1**, our R package "[***TransTGGM***](https://ren-mingyang.github.io//software/)" was available on CRAN.
+- **Nov. 23**, our R package "[***HhP***](https://ren-mingyang.github.io//software/)" was available on CRAN.
 - **Nov. 17**, our manuscript "[Transfer learning for tensor Gaussian graphical model](https://arxiv.org/abs/2211.09391)" was available on arXiv.
 - **Sep. 26**, our medical article "Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia" in ***JAMA Pediatrics*** was published online.
 - **Aug. 1**, I started a new phase as a postdoctoral fellow at CUHK, another beautiful campus by the mountains and water in my journey.   
