@@ -45,8 +45,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Aug. 17**, my first SCI article was finally accepted by ***AISM*** after 2 years of submission and revision, which is perhaps the small start of my academic career.
 - **May. 14**, the first time out of the house after about 2 months of working from home during the COVID-19 pandemic.  
                     <img src="../images/new2.jpg" width="26%"> <img src="../images/new4.jpg" width="27%"> 
-- **Mar. 12**, the COVID-19 pandemic in the United States had begun, and residents' panic was spreading. We stocked up on frozen meat that could be consumed for about two months and were preparing to enter a period of working from home. Hope everything would get better soon.    
-                    <img src="../images/pand2.jpg" width="15%"> <img src="../images/pand1.jpg" width="31%"> 
+- **Mar. 12**, the COVID-19 pandemic in the United States had begun, and residents' panic was spreading. We were preparing to enter a period of working from home. Hope everything would get better soon. 
 
 ## 2019
 - **Dec. 15**, I arrived in cold New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
