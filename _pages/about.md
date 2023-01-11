@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Mingyang Ren 任明旸
+Mingyang Ren 任明旸  
 Postdoctoral Fellow  
 Department of Statistics, The Chinese University of Hong Kong  
 Email: mingyangren[at]cuhk[dot]edu[dot]hk  
