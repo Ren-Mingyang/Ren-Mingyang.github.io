@@ -3,7 +3,7 @@ permalink: /talks/
 title: "Talks"
 ---
 
-## Conference Reports
+## Conference Group Reports
 - Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
 *The 19th Annual Conference of Chinese Association for Applied Statistics*  
 Beijing, China, Nov. 2019.
