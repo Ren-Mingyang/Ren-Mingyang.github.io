@@ -1,9 +1,8 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Teaching Experiences and Professional Services"
 ---
 
-Teaching Experiences and Professional Services
 ## Teaching Assistant
   Postgraduate Courses in University of Chinese Academy of Sciences:  
 - Advanced Mathematical Statistics (Fall 2018)  
@@ -19,6 +18,8 @@ Teaching Experiences and Professional Services
 - *Introduction to Artificial Intelligence*, The Short Internship Program organized by New Oriental Education in 2019.
 
 ## Journal Reviewer
-
+- Journal of the American Statistical Association
+- Annals of the Institute of Statistical Mathematics
+- Scientific Reports
 
 
