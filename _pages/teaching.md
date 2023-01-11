@@ -19,6 +19,7 @@ title: "Teaching Experiences and Professional Services"
 
 ## Journal Reviewer
 - Journal of the American Statistical Association
+- Statistics in Medicine
 - Annals of the Institute of Statistical Mathematics
 - Scientific Reports
 
