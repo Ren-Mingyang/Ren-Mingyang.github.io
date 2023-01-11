@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Mingyang Ren"
 title_separator          : "-"
-name                     : &name "Mingyang Ren"
+name                     : &name "Mingyang Ren   (任明旸)"
 description              : &description "Postdoctoral Fellow"
 url                      : https://ren-mingyang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
