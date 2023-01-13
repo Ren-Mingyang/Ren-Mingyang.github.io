@@ -6,7 +6,8 @@ title: "News & Gallery"
 This column will be updated with some personal news and casual thoughts.  
 
 ## 2023
-- **Jan. 7**, our article "Consistent Estimation of the Number of Communities via Regularized Network Embedding" in ***Biometrics*** was published online, and the corresponding R package "[***cencrne***](https://ren-mingyang.github.io//software/)" was available on CRAN.
+- **Jan. 9**, our R package "[***cencrne***](https://ren-mingyang.github.io//software/)" was available on CRAN.
+- **Jan. 7**, our article "Consistent Estimation of the Number of Communities via Regularized Network Embedding" in ***Biometrics*** was published online.
 - **Jan. 5**, the trip to Kansai and Hokkaido was wonderful.   
                   <img src="../images/Jp1.jpg" width="40%"> <img src="../images/Jp2.jpg" width="40%">   
                   <img src="../images/Jp3.jpg" width="40%"> <img src="../images/Jp4.jpg" width="40%"> 
