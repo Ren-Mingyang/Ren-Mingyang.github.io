@@ -5,15 +5,15 @@ permalink: /software/
 author_profile: true
 ---
 
-- **TransTGGM** [Link to [*CRAN*](https://cran.r-project.org/web/packages/TransTGGM/)]   
-An R package for transfer learning for tensor Gaussian graphical models.  
-*Reference*:  
-**·** [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022.
-
 - **cencrne** [Link to [*CRAN*](https://CRAN.R-project.org/package=cencrne)]   
 An R package for consistent estimation of the number of communities via regularized network embedding.  
 *Reference*:  
 **·** [Consistent estimation of the number of communities via regularized network embedding](https://doi.org/10.1111/biom.13815), Biometrics, 2023+.
+
+- **TransTGGM** [Link to [*CRAN*](https://cran.r-project.org/web/packages/TransTGGM/)]   
+An R package for transfer learning for tensor Gaussian graphical models.  
+*Reference*:  
+**·** [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022.
 
 - **HhP** [Link to [*CRAN*](https://cran.r-project.org/web/packages/HhP/)]   
 An R package for hierarchical heterogeneity analysis. The current version contains only regression-based supervised hierarchical heterogeneity analysis, and will be supplemented with Gaussian graphical model-based unsupervised hierarchical heterogeneity analysis in the next step.  
