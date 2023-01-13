@@ -5,6 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
+
 - **cencrne** [Link to [*CRAN*](https://CRAN.R-project.org/package=cencrne)]   
 An R package for consistent estimation of the number of communities via regularized network embedding.  
 *Reference*:  
