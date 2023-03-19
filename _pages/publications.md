@@ -30,7 +30,7 @@ This work wins *Distinguished Student Paper Award* from the International Biomet
 - Gaussian graphical model-based heterogeneity analysis via penalized fusion  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 *Biometrics*, 2022. [[Article](https://doi.org/10.1111/biom.13426)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] [[R package](https://CRAN.R-project.org/package=HeteroGGM)]
-- Gene-environment interaction identication via penalized robust divergence  
+- Gene-environment interaction identification via penalized robust divergence  
 **Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang  
 *Biometrical Journal*, 2022. [[Article](https://doi.org/10.1002/bimj.202000157)] [[Codes](https://github.com/Ren-Mingyang/GE-PRD)]
 - HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
