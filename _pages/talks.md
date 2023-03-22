@@ -4,6 +4,9 @@ title: "Talks"
 ---
 
 ## Conference Group Reports
+- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data
+*ENAR 2023 Spring Meeting, International Biometric Society*  
+Nashville, TN, USA, Mar. 2023.
 - Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
 *The 19th Annual Conference of Chinese Association for Applied Statistics*  
 Beijing, China, Nov. 2019.
