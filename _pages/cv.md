@@ -58,6 +58,9 @@ permalink: /cv/
 
 ## 会议报告
 - - -
+- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
+*ENAR 2023 Spring Meeting, International Biometric Society*  
+美国纳什维尔，2023年3月
 - Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
 *第十九届中国现场统计研究会学术年会*  
 中国北京，2019年11月
