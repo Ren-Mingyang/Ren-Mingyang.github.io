@@ -3,7 +3,7 @@ permalink: /talks/
 title: "Talks"
 ---
 
-## Conference Group Reports
+## Contributed Conference Talks
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
 *ENAR 2023 Spring Meeting, International Biometric Society*  
 Nashville, TN, USA, Mar. 2023.
