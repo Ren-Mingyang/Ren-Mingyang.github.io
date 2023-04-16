@@ -13,7 +13,6 @@ author_profile: true
 Under review. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://cran.r-project.org/web/packages/TransTGGM/)]
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
-Under review.  
 This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.
 
 
