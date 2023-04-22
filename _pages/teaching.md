@@ -25,5 +25,5 @@ title: "Teaching Experiences and Professional Services"
 - Scientific Reports
 
 ## Professional Society Membership
-Eastern North American Region (ENAR), International Biometric Society
+2022 - Current, Eastern North American Region (ENAR), International Biometric Society
 
