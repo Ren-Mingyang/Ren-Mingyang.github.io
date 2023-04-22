@@ -24,4 +24,6 @@ title: "Teaching Experiences and Professional Services"
 - Annals of the Institute of Statistical Mathematics
 - Scientific Reports
 
+## Professional Society Membership
+Eastern North American Region (ENAR), International Biometric Society
 
