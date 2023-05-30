@@ -8,7 +8,7 @@ title: "Teaching Experiences and Professional Services"
 - Regression Analysis (Fall 2019, Fall 2018)
 - Analysis of High-Dimensional Biostatistical Data (Summer 2019) 
 - Modern Statistical Methods (Spring 2019)  
- 
+- Advanced Mathematical Statistics (Fall 2018)
 
 ## Class Adviser
 2018 Undergraduate Mathematical Class in University of Chinese Academy of Sciences.
