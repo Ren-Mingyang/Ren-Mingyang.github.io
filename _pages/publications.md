@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+(* corresponding author, \ \# co-first author)
+
 ## Submitted Papers
 - - -
 
@@ -13,8 +15,10 @@ author_profile: true
 Under review. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://cran.r-project.org/web/packages/TransTGGM/)]
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
-This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.
-
+This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.  
+- Network embedding-based directed community detection with unknown community number
+Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren** *
+Under review. 
 
 
 ## Statistical Publications
@@ -48,15 +52,12 @@ Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang
 
 ## Medical Publications
 - - -
-
-**#co-first author**  
+ 
 - Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial    
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
 *JAMA Pediatrics*, 2022. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
 - Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study  
 Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
 *Ophthalmology and Therapy*, 2022. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
-- Effectiveness of myopia prediction model in screening children and teenager myopia (In Chinese)  
-Shiming Li, **Mingyang Ren**, Sanguo Zhang, He Li, Luoru Liu & Ningli Wang  
-*Chinese Journal of Experimental Ophthalmology*, 2019. [[Article](http://rs.yiigle.com/CN115989201904/1129307.htm)]  
+
 
