@@ -55,8 +55,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 ## 2019
 - **Dec. 15**, I arrived in cold New Haven and was greeted by a fierce snowstorm, which may have been a surprise to me after not seeing snow for several years.  
                      <img src="../images/new.jpg" width="17%"> <img src="../images/snow.jpg" width="17%"> <img src="../images/new1.jpg" width="30%"> 
-- **Nov. 2**, I attended *The 19th Annual Conference of Chinese Association for Applied Statistics* and gave a talk in Beijing.     
-                    <img src="../images/talk.jpg" width="40%">          
+- **Nov. 2**, I presented our work at *The 19th Annual Conference of Chinese Association for Applied Statistics* in Beijing.             
 - **Aug. 2**, I was invited to give a report "Let data speak" on *Academic forum of Lake Research Institute*, Chinese Research Academy of Environmental Sciences.
 - **Jul. 26**, I was awarded ***[a scholarship by the UCAS in Joint PhD Program](https://www.ucas.ac.cn/site/157?u=67789)*** and would go to Yale University for one year.
 - **Jun. 18**, I gave a talk in the graduate academic seminar organized by the graduate association of National Science library and AMSS, CAS. [**[news](https://mp.weixin.qq.com/s/OwGjg-RwRffqb8P3X7mHJQ)**]  
@@ -64,9 +63,9 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 
                      
 ## 2018
-- **Nov. 30**, I attended *The First Workshop on Data Science and Big Data in Health Care of Xiamen University* and gave a talk. Xiamen is really a beautiful city.  
+- **Nov. 30**, I presented our work at *The First Workshop on Data Science and Big Data in Health Care of Xiamen University*. Xiamen is really a beautiful city.  
                     <img src="../images/xia.jpg" width="25%">
-- **Oct. 28**, I attended *The 11th National Annual Conference on Probability and Statistics* gave a talk in Chengdu. This is a revisit to the same place after 4 years.   
+- **Oct. 28**, I presented our work at *The 11th National Annual Conference on Probability and Statistics* in Chengdu. This is a revisit to the same place after 4 years.   
 - **Sep. 2**, I came to Yuquan Road campus of UCAS, which was perhaps the smallest campus I have ever lived on.  
                      <img src="../images/yuq.jpg" width="25%">  <img src="../images/yuq1.jpg" width="14%">  
 - **Aug. 25**, I attended *Resource and Environment Statistics Conference of Chinese Association for Applied Statistics* in Yinchuan.
