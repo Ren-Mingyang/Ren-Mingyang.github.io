@@ -69,7 +69,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Sep. 2**, I came to Yuquan Road campus of UCAS, which was perhaps the smallest campus I have ever lived on.  
                      <img src="../images/yuq.jpg" width="25%">  <img src="../images/yuq1.jpg" width="14%">  
 - **Aug. 25**, I attended *Resource and Environment Statistics Conference of Chinese Association for Applied Statistics* in Yinchuan.
-- **Apr. 21**, I attended *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*, learnt cutting-edge knowledge from various outstanding speakers, and gave a talk in Nanchang.
+- **Apr. 21**, I presented our work at *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Nanchang.
 
 ## 2017
 - **Aug. 24**, I came to Yanqi Lake campus of UCAS to **start my PhD journey**. This is also a place with beautiful scenery by the mountain and water.    
