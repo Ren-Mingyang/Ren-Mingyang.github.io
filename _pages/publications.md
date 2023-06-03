@@ -16,8 +16,8 @@ Under review. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://c
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
 This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.  
-- Network embedding-based directed community detection with unknown community number
-Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren** *
+- Network embedding-based directed community detection with unknown community number  
+Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren** *  
 Under review. 
 
 
