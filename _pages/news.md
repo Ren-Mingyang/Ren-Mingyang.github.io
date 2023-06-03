@@ -59,7 +59,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Aug. 2**, I was invited to give a report "Let data speak" on *Academic forum of Lake Research Institute*, Chinese Research Academy of Environmental Sciences.
 - **Jul. 26**, I was awarded ***[a scholarship by the UCAS in Joint PhD Program](https://www.ucas.ac.cn/site/157?u=67789)*** and would go to Yale University for one year.
 - **Jun. 18**, I gave a talk in the graduate academic seminar organized by the graduate association of National Science library and AMSS, CAS. [**[news](https://mp.weixin.qq.com/s/OwGjg-RwRffqb8P3X7mHJQ)**]  
-- **Apr. 20**, I attended *The 5th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Hangzhou.
+- **Apr. 20**, I presented our work at *The 5th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Hangzhou.
 
                      
 ## 2018
