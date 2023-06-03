@@ -68,7 +68,6 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Oct. 28**, I presented our work at *The 11th National Annual Conference on Probability and Statistics* in Chengdu. This is a revisit to the same place after 4 years.   
 - **Sep. 2**, I came to Yuquan Road campus of UCAS, which was perhaps the smallest campus I have ever lived on.  
                      <img src="../images/yuq.jpg" width="25%">  <img src="../images/yuq1.jpg" width="14%">  
-- **Aug. 25**, I attended *Resource and Environment Statistics Conference of Chinese Association for Applied Statistics* in Yinchuan.
 - **Apr. 21**, I presented our work at *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Nanchang.
 
 ## 2017
