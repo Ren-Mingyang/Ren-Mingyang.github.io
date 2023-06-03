@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-(* corresponding author, \ \# co-first author)
+(* corresponding author, \# co-first author)
 
 ## Submitted Papers
 - - -
