@@ -9,7 +9,9 @@ author_profile: true
 
 ## Submitted Papers
 - - -
-
+- Transfer learning of non-Gaussian DAG     
+**Mingyang Ren**, Xin He & Junhui Wang  
+Under review. 
 - Transfer learning for tensor Gaussian graphical models     
 **Mingyang Ren**, Yaoming Zhen & Junhui Wang  
 Under review. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://cran.r-project.org/web/packages/TransTGGM/)]
