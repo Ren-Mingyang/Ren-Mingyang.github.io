@@ -3,7 +3,7 @@ permalink: /news/
 title: "News & Gallery"
 ---
 
-This column will be updated with some personal news and casual thoughts.  
+This column will be updated with some personal news.  
 
 ## 2023
 - **Mar. 21**, I presented our work as a *Distinguished Student Paper Award* winner at the *ENAR 2023 Spring Meeting*. Nashville's music Broadway and hot chicken are so crazy!
