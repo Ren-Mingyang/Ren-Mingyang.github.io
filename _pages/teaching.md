@@ -14,8 +14,10 @@ title: "Teaching Experiences and Professional Services"
 2018 Undergraduate Mathematical Class in University of Chinese Academy of Sciences.
 
 ## Instructor
-- *High Dimensional Regression and Regularization*, Machine Learning Seminar for undergraduates, University of Chinese Academy of Sciences (Fall 2018, Fall 2019).  
-- *Introduction to Artificial Intelligence*, The Short Internship Program organized by New Oriental Education in 2019.
+- *High Dimensional Regression and Regularization*  
+Machine Learning Seminar for undergraduates, University of Chinese Academy of Sciences (Fall 2018, Fall 2019).  
+- *Introduction to Artificial Intelligence*  
+A Short Internship Program organized by New Oriental Education in 2019.
 
 ## Journal Reviewer
 - Journal of the American Statistical Association
