@@ -27,3 +27,10 @@ title: "Teaching Experiences and Professional Services"
 ## Professional Society Membership
 2022 - Current, Eastern North American Region (ENAR), International Biometric Society
 
+## Science popularization report
+- *Topic*: Statistics in Life  
+Huaibei High School, Beijing, China, May 2021.  
+Huaibei No.12 High School, Anhui, China, June 2021.  
+
+
+
