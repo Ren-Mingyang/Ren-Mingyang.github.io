@@ -23,6 +23,7 @@ title: "Teaching Experiences and Professional Services"
 - Statistics in Medicine
 - Annals of the Institute of Statistical Mathematics
 - Scientific Reports
+- ACM Transactions on Mathematical Software
 
 ## Professional Society Membership
 2022 - Current, Eastern North American Region (ENAR), International Biometric Society
