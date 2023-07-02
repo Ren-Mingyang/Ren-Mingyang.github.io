@@ -47,9 +47,6 @@ Under review.
 - Empirical likelihood test for regression coefficients in high-dimensional partially linear models  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]
-- Robust ordinal mislabel logistic regression based on gamma-divergence  
-Meijun Guo, **Mingyang Ren**, Shiming Li & Sanguo Zhang  
-*Journal of University of Chinese Academy of Sciences*, 2022. [[Article](http://journal.ucas.ac.cn/CN/10.7523/j.ucas.2020.0056)]   
 
 
 ## Medical Publications
