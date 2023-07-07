@@ -29,7 +29,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Jan. 12**, my first medical SCI article was accepted in ***Ophthalmology and Therapy***.
 
 ## 2021
-- **Dec. 1**, I came to CityU as a research assistant starting **a new and first journey in Hong Kong**. Frankly, I was surprised to feel that the Yuquan Road campus of UCAS is not really small comparing to CityU.  
+- **Dec. 1**, I came to CityU as a research assistant starting **a new and first journey in Hong Kong**. Frankly, I was surprised to feel that the Yuquan Road campus of UCAS is not really small compared to CityU.  
                    <img src="../images/HKb.jpg" width="40%"> <img src="../images/HKb1.jpg" width="40%">
 - **Nov. 10**, I received ***[National Scholarship for Doctoral Students](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)*** after two defenses at the school and university.
 - **Oct. 13**, our article "Gene–environment interaction identification via penalized robust divergence" was accepted by ***Biometrical Journal***.
@@ -59,7 +59,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Aug. 2**, I was invited to give a report "Let data speak" on *Academic forum of Lake Research Institute*, Chinese Research Academy of Environmental Sciences.
 - **Jul. 26**, I was awarded ***[a scholarship by the UCAS in Joint PhD Program](https://old-www.ucas.ac.cn/site/157?u=67789)*** and would go to Yale University for one year.
 - **Jun. 18**, I gave a talk in the graduate academic seminar organized by the graduate association of National Science library and AMSS, CAS. [**[news](https://mp.weixin.qq.com/s/OwGjg-RwRffqb8P3X7mHJQ)**]  
-- **Apr. 20**, I presented our work at *The 5th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Hangzhou.
+- **Apr. 20**, I presented our work at *The 5th High Dimensional Data Conference of the Chinese Association for Applied Statistics* in Hangzhou.
 
                      
 ## 2018
@@ -68,7 +68,7 @@ Overall, it has been a memorable PhD journey for me, during which I have studied
 - **Oct. 28**, I presented our work at *The 11th National Annual Conference on Probability and Statistics* in Chengdu. This is a revisit to the same place after 4 years.   
 - **Sep. 2**, I came to Yuquan Road campus of UCAS, which was perhaps the smallest campus I have ever lived on.  
                      <img src="../images/yuq.jpg" width="25%">  <img src="../images/yuq1.jpg" width="14%">  
-- **Apr. 21**, I presented our work at *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics* in Nanchang.
+- **Apr. 21**, I presented our work at *The 4th High Dimensional Data Conference of the Chinese Association for Applied Statistics* in Nanchang.
 
 ## 2017
 - **Aug. 24**, I came to Yanqi Lake campus of UCAS to **start my PhD journey**. This is also a place with beautiful scenery by the mountain and water.    
