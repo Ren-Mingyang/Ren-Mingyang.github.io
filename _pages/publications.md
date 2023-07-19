@@ -19,8 +19,10 @@ Under review. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://c
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
 This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.  
 - Network embedding-based directed community detection with unknown community number  
-Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren** *  
-Under review. 
+Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***  
+Under review.
+- Information-incorporated Sparse Hierarchical Cancer Heterogeneity Analysis
+Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren*** 
 
 
 ## Statistical Publications
