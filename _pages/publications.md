@@ -22,7 +22,7 @@ Under review. This work wins *Distinguished Student Paper Award* from the Intern
 Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***  
 Under review.
 - Information-incorporated Sparse Hierarchical Cancer Heterogeneity Analysis  
-Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***
+Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
 Under review.
 
 
