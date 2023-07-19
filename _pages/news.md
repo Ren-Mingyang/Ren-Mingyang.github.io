@@ -6,6 +6,7 @@ title: "News & Gallery"
 This column will be updated with some personal news.  
 
 ## 2023
+- **Jul. 12** and **Jul. 14**, I was invited to present our work "Transfer DAG learning" at University of Chinese Academy of Sciences and Renmin University of China 9th International Forum on Statistics.
 - **Mar. 21**, I presented our work as a *Distinguished Student Paper Award* winner at the *ENAR 2023 Spring Meeting*. Nashville's music Broadway and hot chicken are so crazy!
 - **Jan. 9**, our R package "[***cencrne***](https://ren-mingyang.github.io//software/)" was available on CRAN.
 - **Jan. 7**, our article "Consistent Estimation of the Number of Communities via Regularized Network Embedding" in ***Biometrics*** was published online.
