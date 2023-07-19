@@ -4,9 +4,9 @@ title: "Talks"
 ---
 
 ## Invited Talks
-- Transfer DAG learning  
-The 9th International Forum on Statistics, Renmin University of China  
-Beijing, China, Jul. 2023.
+- Transfer DAG learning
+University of Chinese Academy of Sciences, Beijing, China, Jul. 12, 2023.  
+The 9th International Forum on Statistics, Renmin University of China, Beijing, China, Jul. 14, 2023.  
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
 *ENAR 2023 Spring Meeting, International Biometric Society*  
 Nashville, Tennessee, USA, Mar. 2023.
