@@ -76,7 +76,7 @@ permalink: /cv/
 - **授课教师**  
   *高维回归分析与正则化*， 本科生机器学习讨论班，中国科学院大学 (2018年、2019年 秋季学期)  
   *人工智能导论*， 新东方人工智能冬令营，中国北京，2019年1月
-- 期刊审稿人  
+- **期刊审稿人**  
   Journal of the American Statistical Association  
   Biometrics  
   Statistics in Medicine  
