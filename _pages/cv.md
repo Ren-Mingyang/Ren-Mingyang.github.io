@@ -42,6 +42,11 @@ permalink: /cv/
 - [已发表或完成的学术论文](https://ren-mingyang.github.io//publications/)  
 - [谷歌学术主页](https://scholar.google.com/citations?user=eciAdOQAAAAJ&hl=zh-CN)
 
+## 学术报告
+- - -
+[会议报告与邀请报告](https://ren-mingyang.github.io//talks/)
+
+
 ## 荣誉奖项
 - - -
 - 2023 &emsp; ENAR会议杰出学生论文奖, International Biometric Society
@@ -56,43 +61,31 @@ permalink: /cv/
 - 2015 &emsp; 甲等奖学金、优秀学生干部、三星专项奖学金 &emsp; 武汉大学
 - 2014 &emsp; 甲等奖学金 &emsp; 武汉大学
 
-## 会议报告
-- - -
-- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
-*ENAR 2023 Spring Meeting, International Biometric Society*  
-美国纳什维尔，2023年3月
-- Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
-*第十九届中国现场统计研究会学术年会*  
-中国北京，2019年11月
-- Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
-*第十一届中国概率统计学会全国代表大会*  
-中国成都，2018年11月
-- Robust Signed-rank-based High-Dimensional Test for Mean Vector  
-*第四届中国现场统计研究会高维数据统计分会*  
-中国南昌，2018年4月
 
-## 邀请报告
-- - -
-- 主题：生活中的统计学（科普报告）  
-怀北中学，中国北京，2021年5月 [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)]  
-淮北市第十二中学，中国安徽，2021年6月  
-- 主题：让数据说话  
-中国环境科学研究院湖泊生态环境研究所，中国北京，2019年8月
-
-## 教学服务
+## 教学与专业服务
 - - -
 - **助教**  
   中国科学院大学研究生课程:  
-    &emsp; 高等数理统计 (2018年秋季学期)  
-    &emsp; 现代统计方法 (2019年春季学期)  
+    &emsp; 回归分析 (2019年秋季学期)  
     &emsp; 高维生物统计数据分析 (2019年暑期课程)  
-    &emsp; 回归分析 (2019年秋季学期)
+    &emsp; 现代统计方法 (2019年春季学期)  
+    &emsp; 高等数理统计 (2018年秋季学期)
 - **青年班主任**  
   中国科学院大学2018级数学专业本科班级
 - **授课教师**  
   *高维回归分析与正则化*， 本科生机器学习讨论班，中国科学院大学 (2018年、2019年 秋季学期)  
   *人工智能导论*， 新东方人工智能冬令营，中国北京，2019年1月
-
+- 期刊审稿人
+  Journal of the American Statistical Association  
+  Biometrics
+  Statistics in Medicine
+  Annals of the Institute of Statistical Mathematics
+  Scientific Reports
+  ACM Transactions on Mathematical Software
+- **科普报告**
+  主题：生活中的统计学   
+   &emsp; 怀北中学，中国北京，2021年5月 [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)]  
+   &emsp; 淮北市第十二中学，中国安徽，2021年6月  
 
 ## 程序开发
 - - -
