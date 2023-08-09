@@ -44,7 +44,8 @@ permalink: /cv/
 
 ## 学术报告
 - - -
-[会议报告与邀请报告](https://ren-mingyang.github.io//talks/)
+- [邀请报告](https://ren-mingyang.github.io//talks/)
+- [会议报告](https://ren-mingyang.github.io//talks/)
 
 
 ## 荣誉奖项
@@ -77,12 +78,12 @@ permalink: /cv/
   *人工智能导论*， 新东方人工智能冬令营，中国北京，2019年1月
 - 期刊审稿人
   Journal of the American Statistical Association  
-  Biometrics
-  Statistics in Medicine
-  Annals of the Institute of Statistical Mathematics
-  Scientific Reports
+  Biometrics  
+  Statistics in Medicine  
+  Annals of the Institute of Statistical Mathematics  
+  Scientific Reports  
   ACM Transactions on Mathematical Software
-- **科普报告**
+- **科普报告**  
   主题：生活中的统计学   
    &emsp; 怀北中学，中国北京，2021年5月 [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)]  
    &emsp; 淮北市第十二中学，中国安徽，2021年6月  
