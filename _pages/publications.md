@@ -24,7 +24,7 @@ Under review.
 - Information-incorporated Sparse Hierarchical Cancer Heterogeneity Analysis  
 Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
 Under review.
-- Matrix regression heterogeneity analysis
+- Matrix regression heterogeneity analysis  
 Fengchuan Zhang, Sanguo Zhang, *Shiming Li* & **Mingyang Ren***  
 Under review.
 
