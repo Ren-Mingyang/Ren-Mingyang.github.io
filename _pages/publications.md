@@ -25,7 +25,7 @@ Under review.
 Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
 Under review.
 - Matrix regression heterogeneity analysis  
-Fengchuan Zhang, Sanguo Zhang, *Shiming Li** & **Mingyang Ren***  
+Fengchuan Zhang, Sanguo Zhang, Shiming Li* & **Mingyang Ren***  
 Under review.
 
 ## Statistical Publications
