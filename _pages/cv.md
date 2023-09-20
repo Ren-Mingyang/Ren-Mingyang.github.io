@@ -10,11 +10,6 @@ permalink: /cv/
 <b>香港中文大学 统计系</b>  
 <b>电子邮箱: mingyangren[at]cuhk[dot]edu[dot]hk </b>  
 
-## 研究兴趣
-- - -
-- 异质数据分析：迁移学习，亚组分析
-- 高维数据分析：稳健高维回归，高维图模型，张量分析
-- 生物统计：脑功能连接网络分析，癌症基因组学
 
 ## 教育经历
 - - -
@@ -36,6 +31,11 @@ permalink: /cv/
 [香港城市大学](https://www.cityu.edu.hk/) [数据科学学院](https://www.sdsc.cityu.edu.hk/)   
 
 
+## 研究兴趣
+- - -
+- 异质数据分析：迁移学习，亚组分析
+- 高维数据分析：稳健高维回归，高维图模型，张量分析
+- 生物统计：脑功能连接网络分析，癌症基因组学
 
 ## 论文发表
 - - -
@@ -51,11 +51,11 @@ permalink: /cv/
 ## 荣誉奖项
 - - -
 - 2023 &emsp; ENAR会议杰出学生论文奖, International Biometric Society
-- 2022 &emsp; [中国科学院 院长奖（优秀奖）](https://math.ucas.ac.cn/index.php/zh-CN/news/2765-2022-2)
-- 2021 &emsp; [博士生国家奖学金](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)
-- 2021 &emsp; [朱李月华优秀博士生奖学金](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2) &emsp; 中国科学院大学
-- 2021 &emsp; [三好学生标兵](https://math.ucas.ac.cn/index.php/zh-CN/qyntz/2610-2020-2022) &emsp; 中国科学院大学
-- 2020 &emsp; 中国科学院 [数学与系统科学研究院 院长奖（优秀奖）](https://math.ucas.ac.cn/index.php/zh-CN/news/2551-2020-10-07-07-59-36)
+- 2022 &emsp; 中国科学院 院长奖（优秀奖）
+- 2021 &emsp; 博士生国家奖学金
+- 2021 &emsp; 朱李月华优秀博士生奖学金 &emsp; 中国科学院大学
+- 2021 &emsp; 三好学生标兵 &emsp; 中国科学院大学
+- 2020 &emsp; 中国科学院 数学与系统科学研究院 院长奖
 - 2019 &emsp; 优秀学生干部 &emsp; 中国科学院大学
 - 2017 &emsp; 优秀毕业生、甲等奖学金、优秀学生干部 &emsp; 武汉大学
 
