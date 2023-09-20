@@ -57,10 +57,7 @@ permalink: /cv/
 - 2021 &emsp; [三好学生标兵](https://math.ucas.ac.cn/index.php/zh-CN/qyntz/2610-2020-2022) &emsp; 中国科学院大学
 - 2020 &emsp; 中国科学院 [数学与系统科学研究院 院长奖（优秀奖）](https://math.ucas.ac.cn/index.php/zh-CN/news/2551-2020-10-07-07-59-36)
 - 2019 &emsp; 优秀学生干部 &emsp; 中国科学院大学
-- 2017 &emsp; 优秀毕业生 &emsp; 武汉大学
-- 2016 &emsp; 甲等奖学金、优秀学生干部、金石专项奖学金 &emsp; 武汉大学
-- 2015 &emsp; 甲等奖学金、优秀学生干部、三星专项奖学金 &emsp; 武汉大学
-- 2014 &emsp; 甲等奖学金 &emsp; 武汉大学
+- 2017 &emsp; 优秀毕业生、甲等奖学金、优秀学生干部 &emsp; 武汉大学
 
 
 ## 教学与专业服务
@@ -75,7 +72,6 @@ permalink: /cv/
   中国科学院大学2018级数学专业本科班级
 - **授课教师**  
   *高维回归分析与正则化*， 本科生机器学习讨论班，中国科学院大学 (2018年、2019年 秋季学期)  
-  *人工智能导论*， 新东方人工智能冬令营，中国北京，2019年1月
 - **期刊审稿人**  
   Journal of the American Statistical Association  
   Biometrics  
