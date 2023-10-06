@@ -18,7 +18,7 @@ Email: mingyangren[at]cuhk[dot]edu[dot]hk
 - Sep. 2017 - Jul. 2022,  Ph.D. in *Mathematical Statistics*  
 [School of Mathematical Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
 Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
-- Dec. 2019 - Dec. 2020,  Joint Ph.D in *Biostatistics*  
+- Dec. 2019 - Dec. 2020,  Joint Ph.D. in *Biostatistics*  
 [Department of Biostatistics, School of Public Health](https://publichealth.yale.edu/), [Yale University](https://www.yale.edu/)   
 Advisor: Prof. [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/)
 - Sep. 2013 – Jul. 2017,  B.S. in *Mathematics* (Mathematics Base Class)  
@@ -33,7 +33,8 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 
 ## Research Interests
 - Heterogeneous data analysis: transfer learning, subgroup analysis
-- High-dimensional data analysis: robust high-dimensional regression, high-dimensional graphical model, tensor analysis
+- Graphical model: Directed acyclic graph, Gaussian graphical mixture model, network data
+- High-dimensional data analysis: robust high-dimensional regression, tensor analysis
 - Biostatistics: brain functional connectivity network analysis, cancer genomics
 
 ## Awards and Honors
