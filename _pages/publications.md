@@ -11,21 +11,18 @@ author_profile: true
 - - -
 - Transfer learning of non-Gaussian DAG     
 **Mingyang Ren**, Xin He & Junhui Wang  
-- Transfer learning for tensor Gaussian graphical models     
+- Transfer learning for tensor Gaussian graphical models [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://cran.r-project.org/web/packages/TransTGGM/)]     
 **Mingyang Ren**, Yaoming Zhen & Junhui Wang  
-Under review. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://cran.r-project.org/web/packages/TransTGGM/)]
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
-Under review. This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.
+This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.
 - Information-incorporated Sparse Hierarchical Cancer Heterogeneity Analysis  
 Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
 Under revision, *Statistics in Medicine*.
 - Network embedding-based directed community detection with unknown community number  
 Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***  
-Under review.
 - Matrix regression heterogeneity analysis  
 Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***  
-Under review.
 
 ## Statistical Publications
 - - -
