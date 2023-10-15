@@ -38,8 +38,8 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 - Biostatistics: brain functional connectivity network analysis, cancer genomics
 
 ## Awards and Honors
-- 2023 &emsp; *ENAR Distinguished Student Paper Award*, International Biometric Society
-- 2022 &emsp; *Chinese Academy of Sciences President Award (Excellent Prize)*
-- 2021 &emsp; *National Scholarship for Doctoral Students*
-- 2020 &emsp; *Academy of Mathematics and Systems Sciences President Award*, Chinese Academy of Sciences
+- 2023 &emsp; ENAR Distinguished Student Paper Award, International Biometric Society
+- 2022 &emsp; Chinese Academy of Sciences President Award (Excellent Prize)
+- 2021 &emsp; National Scholarship for Doctoral Students
+- 2020 &emsp; Academy of Mathematics and Systems Sciences President Award, Chinese Academy of Sciences
 
