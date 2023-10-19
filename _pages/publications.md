@@ -9,7 +9,7 @@ author_profile: true
 
 ## Submitted Papers
 - - -
-- Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://cran.r-project.org/web/packages/TransGraph/)]      
+- Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)]      
 **Mingyang Ren**, Xin He & Junhui Wang  
 - Transfer learning for tensor Gaussian graphical models [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://cran.r-project.org/web/packages/TransTGGM/)]     
 **Mingyang Ren**, Yaoming Zhen & Junhui Wang  
