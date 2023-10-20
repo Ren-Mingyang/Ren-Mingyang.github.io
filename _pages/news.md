@@ -6,6 +6,7 @@ title: "News & Gallery"
 This column will be updated with some personal news.  
 
 ## 2023
+- **Oct. 20**, our R package "[***TransGraph***](https://ren-mingyang.github.io//software/)" was available on CRAN.
 - **Oct. 17**, our manuscript “Structural transfer learning of non-Gaussian DAG” was available on arXiv.
 - **Jul. 12** and **Jul. 14**, I was invited to present our work "Transfer DAG learning" at University of Chinese Academy of Sciences and Renmin University of China 9th International Forum on Statistics.
 - **Mar. 21**, I presented our work as a *Distinguished Student Paper Award* winner at the *ENAR 2023 Spring Meeting*. Nashville's music Broadway and Hot Chicken are so crazy!
@@ -14,7 +15,6 @@ This column will be updated with some personal news.
 
 
 ## 2022
-- **Dec. 1**, our R package "[***TransTGGM***](https://ren-mingyang.github.io//software/)" was available on CRAN.
 - **Nov. 23**, our R package "[***HhP***](https://ren-mingyang.github.io//software/)" was available on CRAN.
 - **Nov. 17**, our manuscript "[Transfer learning for tensor Gaussian graphical model](https://arxiv.org/abs/2211.09391)" was available on arXiv.
 - **Sep. 26**, our medical article "Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia" in ***JAMA Pediatrics*** was published online.
