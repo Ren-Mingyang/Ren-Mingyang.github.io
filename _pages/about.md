@@ -21,7 +21,7 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 - Dec. 2019 - Dec. 2020,  Joint Ph.D. in *Biostatistics*  
 [Department of Biostatistics, School of Public Health](https://publichealth.yale.edu/), [Yale University](https://www.yale.edu/)   
 Advisor: Prof. [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/)
-- Sep. 2013 – Jul. 2017,  B.S. in *Mathematics* (Mathematics Base Class)  
+- Sep. 2013 – Jul. 2017,  B.S. in *Mathematics*  
 [School of Mathematics and Statistics](http://maths.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)
 
 ## Work Experiences
