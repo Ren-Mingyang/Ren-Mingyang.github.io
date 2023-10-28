@@ -5,7 +5,7 @@ title: "Talks"
 
 ## Invited Talks
 - Structural transfer learning of non-Gaussian DAG     
-Shanghai University of Finance and Economics, Shanghai, China, Oct. 25, 2023.
+Shanghai University of Finance and Economics, Shanghai, China, Oct. 25, 2023.    
 University of Chinese Academy of Sciences, Beijing, China, Jul. 12, 2023.  
 The 9th International Forum on Statistics, Renmin University of China, Beijing, China, Jul. 14, 2023.  
 - Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
