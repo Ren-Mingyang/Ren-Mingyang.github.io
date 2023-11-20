@@ -19,10 +19,11 @@ This work wins *Distinguished Student Paper Award* from the International Biomet
 - Information-incorporated Sparse Hierarchical Cancer Heterogeneity Analysis  
 Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
 Under revision, *Statistics in Medicine*.
+- Matrix regression heterogeneity analysis  
+Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***
+Under revision, *Statistics and Computing*.
 - Network embedding-based directed community detection with unknown community number  
 Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***  
-- Matrix regression heterogeneity analysis  
-Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***  
 
 ## Statistical Publications
 - - -
