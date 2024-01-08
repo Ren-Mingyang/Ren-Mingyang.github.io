@@ -1,9 +1,8 @@
 ---
 permalink: /news/
-title: "News & Gallery"
+title: "News"
 ---
 
-This column will be updated with some personal news.  
 
 ## 2023
 - **Nov. 28**, I was invited to present our series of work at The 16th China-R Conference.
