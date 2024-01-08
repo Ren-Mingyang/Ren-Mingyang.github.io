@@ -25,8 +25,6 @@ Machine Learning Seminar for undergraduates, University of Chinese Academy of Sc
 - Scientific Reports
 - ACM Transactions on Mathematical Software
 
-## Professional Society Membership
-2022 - Current, Eastern North American Region (ENAR), International Biometric Society
 
 ## Science popularization report
 - *Topic*: Statistics in Life  
