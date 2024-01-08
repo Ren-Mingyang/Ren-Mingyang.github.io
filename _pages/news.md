@@ -6,6 +6,7 @@ title: "News & Gallery"
 This column will be updated with some personal news.  
 
 ## 2023
+- **Nov. 28**, I was invited to present our series of work at The 16th China-R Conference.
 - **Oct. 20**, our R package "[***TransGraph***](https://ren-mingyang.github.io//software/)" was available on CRAN.
 - **Oct. 17**, our manuscript "[Structural transfer learning of non-Gaussian DAG](https://arxiv.org/abs/2310.10239)" was available on arXiv.
 - **Jul. 12** and **Jul. 14**, I was invited to present our work "Transfer DAG learning" at University of Chinese Academy of Sciences and Renmin University of China 9th International Forum on Statistics.
