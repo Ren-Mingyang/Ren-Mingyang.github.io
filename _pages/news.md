@@ -20,8 +20,6 @@ This column will be updated with some personal news.
 - **Nov. 17**, our manuscript "[Transfer learning for tensor Gaussian graphical model](https://arxiv.org/abs/2211.09391)" was available on arXiv.
 - **Sep. 26**, our medical article "Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia" in ***JAMA Pediatrics*** was published online.
 - **Aug. 1**, I started a new phase as a postdoctoral fellow at CUHK, another beautiful campus by the mountains and water in my journey.   
-                  <img src="../images/CUHK1.jpg" width="50%"> <img src="../images/CUHK2.jpg" width="30%">   
-                  <img src="../images/CUHK4.jpg" width="30%"> <img src="../images/CUHK3.jpg" width="50%"> 
 - **Jul. 3**, affected by the epidemic, I attended my **doctoral graduation ceremony** online. It announced the end of my 21-year student career and the beginning of a new phase of my life.   
 Overall, it has been a memorable Ph.D. journey for me, during which I have studied and lived in several places for a long period of time, including Huairou and Shijingshan Districts in Beijing, Shanghai, Hong Kong, and New Haven. There is a Chinese proverb that says, "Traveling thousands of miles is better than reading thousands of books", hope to have a richer journey in the future.
 - **Jul. 1**, I received the ***[Chinese Academy of Sciences President Award](https://math.ucas.ac.cn/index.php/zh-CN/news/2765-2022-2)***, which might be a good ending to my PhD journey.       
@@ -29,8 +27,7 @@ Overall, it has been a memorable Ph.D. journey for me, during which I have studi
 - **Jan. 12**, our article was accepted in ***Ophthalmology and Therapy***.
 
 ## 2021
-- **Dec. 1**, I came to CityU as a research assistant starting a new journey in Hong Kong.   
-                   <img src="../images/HKb.jpg" width="40%"> <img src="../images/HKb1.jpg" width="40%">
+- **Dec. 1**, I came to CityU as a research assistant starting a new journey in Hong Kong. 
 - **Nov. 10**, I received ***[National Scholarship for Doctoral Students](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)***.
 - **Oct. 13**, our article "Gene–environment interaction identification via penalized robust divergence" was accepted by ***Biometrical Journal***.
 - **Aug. 10**, our article "Hierarchical Cancer Heterogeneity Analysis Based On Histopathological Imaging Features" was accepted in ***Biometrics***.
