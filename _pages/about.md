@@ -52,4 +52,4 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 - Scientific Reports
 - ACM Transactions on Mathematical Software    
 **Professional Society Membership**
-Eastern North American Region, International Biometric Society. Dec. 2022 - Dec. 2023
+- Eastern North American Region, International Biometric Society. Dec. 2022 - Dec. 2023
