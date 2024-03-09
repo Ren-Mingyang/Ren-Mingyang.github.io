@@ -15,7 +15,6 @@ title: "News"
 
 ## 2022
 - **Nov. 23**, our R package "[***HhP***](https://ren-mingyang.github.io//software/)" was available on CRAN.
-- **Nov. 17**, our manuscript "[Transfer learning for tensor Gaussian graphical model](https://arxiv.org/abs/2211.09391)" was available on arXiv.
 - **Aug. 1**, I started a new phase as a postdoctoral fellow at CUHK, another beautiful campus by the mountains and water in my journey.   
 - **Jul. 3**, affected by the epidemic, I attended my **doctoral graduation ceremony** online. It announced the end of my 21-year student career and the beginning of a new phase of my life.   
 Overall, it has been a memorable Ph.D. journey for me, during which I have studied and lived in several places for a long period of time, including Huairou and Shijingshan Districts in Beijing, Shanghai, Hong Kong, and New Haven. There is a Chinese proverb that says, "Traveling thousands of miles is better than reading thousands of books", hope to have a richer journey in the future.
