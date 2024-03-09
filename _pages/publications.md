@@ -8,8 +8,8 @@ author_profile: true
 
 # Publications
 - - - -
-(* corresponding author, \# co-first author)
-**Submitted Papers**    
+(* corresponding author, \# co-first author)    
+## Submitted Papers 
 - Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]      
 **Mingyang Ren**, Xin He & Junhui Wang  
 - Transfer learning for tensor Gaussian graphical models [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]     
@@ -28,7 +28,8 @@ Under revision, *Statistics in Medicine*.
 Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***    
 Under revision, *Statistics and Computing*.
 - - -
-**Statistical Publications**    
+
+## Statistical Publications  
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
 *Biometrics*, 2023. [[Article](https://doi.org/10.1111/biom.13815)][[Codes](https://github.com/Ren-Mingyang/net-community-number-est)] [[R package](https://CRAN.R-project.org/package=cencrne)]
@@ -51,7 +52,8 @@ Under revision, *Statistics and Computing*.
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]
 - - -
-**Medical Publications**    
+
+## Medical Publications
 - Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial    
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
 *JAMA Pediatrics*, 2022. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
@@ -61,9 +63,9 @@ Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He L
 - - -
 
 
-## Academic Talks
+# Academic Talks
 - - -
-**Invited Talks**    
+## Invited Talks 
 - Structural transfer learning of non-Gaussian DAG     
 Shanghai University of Finance and Economics, Shanghai, China, Oct. 25, 2023.    
 University of Chinese Academy of Sciences, Beijing, China, Jul. 12, 2023.  
@@ -75,7 +77,8 @@ Nashville, Tennessee, USA, Mar. 2023.
 Chinese Research Academy of Environmental Sciences  
 Beijing, China, Aug. 2019.
 - - -
-**Contributed Conference Talks**    
+
+## Contributed Conference Talks 
 - TransGraph: an R package for transfer graph learning  
 *The 16th China-R Conference*  
 Online/Beijing, China, Nov. 2023.
