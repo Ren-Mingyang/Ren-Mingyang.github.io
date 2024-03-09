@@ -43,3 +43,13 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 - 2021 &emsp; National Scholarship for Doctoral Students
 - 2020 &emsp; Academy of Mathematics and Systems Sciences President Award, Chinese Academy of Sciences
 
+## Professional Services
+**Journal Reviewer**
+- Journal of the American Statistical Association
+- Biometrics
+- Statistics in Medicine
+- Annals of the Institute of Statistical Mathematics
+- Scientific Reports
+- ACM Transactions on Mathematical Software    
+**Professional Society Membership**
+Eastern North American Region, International Biometric Society. Dec. 2022 - Dec. 2023
