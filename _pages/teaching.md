@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching Experiences and Professional Services"
+title: "Teaching Experiences"
 ---
 
 ## Teaching Assistant
