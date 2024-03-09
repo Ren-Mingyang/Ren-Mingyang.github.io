@@ -25,8 +25,7 @@ Overall, it has been a memorable Ph.D. journey for me, during which I have studi
 ## 2021
 - **Dec. 1**, I came to CityU as a research assistant starting a new journey in Hong Kong. 
 - **Nov. 10**, I received ***[National Scholarship for Doctoral Students](https://math.ucas.ac.cn/index.php/zh-CN/news/2678-2021-6)***.
-- **Jun. 18**, I received the ***[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)***.
-- **Feb. 26**, the first draft of my doctoral dissertation was finished.
+- **Jun. 18**, I received ***[Zhu-Li-Yuehua Outstanding Doctoral Scholarship](https://math.ucas.ac.cn/index.php/zh-CN/news/2624-2021-2)***.
 - **Feb. 12**, my first R package [***HeteroGGM***](https://CRAN.R-project.org/package=HeteroGGM) was accepted for release at CRAN. Welcome to use!
 
 
