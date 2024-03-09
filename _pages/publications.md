@@ -60,7 +60,6 @@ Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei We
 - Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study  
 Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
 *Ophthalmology and Therapy*, 2022. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
-- - -
 
 
 # Academic Talks
