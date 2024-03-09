@@ -50,6 +50,7 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 - Statistics in Medicine
 - Annals of the Institute of Statistical Mathematics
 - Scientific Reports
-- ACM Transactions on Mathematical Software    
+- ACM Transactions on Mathematical Software
+  
 **Professional Society Membership**
 - Eastern North American Region, International Biometric Society. Dec. 2022 - Dec. 2023
