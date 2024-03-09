@@ -7,8 +7,9 @@ author_profile: true
 
 (* corresponding author, \# co-first author)
 
-## Submitted Papers
+## Publications
 - - -
+**Submitted Papers**    
 - Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]      
 **Mingyang Ren**, Xin He & Junhui Wang  
 - Transfer learning for tensor Gaussian graphical models [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]     
@@ -27,9 +28,7 @@ Under revision, *Statistics in Medicine*.
 Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***    
 Under revision, *Statistics and Computing*.
 
-## Statistical Publications
-- - -
-
+**Statistical Publications**    
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
 *Biometrics*, 2023. [[Article](https://doi.org/10.1111/biom.13815)][[Codes](https://github.com/Ren-Mingyang/net-community-number-est)] [[R package](https://CRAN.R-project.org/package=cencrne)]
@@ -52,10 +51,7 @@ Under revision, *Statistics and Computing*.
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]
 
-
-## Medical Publications
-- - -
- 
+**Medical Publications**    
 - Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial    
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
 *JAMA Pediatrics*, 2022. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
@@ -63,4 +59,33 @@ Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei We
 Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
 *Ophthalmology and Therapy*, 2022. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
 
+
+
+## Academic Talks
+- - -
+**Invited Talks**    
+- Structural transfer learning of non-Gaussian DAG     
+Shanghai University of Finance and Economics, Shanghai, China, Oct. 25, 2023.    
+University of Chinese Academy of Sciences, Beijing, China, Jul. 12, 2023.  
+The 9th International Forum on Statistics, Renmin University of China, Beijing, China, Jul. 14, 2023.  
+- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
+*ENAR 2023 Spring Meeting, International Biometric Society*  
+Nashville, Tennessee, USA, Mar. 2023.
+- Let data speak  
+Chinese Research Academy of Environmental Sciences  
+Beijing, China, Aug. 2019.
+
+**Contributed Conference Talks**    
+- TransGraph: an R package for transfer graph learning  
+*The 16th China-R Conference*  
+Online/Beijing, China, Nov. 2023.
+- Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
+*The 19th Annual Conference of Chinese Association for Applied Statistics*  
+Beijing, China, Nov. 2019.
+- Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
+*The 11th National Annual Conference on Probability and Statistics*  
+Chengdu, China, Oct. 2018.
+- Robust Signed-rank-based High-Dimensional Test for Mean Vector  
+*The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*  
+Nanchang, China, Apr. 2018.
 
