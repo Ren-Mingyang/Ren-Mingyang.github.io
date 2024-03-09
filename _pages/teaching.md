@@ -17,14 +17,5 @@ title: "Teaching Experiences and Professional Services"
 - *High Dimensional Regression and Regularization*  
 Machine Learning Seminar for undergraduates, University of Chinese Academy of Sciences (Fall 2018, Fall 2019).  
 
-## Journal Reviewer
-- Journal of the American Statistical Association
-- Biometrics
-- Statistics in Medicine
-- Annals of the Institute of Statistical Mathematics
-- Scientific Reports
-- ACM Transactions on Mathematical Software
-
-
 
 
