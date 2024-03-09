@@ -15,13 +15,13 @@ author_profile: true
 - Transfer learning for tensor Gaussian graphical models [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]     
 **Mingyang Ren**, Yaoming Zhen & Junhui Wang    
  Reject with encouragement to resubmit, *Journal of Machine Learning Research*.
-- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
+- Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
 This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.
 - Network embedding-based directed community detection with unknown community number  
 Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***     
 Reject with encouragement to resubmit, *Journal of Computational and Graphical Statistics*.
-- Information-incorporated Sparse Hierarchical Cancer Heterogeneity Analysis  
+- Information-incorporated sparse hierarchical cancer heterogeneity analysis  
 Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
 Under revision, *Statistics in Medicine*.
 - Matrix regression heterogeneity analysis  
@@ -30,7 +30,7 @@ Under revision, *Statistics and Computing*.
 
 
 ## Statistical Publications  
-- Consistent Estimation of the Number of Communities via Regularized Network Embedding   
+- Consistent estimation of the number of communities via regularized network embedding   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
 *Biometrics*, 2023. [[Article](https://doi.org/10.1111/biom.13815)][[Codes](https://github.com/Ren-Mingyang/net-community-number-est)] [[R package](https://CRAN.R-project.org/package=cencrne)]
 - Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
@@ -54,10 +54,10 @@ Yan Liu, **Mingyang Ren** & Sanguo Zhang
 
 
 ## Medical Publications
-- Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial    
+- Effect of text messaging parents of school-aged children on outdoor time to control myopia: a randomized clinical trial    
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
 *JAMA Pediatrics*, 2022. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
-- Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study  
+- Machine learning to determine risk factors for myopia progression in primary school children: the Anyang childhood eye study  
 Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
 *Ophthalmology and Therapy*, 2022. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
 
@@ -71,7 +71,7 @@ Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He L
 Shanghai University of Finance and Economics, Shanghai, China, Oct. 25, 2023.    
 University of Chinese Academy of Sciences, Beijing, China, Jul. 12, 2023.  
 The 9th International Forum on Statistics, Renmin University of China, Beijing, China, Jul. 14, 2023.  
-- Gaussian Graphical Model-based Hierarchical Cancer Heterogeneity Analysis via Integrating Pathological Imaging and Omics Data  
+- Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data  
 *ENAR 2023 Spring Meeting, International Biometric Society*  
 Nashville, Tennessee, USA, Mar. 2023.
 - Let data speak  
@@ -83,13 +83,13 @@ Beijing, China, Aug. 2019.
 - TransGraph: an R package for transfer graph learning  
 *The 16th China-R Conference*  
 Online/Beijing, China, Nov. 2023.
-- Identifying Gene-environment Interactions Using a Penalized Robust Divergence Approach  
+- Identifying gene-environment interactions using a penalized robust divergence approach  
 *The 19th Annual Conference of Chinese Association for Applied Statistics*  
 Beijing, China, Nov. 2019.
-- Robust High-Dimensional Variable Selection for Mislabel Logistic Regression  
+- Robust high-dimensional variable selection for mislabel logistic regression  
 *The 11th National Annual Conference on Probability and Statistics*  
 Chengdu, China, Oct. 2018.
-- Robust Signed-rank-based High-Dimensional Test for Mean Vector  
+- Robust signed-rank-based high-dimensional test for mean vector  
 *The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*  
 Nanchang, China, Apr. 2018.
 
