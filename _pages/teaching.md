@@ -13,11 +13,11 @@ title: "Teaching Experiences"
 - Advanced Mathematical Statistics (Fall 2018)
 
 # Class Adviser
-2018 Undergraduate Mathematical Class in University of Chinese Academy of Sciences.
+2018 Undergraduate Mathematical Class
 
 # Instructor
 - *High Dimensional Regression and Regularization*  
-Machine Learning Seminar for undergraduates, University of Chinese Academy of Sciences (Fall 2018, Fall 2019).  
+Machine Learning Seminar for undergraduates (Fall 2018, Fall 2019).  
 
 
 
