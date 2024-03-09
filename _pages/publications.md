@@ -27,7 +27,7 @@ Under revision, *Statistics in Medicine*.
 - Matrix regression heterogeneity analysis  
 Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***    
 Under revision, *Statistics and Computing*.
-- - -
+
 
 ## Statistical Publications  
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
@@ -51,7 +51,7 @@ Under revision, *Statistics and Computing*.
 - Empirical likelihood test for regression coefficients in high-dimensional partially linear models  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]
-- - -
+
 
 ## Medical Publications
 - Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial    
@@ -76,7 +76,7 @@ Nashville, Tennessee, USA, Mar. 2023.
 - Let data speak  
 Chinese Research Academy of Environmental Sciences  
 Beijing, China, Aug. 2019.
-- - -
+
 
 ## Contributed Conference Talks 
 - TransGraph: an R package for transfer graph learning  
