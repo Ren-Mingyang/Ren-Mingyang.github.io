@@ -7,8 +7,8 @@ author_profile: true
 
 
 ## Publications
-(* corresponding author, \# co-first author)
 - - -
+(* corresponding author, \# co-first author)
 **Submitted Papers**    
 - Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]      
 **Mingyang Ren**, Xin He & Junhui Wang  
@@ -27,7 +27,7 @@ Under revision, *Statistics in Medicine*.
 - Matrix regression heterogeneity analysis  
 Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***    
 Under revision, *Statistics and Computing*.
-
+- - -
 **Statistical Publications**    
 - Consistent Estimation of the Number of Communities via Regularized Network Embedding   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
@@ -50,7 +50,7 @@ Under revision, *Statistics and Computing*.
 - Empirical likelihood test for regression coefficients in high-dimensional partially linear models  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]
-
+- - -
 **Medical Publications**    
 - Effect of Text Messaging Parents of School-Aged Children on Outdoor Time to Control Myopia: A Randomized Clinical Trial    
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
@@ -58,11 +58,11 @@ Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei We
 - Machine Learning to Determine Risk Factors for Myopia Progression in Primary School Children: The Anyang Childhood Eye Study  
 Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
 *Ophthalmology and Therapy*, 2022. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
-
+- - -
 
 
 ## Academic Talks
-- - -
+- - 
 **Invited Talks**    
 - Structural transfer learning of non-Gaussian DAG     
 Shanghai University of Finance and Economics, Shanghai, China, Oct. 25, 2023.    
@@ -74,7 +74,7 @@ Nashville, Tennessee, USA, Mar. 2023.
 - Let data speak  
 Chinese Research Academy of Environmental Sciences  
 Beijing, China, Aug. 2019.
-
+- - 
 **Contributed Conference Talks**    
 - TransGraph: an R package for transfer graph learning  
 *The 16th China-R Conference*  
