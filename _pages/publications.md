@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## Publications
-- - -
+- - - -
 (* corresponding author, \# co-first author)
 **Submitted Papers**    
 - Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]      
@@ -62,7 +62,7 @@ Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He L
 
 
 ## Academic Talks
-- - 
+- - -
 **Invited Talks**    
 - Structural transfer learning of non-Gaussian DAG     
 Shanghai University of Finance and Economics, Shanghai, China, Oct. 25, 2023.    
@@ -74,7 +74,7 @@ Nashville, Tennessee, USA, Mar. 2023.
 - Let data speak  
 Chinese Research Academy of Environmental Sciences  
 Beijing, China, Aug. 2019.
-- - 
+- - -
 **Contributed Conference Talks**    
 - TransGraph: an R package for transfer graph learning  
 *The 16th China-R Conference*  
