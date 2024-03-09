@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingyang Ren"
+title                    : "任明旸"
 title_separator          : "-"
 name                     : &name "Mingyang Ren"
 description              : &description "Postdoctoral Fellow"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "任明旸  &emsp; Mingyang Ren"
+  name             : "任明旸"
   avatar           : "rmy.jpg"
   bio              : "Postdoctoral Fellow, CUHK"
   location         : "Hong Kong, China"
