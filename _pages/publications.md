@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-(* corresponding author, \# co-first author)
 
 ## Publications
+(* corresponding author, \# co-first author)
 - - -
 **Submitted Papers**    
 - Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]      
