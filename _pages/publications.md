@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 
 # Publications
-- - - -
-(* corresponding author, \# co-first author)    
+(* corresponding author, \# co-first author)
+- - -
 ## Submitted Papers 
 - Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]      
 **Mingyang Ren**, Xin He & Junhui Wang  
