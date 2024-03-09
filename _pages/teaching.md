@@ -26,10 +26,5 @@ Machine Learning Seminar for undergraduates, University of Chinese Academy of Sc
 - ACM Transactions on Mathematical Software
 
 
-## Science popularization report
-- *Topic*: Statistics in Life  
-Huaibei High School, Beijing, China, May 2021.  
-Huaibei No.12 High School, Anhui, China, June 2021.  
-
 
 
