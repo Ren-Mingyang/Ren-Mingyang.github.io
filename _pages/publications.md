@@ -21,15 +21,15 @@ This work wins *Distinguished Student Paper Award* from the International Biomet
 - Network embedding-based directed community detection with unknown community number  
 Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***     
 Reject with encouragement to resubmit, *Journal of Computational and Graphical Statistics*.
-- Information-incorporated sparse hierarchical cancer heterogeneity analysis  
-Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
-Under revision, *Statistics in Medicine*.
-- Matrix regression heterogeneity analysis  
-Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***    
-Under revision, *Statistics and Computing*.
 
 
 ## Statistical Publications  
+- Information-incorporated sparse hierarchical cancer heterogeneity analysis  
+Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
+*Statistics in Medicine*, 2024+, in press.
+- Matrix regression heterogeneity analysis  
+Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***    
+*Statistics and Computing*, 2024+, in press.
 - Consistent estimation of the number of communities via regularized network embedding   
 **Mingyang Ren**, Sanguo Zhang & Junhui Wang  
 *Biometrics*, 2023. [[Article](https://doi.org/10.1111/biom.13815)][[Codes](https://github.com/Ren-Mingyang/net-community-number-est)] [[R package](https://CRAN.R-project.org/package=cencrne)]
