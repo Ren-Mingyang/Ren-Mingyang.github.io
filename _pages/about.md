@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Mingyang Ren"
 excerpt: "Mingyang Ren"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-## Mingyang Ren
 Postdoctoral Fellow  
 Department of Statistics, The Chinese University of Hong Kong  
 Email: mingyangren [at] cuhk.edu.hk  
