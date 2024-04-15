@@ -326,5 +326,5 @@ compress_html:
 
 # sitemap
 sitemap:
-path: sitemap.xml
+path:
 
