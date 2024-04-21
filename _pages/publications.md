@@ -21,7 +21,8 @@ This work wins *Distinguished Student Paper Award* from the International Biomet
 - Network embedding-based directed community detection with unknown community number  
 Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***     
 Reject with encouragement to resubmit, *Journal of Computational and Graphical Statistics*.
-
+- Integrative learning of linear non-Gaussian directed acyclic graphs  
+Li, X., Sanguo Zhang, **Mingyang Ren*** \& Qingzhao Zhang
 
 ## Statistical Publications  
 - Information-incorporated sparse hierarchical cancer heterogeneity analysis  
