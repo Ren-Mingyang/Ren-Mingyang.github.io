@@ -11,14 +11,14 @@ title: "News & Gallery"
 - My undergraduate university (probably the most beautiful campus I have ever seen)
   <img src="../images/whu1.jpg" width="40%">  <img src="../images/whu2.jpg" width="40%">    
   <img src="../images/whu3.jpg" width="40%">  <img src="../images/whu4.jpg" width="40%">    
-  An out-of-print view......      
+  An out-of-print view...      
   <img src="../images/whu5.jpg" width="25%">
 - The place where I obtained my PhD    
 Yuquan Road campus of UCAS (perhaps the smallest campus I have ever lived on)  
                      <img src="../images/yuq.jpg" width="55%">  <img src="../images/yuq1.jpg" width="30.8%">    
 Yanqi Lake campus of UCAS (also a place with beautiful scenery by the mountain and lake)    
                      <img src="../images/yanqi1.jpg" width="40%"> <img src="../images/yanqi2.jpg" width="37.4%">
-- The place I visited during the COVID-19 pandemic. The main memory of this year, reluctantly, was the scenery of the four seasons outside the window, while it was not bad...      
+- The place I visited during the COVID-19 pandemic. The main memory, reluctantly, was the scenery of the four seasons outside the window, while it was not bad...    
   <img src="../images/hom.jpg" width="20%"> <img src="../images/eas.jpg" width="40%">
   <img src="../images/new1.jpg" width="40%"> <img src="../images/new3.jpg" width="20%"> 
 - The place where I am working as a postdoc (another beautiful campus by the mountain and lake in my journey)       
