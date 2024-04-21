@@ -18,5 +18,7 @@ Yanqi Lake campus of UCAS (which is also a place with beautiful scenery by the m
                      <img src="../images/yanqi1.jpg" width="40%"> <img src="../images/yanqi2.jpg" width="35%">
 - My undergraduate university (probably the most beautiful campus I have ever seen)
   <img src="../images/whu1.jpg" width="40%">  <img src="../images/whu2.jpg" width="40%">    
-  <img src="../images/whu3.jpg" width="40%">  <img src="../images/whu4.jpg" width="40%">
+  <img src="../images/whu3.jpg" width="40%">  <img src="../images/whu4.jpg" width="40%">    
+  An out-of-print view......
+  <img src="../images/whu5.jpg" width="40%">    
 
