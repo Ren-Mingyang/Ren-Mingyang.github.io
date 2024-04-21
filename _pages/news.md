@@ -8,7 +8,7 @@ title: "News & Gallery"
 
 
 ## Gallery
-- The place where I am working as a postdoc (another beautiful campus by the mountains and water in my journey)       
+- The place where I am working as a postdoc (another beautiful campus by the mountain and lake in my journey)       
                   <img src="../images/CUHK1.jpg" width="50%"> <img src="../images/CUHK2.jpg" width="30%">   
                   <img src="../images/CUHK4.jpg" width="30%"> <img src="../images/CUHK3.jpg" width="50%">     
 - The place where I obtained my PhD    
