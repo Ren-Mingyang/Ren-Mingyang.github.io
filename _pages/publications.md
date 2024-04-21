@@ -22,7 +22,7 @@ This work wins *Distinguished Student Paper Award* from the International Biomet
 Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***     
 Reject with encouragement to resubmit, *Journal of Computational and Graphical Statistics*.
 - Integrative learning of linear non-Gaussian directed acyclic graphs  
-Li, X., Sanguo Zhang, **Mingyang Ren*** \& Qingzhao Zhang
+Xuanyu Li, Sanguo Zhang, **Mingyang Ren*** \& Qingzhao Zhang
 
 ## Statistical Publications  
 - Information-incorporated sparse hierarchical cancer heterogeneity analysis  
