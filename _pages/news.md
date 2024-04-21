@@ -20,7 +20,7 @@ Yanqi Lake campus (also a place with beautiful scenery by the mountain and lake)
                      <img src="../images/yanqi1.jpg" width="49%"> <img src="../images/yanqi2.jpg" width="37.4%">
 - The place I visited during the COVID-19 pandemic    
   <img src="../images/hom.jpg" width="21%"> <img src="../images/eas.jpg" width="40%">
-  <img src="../images/new1.jpg" width="40%"> <img src="../images/new3.jpg" width="22%">
+  <img src="../images/new1.jpg" width="40%"> <img src="../images/new3.jpg" width="22%">    
   The main memory, reluctantly, was the scenery of the four seasons outside the window, while it was not bad.
 - The place where I am working as a postdoc (another beautiful campus by the mountain and lake in my journey)       
                   <img src="../images/CUHK1.jpg" width="50%"> <img src="../images/CUHK2.jpg" width="30%">   
