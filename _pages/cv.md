@@ -41,7 +41,6 @@ permalink: /cv/
 ## 论文发表
 - - -
 - [已发表或完成的学术论文](https://ren-mingyang.github.io//publications/)  
-- [谷歌学术主页](https://scholar.google.com/citations?user=eciAdOQAAAAJ&hl=zh-CN)
 
 ## 学术报告
 - - -
@@ -77,10 +76,7 @@ permalink: /cv/
   Annals of the Institute of Statistical Mathematics  
   Scientific Reports  
   ACM Transactions on Mathematical Software
-- **科普报告**  
-  主题：生活中的统计学   
-   &emsp; 怀北中学，中国北京，2021年5月 [[News](https://mp.weixin.qq.com/s/H0SmEDJxXV4HZnTuolkueA)]  
-   &emsp; 淮北市第十二中学，中国安徽，2021年6月  
+
 
 ## 程序开发
 - - -
