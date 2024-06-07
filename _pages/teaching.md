@@ -3,7 +3,6 @@ permalink: /teaching/
 title: "Teaching Experiences"
 ---
 - - -
-## 
 
 # Shanghai Jiao Tong University
 
