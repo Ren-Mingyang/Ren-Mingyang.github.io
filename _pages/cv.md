@@ -60,7 +60,7 @@ permalink: /cv/
 ## 教学与专业服务
 - - -
 - 上海交通大学
-  *多元统计分析*， 统计学博士生课程 (2024年秋季学期) [[讲义](https://pan.baidu.com/s/1xvWPyaKUxGy_DKIfLCzG-Q)]
+**授课教师**: 多元统计分析，统计学博士生课程 (2024年秋季学期) [[讲义](https://pan.baidu.com/s/1xvWPyaKUxGy_DKIfLCzG-Q)]
 - 中国科学院大学
 **助教**: 研究生课程:      
     &emsp; 回归分析 (2019年秋季学期)  
