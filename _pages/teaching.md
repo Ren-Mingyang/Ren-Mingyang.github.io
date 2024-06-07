@@ -6,16 +6,17 @@ title: "Teaching Experiences"
 ## 
 
 # Shanghai Jiao Tong University
-Multivariate Statistical Analysis, PhD level (Fall 2024)      
-讲义:
-[第一章](https://pan.baidu.com/s/1xvWPyaKUxGy_DKIfLCzG-Q)
+
+## Instructor
+- Multivariate Statistical Analysis, PhD level (Fall 2024) [讲义](https://pan.baidu.com/s/1xvWPyaKUxGy_DKIfLCzG-Q)      
 
 
 
 
 
+- - -
 # University of Chinese Academy of Sciences
-## 
+
 ## Teaching Assistant
   Postgraduate Courses     
 - Regression Analysis (Fall 2019, Fall 2018)
