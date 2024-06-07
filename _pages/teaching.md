@@ -8,7 +8,7 @@ title: "Teaching Experiences"
 # Shanghai Jiao Tong University
 Multivariate Statistical Analysis, PhD level (Fall 2024)      
 讲义:
-[第一章]()
+[第一章](https://pan.baidu.com/s/1xvWPyaKUxGy_DKIfLCzG-Q)
 
 
 
