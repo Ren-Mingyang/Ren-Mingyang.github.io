@@ -14,7 +14,7 @@ Email: mingyangren [at] cuhk.edu.hk
 
 
 ## Education & Work Experiences
-- Aug. 2022 - Current, Postdoctoral Fellow   
+- Aug. 2022 - Jul. 2024, Postdoctoral Fellow   
 [Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/)  
 Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 - Dec. 2021 - Jul. 2022,  Research Assistant  
