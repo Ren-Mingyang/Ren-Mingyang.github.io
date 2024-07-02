@@ -25,7 +25,7 @@ Reject with encouragement to resubmit, *Journal of Computational and Graphical S
 - Integrative learning of linear non-Gaussian directed acyclic graphs  
 Xuanyu Li, Sanguo Zhang, **Mingyang Ren*** & Qingzhao Zhang*
 
-## Statistical Publications  
+## Publications  
 - Information-incorporated sparse hierarchical cancer heterogeneity analysis  
 Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
 *Statistics in Medicine*, 2024+, in press.
@@ -53,9 +53,7 @@ Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***
 - Empirical likelihood test for regression coefficients in high-dimensional partially linear models  
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]
-
-
-## Medical Publications
+- - - 
 - Effect of text messaging parents of school-aged children on outdoor time to control myopia: a randomized clinical trial    
 Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
 *JAMA Pediatrics*, 2022. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
