@@ -37,7 +37,7 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 - Biostatistics: brain functional connectivity network analysis, cancer genomics
 
 ## Awards and Honors
-- 2024 &emsp; Junior Researcher Honorable Mention Award, ICSA China Conference
+- 2024 &emsp; Junior Researcher Honorable Mention Award, International Chinese Statistical Association (ICSA) China Conference
 - 2023 &emsp; ENAR Distinguished Student Paper Award, International Biometric Society
 - 2022 &emsp; Chinese Academy of Sciences President Award (Excellent Prize)
 - 2021 &emsp; National Scholarship for Doctoral Students
