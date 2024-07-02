@@ -64,33 +64,26 @@ Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He L
 
 
 
+- - -    
 - - -
+- - -
+
 # Academic Talks
 - - -
-## Invited Talks 
-- Structural transfer learning of non-Gaussian DAG     
-Shanghai University of Finance and Economics, Shanghai, China, Oct. 25, 2023.    
-University of Chinese Academy of Sciences, Beijing, China, Jul. 12, 2023.  
-The 9th International Forum on Statistics, Renmin University of China, Beijing, China, Jul. 14, 2023.  
-- Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data  
-*ENAR 2023 Spring Meeting, International Biometric Society*  
-Nashville, Tennessee, USA, Mar. 2023.
-- Let data speak  
-Chinese Research Academy of Environmental Sciences  
-Beijing, China, Aug. 2019.
+## Invited Conference Talks 
+- Jun. 2024, International Chinese Statistical Association (ICSA) 2024 China Conference, Wuhan, China.
+- Dec. 2023, Winter Young Mathematician Forum, Shanghai Jiao Tong University, Shanghai, China.
+- Nov. 2023, The 16th China-R Conference, Beijing, China.
+- Jul. 2023, The 9th International Forum on Statistics, Renmin University of China, Beijing, China.
+- Mar. 2023, ENAR 2023 Meeting, International Biometric Society, Nashville, USA.
 
+## Invited Seminar Talks
+- Oct. 2023, Shanghai University of Finance and Economics.
+- Jul. 2023, University of Chinese Academy of Sciences.
+- Aug. 2019, Chinese Research Academy of Environmental Sciences.
 
 ## Contributed Conference Talks 
-- TransGraph: an R package for transfer graph learning  
-*The 16th China-R Conference*  
-Online/Beijing, China, Nov. 2023.
-- Identifying gene-environment interactions using a penalized robust divergence approach  
-*The 19th Annual Conference of Chinese Association for Applied Statistics*  
-Beijing, China, Nov. 2019.
-- Robust high-dimensional variable selection for mislabel logistic regression  
-*The 11th National Annual Conference on Probability and Statistics*  
-Chengdu, China, Oct. 2018.
-- Robust signed-rank-based high-dimensional test for mean vector  
-*The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics*  
-Nanchang, China, Apr. 2018.
+- Nov. 2019, The 19th Annual Conference of Chinese Association for Applied Statistics, Beijing, China.
+- Oct. 2018, The 11th National Annual Conference on Probability and Statistics, Chengdu, China.
+- Apr. 2018, The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics, Nanchang, China, 
 
