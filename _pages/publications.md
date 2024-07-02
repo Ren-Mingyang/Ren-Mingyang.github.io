@@ -11,7 +11,8 @@ author_profile: true
 - - -
 ## Submitted Papers 
 - Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]      
-**Mingyang Ren**, Xin He & Junhui Wang  
+**Mingyang Ren**, Xin He & Junhui Wang
+  This work wins *Junior Researcher Honorable Mention Award* from the ICSA 2024 China Conference.
 - Transfer learning for tensor Gaussian graphical models [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]     
 **Mingyang Ren**, Yaoming Zhen & Junhui Wang    
  Reject with encouragement to resubmit, *Journal of Machine Learning Research*.
