@@ -18,7 +18,6 @@ This work wins *Junior Researcher Honorable Mention Award* from the ICSA 2024 Ch
  Reject with encouragement to resubmit, *Journal of Machine Learning Research*.
 - Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data  
 **Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
-This work wins *Distinguished Student Paper Award* from the International Biometric Society ENAR 2023 spring meeting.
 - Network embedding-based directed community detection with unknown community number  
 Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***     
 Reject with encouragement to resubmit, *Journal of Computational and Graphical Statistics*.
@@ -77,8 +76,8 @@ Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He L
 - Mar. 2023, ENAR 2023 Meeting, International Biometric Society, Nashville, USA.
 
 ## Invited Seminar Talks
-- Oct. 2023, Shanghai University of Finance and Economics.
-- Jul. 2023, University of Chinese Academy of Sciences.
+- Oct. 2023, School of Statistics and Management, Shanghai University of Finance and Economics.
+- Jul. 2023, School of Mathematical Sciences, University of Chinese Academy of Sciences.
 - Aug. 2019, Chinese Research Academy of Environmental Sciences.
 
 ## Contributed Conference Talks 
