@@ -39,7 +39,7 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 ## Awards and Honors
 - 2024 &emsp; Junior Researcher Award Honorable Mention, International Chinese Statistical Association (ICSA) China Conference
 - 2023 &emsp; ENAR Distinguished Student Paper Award, International Biometric Society
-- 2022 &emsp; Chinese Academy of Sciences President Award (Excellent Prize)
+- 2022 &emsp; Chinese Academy of Sciences President Award
 - 2021 &emsp; National Scholarship for Ph.D. Candidates
 - 2020 &emsp; Academy of Mathematics and Systems Sciences President Award, Chinese Academy of Sciences
 
