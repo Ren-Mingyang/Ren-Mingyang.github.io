@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Fellow  
-Department of Statistics, The Chinese University of Hong Kong  
-Email: mingyangren [at] cuhk.edu.hk  
+Tenure-track Associate Professor   
+School of Mathematical Sciences, Shanghai Jiao Tong University  
+Email: mingyangren [at] sjtu.edu.cn  
 
 
 ## Education & Work Experiences
