@@ -6,30 +6,30 @@ permalink: /cv/
 
 <h1>任明旸</h1>  
 
-<b>博士后</b>  
-<b>香港中文大学 统计系</b>  
-<b>电子邮箱: mingyangren[at]cuhk[dot]edu[dot]hk </b>  
+<b>副教授</b>  
+<b>上海交通大学 数学科学学院</b>  
+<b>电子邮箱: mingyangren[at]sjtu.edu.cn </b>  
 
 
-## 教育经历
+## 学术经历
 - - -
-- 2017年9月 - 2022年7月，理学博士  
-[中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/) 数理统计  
-导师：[张三国](http://people.ucas.ac.cn/~sgzhang)教授
-- 2019年12月 - 2020年12月，联合培养博士生  
-[耶鲁大学 公共卫生学院](https://publichealth.yale.edu/) 生物统计系  
-导师：[马双鸽](https://publichealth.yale.edu/profile/shuangge_ma/)教授
-- 2013年9月 - 2017年7月，理学学士  
-[武汉大学 数学与统计学院](http://maths.whu.edu.cn/) 数学基地班
- 
-## 工作经历
-- - -
+- 2024年8月至今，副教授   
+[上海交通大学](https://www.sjtu.edu.cn/), [数学科学学院](https://www.math.sjtu.edu.cn/Default/index)   
 - 2022年8月至2024年7月，博士后   
 [香港中文大学](https://www.cuhk.edu.hk/) [统计系](https://www.sta.cuhk.edu.hk/)    
 导师：[王军辉](https://www.sta.cuhk.edu.hk/peoples/jwang/)教授
 - 2021年12月 - 2022年7月， 研究助理  
-[香港城市大学](https://www.cityu.edu.hk/) [数据科学学院](https://www.sdsc.cityu.edu.hk/)   
+[香港城市大学](https://www.cityu.edu.hk/) [数据科学学院](https://www.sdsc.cityu.edu.hk/)  
+- 2019年12月 - 2020年12月，联合培养博士生  
+[耶鲁大学 公共卫生学院](https://publichealth.yale.edu/) 生物统计系  
+导师：[马双鸽](https://publichealth.yale.edu/profile/shuangge_ma/)教授
+- 2017年9月 - 2022年7月，理学博士  
+[中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/) 数理统计  
+导师：[张三国](http://people.ucas.ac.cn/~sgzhang)教授
+- 2013年9月 - 2017年7月，理学学士  
+[武汉大学 数学与统计学院](http://maths.whu.edu.cn/) 数学基地班
 
+ 
 
 ## 研究兴趣
 - - -
