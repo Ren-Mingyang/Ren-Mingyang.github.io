@@ -23,8 +23,8 @@ permalink: /cv/
 - 2019年12月 - 2020年12月，联合培养博士生  
 [耶鲁大学 公共卫生学院](https://publichealth.yale.edu/) 生物统计系  
 导师：[马双鸽](https://publichealth.yale.edu/profile/shuangge_ma/)教授
-- 2017年9月 - 2022年7月，理学博士  
-[中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/) 数理统计  
+- 2017年9月 - 2022年7月，理学博士 （概率论与数理统计专业）  
+[中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/)   
 导师：[张三国](http://people.ucas.ac.cn/~sgzhang)教授
 - 2013年9月 - 2017年7月，理学学士  
 [武汉大学 数学与统计学院](http://maths.whu.edu.cn/) 数学基地班
