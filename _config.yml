@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "任明旸"
 title_separator          : "-"
 name                     : &name "Mingyang Ren"
-description              : &description "Associate Professor"
+description              : &description ""
 url                      : https://ren-mingyang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ren-Mingyang/Ren-Mingyang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "任明旸"
   avatar           : "RI.jpg"
-  bio              : "Associate Professor, SJTU"
+  bio              : "SMS, SJTU"
   location         : "Shanghai, China"
   employer         :
   pubmed           :
