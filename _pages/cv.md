@@ -7,7 +7,7 @@ permalink: /cv/
 <h1>任明旸</h1>  
 
 <b>长聘教轨副教授</b>  
-<b>上海交通大学 数学科学学院</b>  
+<b>上海交通大学&emsp;数学科学学院</b>  
 <b>电子邮箱: mingyangren [at] sjtu.edu.cn </b>  
 
 
