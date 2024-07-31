@@ -16,8 +16,7 @@ title: "Teaching Experiences"
 - - -
 # University of Chinese Academy of Sciences
 
-## Teaching Assistant
-  Postgraduate Courses     
+## Teaching Assistant (Postgraduate Courses)
 - Regression Analysis (Fall 2019, Fall 2018)
 - Analysis of High-Dimensional Biostatistical Data (Summer 2019) 
 - Modern Statistical Methods (Spring 2019)  
