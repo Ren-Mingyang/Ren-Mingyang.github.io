@@ -8,7 +8,7 @@ permalink: /cv/
 
 <b>长聘教轨副教授</b>  
 <b>上海交通大学 数学科学学院</b>  
-<b>电子邮箱: mingyangren[at]sjtu.edu.cn </b>  
+<b>电子邮箱: mingyangren [at] sjtu.edu.cn </b>  
 
 
 ## 学术经历
