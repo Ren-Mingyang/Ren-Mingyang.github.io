@@ -10,19 +10,12 @@ author_profile: true
 (* corresponding author, \# co-first author)
 - - -
 ## Submitted Papers 
-- Structural transfer learning of non-Gaussian DAG [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]      
-**Mingyang Ren**, Xin He & Junhui Wang    
-This work wins *Junior Researcher Honorable Mention Award* from the ICSA 2024 China Conference.
-- Transfer learning for tensor Gaussian graphical models [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]     
-**Mingyang Ren**, Yaoming Zhen & Junhui Wang    
- Reject with encouragement to resubmit, *Journal of Machine Learning Research*.
-- Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data  
-**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang & Shuangge Ma  
-- Network embedding-based directed community detection with unknown community number  
-Qingzhao Zhang, Jinlong Zhou & **Mingyang Ren***     
-Reject with encouragement to resubmit, *Journal of Computational and Graphical Statistics*.
-- Integrative learning of linear non-Gaussian directed acyclic graphs  
-Xuanyu Li, Sanguo Zhang, **Mingyang Ren*** & Qingzhao Zhang*
+- **Ren, M.**, He X. & Wang J. Structural transfer learning of non-Gaussian DAG. [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]        
+This work wins the *Junior Researcher Honorable Mention Award* from the ICSA China Conference.
+- **Ren, M.**, Zhen Y. & Wang J. Transfer learning for tensor Gaussian graphical models. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]     
+- **Ren, M.**, Zhang, Q., Zhang, S. & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.   
+- Zhang Q., Zhou J. **Ren, M.*** Network embedding-based directed community detection with unknown community number.
+- Li X., Zhang S., **Ren, M.***  & Qingzhao Zhang* Integrative learning of linear non-Gaussian directed acyclic graphs.
 
 ## Publications  
 - Han, W., Zhang, S., Ma, S., & **Ren, M.*** (2024+). Information‐incorporated sparse hierarchical cancer heterogeneity analysis. *Statistics in Medicine*. [[Article](https://doi.org/10.1002/sim.10071)] [[Codes](https://github.com/HHanWei/ISHH)]
