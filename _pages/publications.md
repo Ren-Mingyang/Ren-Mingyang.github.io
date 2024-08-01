@@ -14,8 +14,8 @@ author_profile: true
 This work wins the *Junior Researcher Honorable Mention Award* from the ICSA China Conference.
 - **Ren, M.**, Zhen Y. & Wang J. Transfer learning for tensor Gaussian graphical models. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]     
 - **Ren, M.**, Zhang, Q., Zhang, S. & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.   
-- Zhang Q., Zhou J. **Ren, M.*** Network embedding-based directed community detection with unknown community number.
-- Li X., Zhang S., **Ren, M.***  & Zhang, Q.* Integrative learning of linear non-Gaussian directed acyclic graphs.
+- Zhang Q., Zhou J.  & **Ren, M.*** Network embedding-based directed community detection with unknown community number.
+- Li X., Zhang S., **Ren, M.*** & Zhang, Q.* Integrative learning of linear non-Gaussian directed acyclic graphs.
 
 ## Publications  
 - Han, W., Zhang, S., Ma, S., & **Ren, M.*** (2024+). Information‐incorporated sparse hierarchical cancer heterogeneity analysis. *Statistics in Medicine*. [[Article](https://doi.org/10.1002/sim.10071)] [[Codes](https://github.com/HHanWei/ISHH)]
