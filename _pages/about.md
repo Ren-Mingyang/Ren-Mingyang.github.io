@@ -12,6 +12,12 @@ Tenure-track Associate Professor
 School of Mathematical Sciences, Shanghai Jiao Tong University  
 Email: mingyangren [at] sjtu.edu.cn  
 
+## Research Interests
+- Heterogeneous data analysis: integrative analysis, transfer learning, subgroup analysis
+- Graphical model: directed acyclic graph, Gaussian graphical mixture model, network data
+- High-dimensional data analysis: robust high-dimensional regression, tensor analysis
+- Biostatistics: brain functional connectivity network analysis, cancer genomics
+
 
 ## Education & Work Experiences
 - Aug. 2024 - Present, Tenure-track Associate Professor (non-tenured)    
@@ -31,12 +37,6 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 [School of Mathematics and Statistics](http://maths.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/)
 
 
-
-## Research Interests
-- Heterogeneous data analysis: integrative analysis, transfer learning, subgroup analysis
-- Graphical model: directed acyclic graph, Gaussian graphical mixture model, network data
-- High-dimensional data analysis: robust high-dimensional regression, tensor analysis
-- Biostatistics: brain functional connectivity network analysis, cancer genomics
 
 ## Awards and Honors
 - 2024 &emsp; Junior Researcher Award Honorable Mention, International Chinese Statistical Association (ICSA) China Conference
