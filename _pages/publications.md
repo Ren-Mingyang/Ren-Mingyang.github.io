@@ -46,15 +46,10 @@ Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***
 - HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
 **Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
 *Bioinformatics*, 2021. [[Article](https://doi.org/10.1093/bioinformatics/btab134)] [[Github](https://github.com/Ren-Mingyang/HeteroGGM)] [[CRAN](https://CRAN.R-project.org/package=HeteroGGM)]
-- Robust high-dimensional regression for data with anomalous responses  
-**Mingyang Ren**, Sanguo Zhang & Qingzhao Zhang  
-*Annals of the Institute of Statistical Mathematics*, 2021. [[Article](https://doi.org/10.1007/s10463-020-00764-1)]  
-- Empirical likelihood test for regression coefficients in high-dimensional partially linear models  
-Yan Liu, **Mingyang Ren** & Sanguo Zhang  
-*Journal of Systems Science and Complexity*, 2020. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]    
-
+- **Ren, M.**, Zhang, S., & Zhang, Q. (2021). Robust high-dimensional regression for data with anomalous responses. *Annals of the Institute of Statistical Mathematics*, 73, 703-736. [[Article](https://doi.org/10.1007/s10463-020-00764-1)]  
+- Liu, Y., **Ren, M.**, & Zhang, S. (2021). Empirical likelihood test for regression coefficients in high dimensional partially linear models. *Journal of Systems Science and Complexity*, 34(3), 1135-1155. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]    
 - Li, S., Ran, A., Kang, M., Yang, X., **Ren, M.**, Wei, S., ... & Anyang Childhood Eye Study Group. (2022). Effect of text messaging parents of school-aged children on outdoor time to control myopia: a randomized clinical trial. *JAMA Pediatrics*, 176(11), 1077-1083. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
-- Li, S. #, Ren, M. #, Gan, J., Zhang, S., Kang, M., Li, H., ... & Anyang Childhood Eye Study Group. (2022). Machine learning to determine risk factors for myopia progression in primary school children: the Anyang childhood eye study. *Ophthalmology and Therapy*, 11(2), 573-585. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
+- Li, S. #, **Ren, M.** #, Gan, J., Zhang, S., Kang, M., Li, H., ... & Anyang Childhood Eye Study Group. (2022). Machine learning to determine risk factors for myopia progression in primary school children: the Anyang childhood eye study. *Ophthalmology and Therapy*, 11(2), 573-585. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
 
 
 
