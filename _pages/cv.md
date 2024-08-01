@@ -14,7 +14,7 @@ permalink: /cv/
 ## 学术经历
 - - -
 - 2024年8月至今，副教授 （长聘教轨）   
-[上海交通大学](https://www.sjtu.edu.cn/), [数学科学学院](https://www.math.sjtu.edu.cn/Default/index)   
+[上海交通大学](https://www.sjtu.edu.cn/) [数学科学学院](https://www.math.sjtu.edu.cn/Default/index)   
 - 2022年8月至2024年7月，博士后   
 [香港中文大学](https://www.cuhk.edu.hk/) [统计系](https://www.sta.cuhk.edu.hk/)    
 导师：[王军辉](https://www.sta.cuhk.edu.hk/peoples/jwang/)教授
