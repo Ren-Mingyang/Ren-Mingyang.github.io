@@ -25,27 +25,13 @@ Reject with encouragement to resubmit, *Journal of Computational and Graphical S
 Xuanyu Li, Sanguo Zhang, **Mingyang Ren*** & Qingzhao Zhang*
 
 ## Publications  
-- Information-incorporated sparse hierarchical cancer heterogeneity analysis  
-Wei Han, Sanguo Zhang, Shuangge Ma & **Mingyang Ren***  
-*Statistics in Medicine*, 2024+, in press.
-- Matrix regression heterogeneity analysis  
-Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***    
-*Statistics and Computing*, 2024+, in press.
-- Consistent estimation of the number of communities via regularized network embedding   
-**Mingyang Ren**, Sanguo Zhang & Junhui Wang  
-*Biometrics*, 2023. [[Article](https://doi.org/10.1111/biom.13815)][[Codes](https://github.com/Ren-Mingyang/net-community-number-est)] [[R package](https://CRAN.R-project.org/package=cencrne)]
-- Hierarchical cancer heterogeneity analysis based on histopathological imaging features  
-**Mingyang Ren**, Qingzhao Zhang, Sanguo Zhang, Tingyan Zhong, Jian Huang & Shuangge Ma  
-*Biometrics*, 2022. [[Article](https://doi.org/10.1111/biom.13544)] [[Codes](https://github.com/Ren-Mingyang/HhP)] [[R package](https://cran.r-project.org/web/packages/HhP/)]
-- Gaussian graphical model-based heterogeneity analysis via penalized fusion  
-**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Biometrics*, 2022. [[Article](https://doi.org/10.1111/biom.13426)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] [[R package](https://CRAN.R-project.org/package=HeteroGGM)]
-- Gene-environment interaction identification via penalized robust divergence  
-**Mingyang Ren**, Sanguo Zhang, Shuangge Ma & Qingzhao Zhang  
-*Biometrical Journal*, 2022. [[Article](https://doi.org/10.1002/bimj.202000157)] [[Codes](https://github.com/Ren-Mingyang/GE-PRD)]
-- HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis  
-**Mingyang Ren**, Sanguo Zhang, Qingzhao Zhang & Shuangge Ma  
-*Bioinformatics*, 2021. [[Article](https://doi.org/10.1093/bioinformatics/btab134)] [[Github](https://github.com/Ren-Mingyang/HeteroGGM)] [[CRAN](https://CRAN.R-project.org/package=HeteroGGM)]
+- Han, W., Zhang, S., Ma, S., & **Ren, M.*** (2024+). Information‐incorporated sparse hierarchical cancer heterogeneity analysis. *Statistics in Medicine*. [[Article](https://doi.org/10.1002/sim.10071)] [[Codes](https://github.com/HHanWei/ISHH)]
+- Zhang, F., Zhang, S., Li, S. M., & **Ren, M.*** (2024). Matrix regression heterogeneity analysis. *Statistics and Computing*, 34(3), 95. [[Article](https://doi.org/10.1007/s11222-024-10401-z)][[Codes](https://github.com/Zhang-Fengchuan/Matrix-heterogeneity-linear-regression)]
+- **Ren, M.**, Zhang, S., & Wang, J. (2023). Consistent estimation of the number of communities via regularized network embedding. *Biometrics*, 79(3), 2404-2416. [[Article](https://doi.org/10.1111/biom.13815)][[Codes](https://github.com/Ren-Mingyang/net-community-number-est)] [[R package](https://CRAN.R-project.org/package=cencrne)]
+- **Ren, M.**, Zhang, Q., Zhang, S., Zhong, T., Huang, J., & Ma, S. (2022). Hierarchical cancer heterogeneity analysis based on histopathological imaging features. *Biometrics*, 78(4), 1579-1591. [[Article](https://doi.org/10.1111/biom.13544)] [[Codes](https://github.com/Ren-Mingyang/HhP)] [[R package](https://cran.r-project.org/web/packages/HhP/)]
+- **Ren, M.**, Zhang, S., Zhang, Q., & Ma, S. (2022). Gaussian graphical model-based heterogeneity analysis via penalized fusion. Biometrics, 78(2), 524-535. [[Article](https://doi.org/10.1111/biom.13426)] [[Codes](https://github.com/Ren-Mingyang/GGM-PF)] [[R package](https://CRAN.R-project.org/package=HeteroGGM)]
+- **Ren, M.**, Zhang, S., Ma, S., & Zhang, Q. (2022). Gene-environment interaction identification via penalized robust divergence. *Biometrical Journal*, 64(3), 461-480. [[Article](https://doi.org/10.1002/bimj.202000157)] [[Codes](https://github.com/Ren-Mingyang/GE-PRD)]
+- **Ren, M.**, Zhang, S., Zhang, Q., & Ma, S. (2021). HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis. *Bioinformatics*, 37(18), 3073-3074. [[Article](https://doi.org/10.1093/bioinformatics/btab134)] [[Github](https://github.com/Ren-Mingyang/HeteroGGM)] [[CRAN](https://CRAN.R-project.org/package=HeteroGGM)]
 - **Ren, M.**, Zhang, S., & Zhang, Q. (2021). Robust high-dimensional regression for data with anomalous responses. *Annals of the Institute of Statistical Mathematics*, 73, 703-736. [[Article](https://doi.org/10.1007/s10463-020-00764-1)]  
 - Liu, Y., **Ren, M.**, & Zhang, S. (2021). Empirical likelihood test for regression coefficients in high dimensional partially linear models. *Journal of Systems Science and Complexity*, 34(3), 1135-1155. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]    
 - Li, S., Ran, A., Kang, M., Yang, X., **Ren, M.**, Wei, S., ... & Anyang Childhood Eye Study Group. (2022). Effect of text messaging parents of school-aged children on outdoor time to control myopia: a randomized clinical trial. *JAMA Pediatrics*, 176(11), 1077-1083. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
