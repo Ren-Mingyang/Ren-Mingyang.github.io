@@ -53,12 +53,8 @@ Fengchuan Zhang, Sanguo Zhang, Shiming Li & **Mingyang Ren***
 Yan Liu, **Mingyang Ren** & Sanguo Zhang  
 *Journal of Systems Science and Complexity*, 2020. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]    
 
-- Effect of text messaging parents of school-aged children on outdoor time to control myopia: a randomized clinical trial    
-Shiming Li, Anran Ran, Mengtian Kang, Xiaoyuan Yang, **Mingyang Ren**, Shifei Wei, Jiahe Gan, Lei Li, Xi He, He Li, Luoru Liu, Yipeng Wang, Siyan Zhan, David Atchison, Ian Morgan, Ningli Wang  
-*JAMA Pediatrics*, 2022. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
-- Machine learning to determine risk factors for myopia progression in primary school children: the Anyang childhood eye study  
-Shiming Li #, **Mingyang Ren** #, Jiahe Gan #, Sanguo Zhang, Mengtian Kang, He Li, David A. Atchison, Jos Rozema, Andrzej Grzybowski & Ningli Wang  
-*Ophthalmology and Therapy*, 2022. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
+- Li, S., Ran, A., Kang, M., Yang, X., **Ren, M.**, Wei, S., ... & Anyang Childhood Eye Study Group. (2022). Effect of text messaging parents of school-aged children on outdoor time to control myopia: a randomized clinical trial. *JAMA Pediatrics*, 176(11), 1077-1083. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]
+- Li, S. #, Ren, M. #, Gan, J., Zhang, S., Kang, M., Li, H., ... & Anyang Childhood Eye Study Group. (2022). Machine learning to determine risk factors for myopia progression in primary school children: the Anyang childhood eye study. *Ophthalmology and Therapy*, 11(2), 573-585. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
 
 
 
