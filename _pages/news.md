@@ -4,7 +4,7 @@ title: "News & Gallery"
 ---
 
 ## News
-- In Aug. 2024, I joined the School of Mathematics at Shanghai Jiao Tong University.
+- In Aug. 2024, I joined the School of Mathematical Sciences at Shanghai Jiao Tong University.
 
 
 ## Gallery
