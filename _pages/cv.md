@@ -29,7 +29,7 @@ permalink: /cv/
 - 2021年12月 - 2022年7月， 研究助理  
 [香港城市大学](https://www.cityu.edu.hk/) [数据科学学院](https://www.sdsc.cityu.edu.hk/)  
 - 2019年12月 - 2020年12月，联合培养博士生  
-[耶鲁大学 公共卫生学院](https://publichealth.yale.edu/) 生物统计系  
+[耶鲁大学](https://publichealth.yale.edu/) [生物统计系](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/)  
 导师：[马双鸽](https://publichealth.yale.edu/profile/shuangge_ma/)教授
 - 2017年9月 - 2022年7月，理学博士 （概率论与数理统计专业）  
 [中国科学院大学](https://www.ucas.ac.cn/) [数学科学学院](https://math.ucas.ac.cn/index.php/zh-CN/)   
