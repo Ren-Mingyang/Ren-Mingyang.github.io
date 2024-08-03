@@ -28,7 +28,7 @@ Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
 - Dec. 2021 - Jul. 2022,  Research Assistant  
 [School of Data Science](https://www.sdsc.cityu.edu.hk/), [City University of Hong Kong](https://www.cityu.edu.hk/) 
 - Dec. 2019 - Dec. 2020,  Joint Ph.D. in *Biostatistics*  
-[Department of Biostatistics, School of Public Health](https://publichealth.yale.edu/), [Yale University](https://www.yale.edu/)   
+[Department of Biostatistics](https://ysph.yale.edu/public-health-research-and-practice/department-research/biostatistics/), [Yale University](https://www.yale.edu/)   
 Advisor: Prof. [Shuangge Ma](https://publichealth.yale.edu/profile/shuangge_ma/)
 - Sep. 2017 - Jul. 2022,  Ph.D. in *Mathematical Statistics*  
 [School of Mathematical Sciences](https://math.ucas.ac.cn/index.php/zh-CN/), [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/)  
