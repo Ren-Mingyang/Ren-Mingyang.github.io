@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Tenure-track Associate Professor   
+Associate Professor (tenure-track)   
 School of Mathematical Sciences, Shanghai Jiao Tong University  
 Email: mingyangren [at] sjtu.edu.cn  
 
@@ -20,7 +20,7 @@ Email: mingyangren [at] sjtu.edu.cn
 
 
 ## Education & Work Experiences
-- Aug. 2024 - Present, Tenure-track Associate Professor (non-tenured)    
+- Aug. 2024 - Present, Associate Professor (tenure-track)    
 [School of Mathematical Sciences](https://www.math.sjtu.edu.cn/Default/index), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) 
 - Aug. 2022 - Jul. 2024, Postdoctoral Fellow   
 [Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/)  
