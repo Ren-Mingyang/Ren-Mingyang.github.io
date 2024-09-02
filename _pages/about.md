@@ -10,7 +10,8 @@ redirect_from:
 
 Associate Professor (tenure-track)   
 School of Mathematical Sciences, Shanghai Jiao Tong University  
-Email: mingyangren [at] sjtu.edu.cn  
+Email: mingyangren [at] sjtu.edu.cn     
+[Homepage at SJTU](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLGIipaGpKF2)
 
 ## Research Interests
 - Heterogeneous data analysis: integrative analysis, transfer learning, subgroup analysis
