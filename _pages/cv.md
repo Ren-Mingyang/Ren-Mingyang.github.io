@@ -9,7 +9,7 @@ permalink: /cv/
 <b>副教授 （长聘教轨）</b>  
 <b>上海交通大学&emsp;数学科学学院</b>  
 <b>电子邮箱: mingyangren [at] sjtu.edu.cn </b>  
-
+[学校主页](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLGIipaGpKF2)
 
 ## 研究兴趣
 - - -
