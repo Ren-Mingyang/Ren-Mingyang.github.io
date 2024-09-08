@@ -23,7 +23,7 @@ permalink: /cv/
 - 2024年8月至今，副教授 （长聘教轨） [学校个人主页](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLGIipaGpKF2)   
 [上海交通大学](https://www.sjtu.edu.cn/) [数学科学学院](https://www.math.sjtu.edu.cn/Default/index)   
 - 2022年8月至2024年7月，博士后   
-[香港中文大学](https://www.cuhk.edu.hk/) [统计系](https://www.sta.cuhk.edu.hk/)    
+[香港中文大学](https://www.cuhk.edu.hk/) [统计学系](https://www.sta.cuhk.edu.hk/)    
 导师：[王军辉](https://www.sta.cuhk.edu.hk/peoples/jwang/)教授
 - 2021年12月 - 2022年7月， 研究助理  
 [香港城市大学](https://www.cityu.edu.hk/) [数据科学学院](https://www.sdsc.cityu.edu.hk/)  
