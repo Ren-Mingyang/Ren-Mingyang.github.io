@@ -63,7 +63,7 @@ permalink: /cv/
 - 上海交通大学    
 **授课教师**:    
   多元统计分析，统计学博士生课程 (2024年秋季学期) [[讲义](https://pan.baidu.com/s/1xvWPyaKUxGy_DKIfLCzG-Q)]    
-  高等代数（荣誉）I 习题课 (2024年秋季学期) 
+  高等代数（荣誉）I 习题课 (2024年秋季学期) [[课程资料](https://pan.baidu.com/s/1sXqqdq8pAEJabDaCs7M8ww)]
 - 中国科学院大学    
 **助教**: 研究生课程      
     &emsp; 回归分析 (2019年秋季学期)  
