@@ -21,7 +21,7 @@ Email: mingyangren [at] sjtu.edu.cn
 
 
 ## Education & Work Experiences
-- Aug. 2024 - Present, Associate Professor (tenure-track) [[Homepage at SJTU](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLGIipaGpKF2)]    
+- Aug. 2024 - Present, Associate Professor (tenure-track)     
 [School of Mathematical Sciences](https://www.math.sjtu.edu.cn/Default/index), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) 
 - Aug. 2022 - Jul. 2024, Postdoctoral Fellow   
 [Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/)  
@@ -48,5 +48,5 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
 ## Professional Services
 **Journal Reviewer**
-- Journal of the American Statistical Association; Biometrics; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Scientific Reports; ACM Transactions on Mathematical Software
+- Journal of the American Statistical Association; Biometrics; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
 
