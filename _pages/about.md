@@ -14,7 +14,7 @@ Email: mingyangren [at] sjtu.edu.cn
 
 
 ## Research Interests
-- Heterogeneous data analysis: integrative analysis, transfer learning, subgroup analysis
+- Heterogeneous data analysis: subgroup analysis, transfer learning, integrative analysis
 - Graphical model: directed acyclic graph, Gaussian graphical mixture model, network data
 - High-dimensional data analysis: robust high-dimensional regression, tensor analysis
 - Biostatistics: brain functional connectivity network analysis, cancer genomics
