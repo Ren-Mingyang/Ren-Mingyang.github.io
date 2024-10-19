@@ -73,12 +73,7 @@ permalink: /cv/
 **青年班主任**: 2018级数学专业本科班级    
 **授课教师**: 高维回归分析与正则化， 本科生机器学习讨论班 (2018年、2019年 秋季学期)      
 - **期刊审稿人**  
-  Journal of the American Statistical Association  
-  Biometrics  
-  Statistics in Medicine  
-  Annals of the Institute of Statistical Mathematics  
-  Scientific Reports  
-  ACM Transactions on Mathematical Software
+  Journal of the American Statistical Association; Biometrics; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
 
 
 ## 程序开发
