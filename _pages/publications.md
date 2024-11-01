@@ -11,11 +11,11 @@ author_profile: true
 - - -
 ## Submitted Papers 
 - **Ren, M.**, He X. & Wang J. Structural transfer learning of non-Gaussian DAG. [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]        
-This work wins the *Junior Researcher Honorable Mention Award* from the ICSA China Conference.
+This work won the *Junior Researcher Honorable Mention Award* from the ICSA China Conference.
 - **Ren, M.**, Zhen Y. & Wang J. Transfer learning for tensor Gaussian graphical models. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]     
 - **Ren, M.**, Zhang, Q., Zhang, S. & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
-- Zhang, F., Zhang, S., Ma, S. & **Ren, M.***, Subgroup analysis with double heterogeneity.
-This work wins the *全国高校研究生统计论坛“十佳论文”*.
+- Zhang, F., Zhang, S., Ma, S. & **Ren, M.***, Subgroup analysis with double heterogeneity.    
+This work won the *Top Ten Papers* of the National Graduate Statistics Forum held by RUC.
 - Li X., Zhang S., **Ren, M.*** & Zhang, Q.* Integrative learning of linear non-Gaussian directed acyclic graphs.
 
 ## Publications  
