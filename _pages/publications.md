@@ -12,7 +12,6 @@ author_profile: true
 ## Submitted Papers 
 - **Ren, M.**, He, X. & Wang, J. Structural transfer learning of non-Gaussian DAG. [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]        
 This work won the *Junior Researcher Honorable Mention Award* from the ICSA China Conference.
-- **Ren, M.**, Zhen, Y. & Wang, J. Transfer learning for tensor Gaussian graphical models. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]     
 - **Ren, M.**, Zhang, Q., Zhang, S. & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
 - Zhang, F., Zhang, S., Ma, S. & **Ren, M.*** Subgroup analysis with double heterogeneity.    
 This work won the *Top Ten Papers* of the National Graduate Statistics Forum held by RUC.
@@ -20,6 +19,7 @@ This work won the *Top Ten Papers* of the National Graduate Statistics Forum hel
 - Zhu, G., Zhang, S. & **Ren, M.*** Conditional Generative Learning from Invariant Representations in Multi-Source: Robustness and Efficiency.
 
 ## Publications  
+- **Ren, M.**, Zhen, Y. & Wang, J. (2024+). Transfer learning for tensor Gaussian graphical models. Journal of Machine Learning Research, Accepted. [[arXiv](https://arxiv.org/abs/2211.09391)] [[R package](https://CRAN.R-project.org/package=TransGraph)]  
 - Zhang, Q., Zhou, J.  & **Ren, M.*** (2024+). Network embedding-based directed community detection with unknown community number. *Journal of Computational and Graphical Statistics*, In press.
 - Han, W., Zhang, S., Ma, S., & **Ren, M.*** (2024). Information‐incorporated sparse hierarchical cancer heterogeneity analysis. *Statistics in Medicine*, 43(11), 2280-2297. [[Article](https://doi.org/10.1002/sim.10071)] [[Codes](https://github.com/HHanWei/ISHH)]
 - Zhang, F., Zhang, S., Li, S. M., & **Ren, M.*** (2024). Matrix regression heterogeneity analysis. *Statistics and Computing*, 34(3), 95. [[Article](https://doi.org/10.1007/s11222-024-10401-z)][[Codes](https://github.com/Zhang-Fengchuan/Matrix-heterogeneity-linear-regression)]
