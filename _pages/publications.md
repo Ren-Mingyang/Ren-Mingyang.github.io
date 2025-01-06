@@ -54,7 +54,7 @@ This work won the *Top Ten Papers* of the National Graduate Statistics Forum hel
 - Aug. 2019, Chinese Research Academy of Environmental Sciences.
 
 ## Contributed Conference Talks 
-- Nov. 2024, The 16th National Symposium on Survival Analysis and Applied Statistics, Hangzhou, China.
+- Nov. 2024, The 16th National Conference on Survival Analysis and Applied Statistics, Hangzhou, China.
 - Nov. 2019, The 19th Annual Conference of Chinese Association for Applied Statistics, Beijing, China.
 - Oct. 2018, The 11th National Annual Conference on Probability and Statistics, Chengdu, China.
 - Apr. 2018, The 4th High Dimensional Data Conference of Chinese Association for Applied Statistics, Nanchang, China, 
