@@ -50,6 +50,7 @@ permalink: /cv/
 
 ## 荣誉奖项
 - - -
+- 2025 &emsp; 上海白玉兰人才计划（海外引进高层次人才）
 - 2024 &emsp; 青年研究者奖项荣誉提名, 泛华统计协会(ICSA)2024中国会议 
 - 2023 &emsp; ENAR会议杰出学生论文奖, International Biometric Society
 - 2022 &emsp; 中国科学院 院长奖（优秀奖）
@@ -73,7 +74,7 @@ permalink: /cv/
 **青年班主任**: 2018级数学专业本科班级    
 **授课教师**: 高维回归分析与正则化， 本科生机器学习讨论班 (2018年、2019年 秋季学期)      
 - **期刊审稿人**  
-  Journal of the American Statistical Association; Biometrics; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
+  Journal of the American Statistical Association; Biometrics; Bernoulli; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
 
 
 ## 程序开发
