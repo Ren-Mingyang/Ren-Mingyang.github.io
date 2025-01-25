@@ -8,7 +8,7 @@ author_profile: true
 - **TransGraph** [Link to [*CRAN*](https://CRAN.R-project.org/package=TransGraph)]   
 An R package for transfer graph learning. This package implements transfer learning for several complex graphical models, including Tensor Gaussian graphical models and non-Gaussian directed acyclic graph (DAG). Notably, this package promotes local transfer at node-level in DAG structural learning. As by-products, transfer learning for undirected graphical model (precision matrix) via D-trace loss, transfer learning for mean vector estimation, and single non-Gaussian learning via topological layer method are also included in this package. Moreover, the aggregation of auxiliary information is an important issue in transfer learning, and this package provides multiple user-friendly aggregation methods, including sample weighting, similarity weighting, and most informative selection.     
 *Reference*:  
-**·** [Transfer learning for tensor Gaussian graphical models](https://arxiv.org/abs/2211.09391), arXiv, 2022.    
+**·** [Transfer learning for tensor Gaussian graphical models](https://jmlr.org/papers/v25/22-1313.html), Journal of Machine Learning Research, 2024.    
 **·** [Structural transfer learning of non-Gaussian DAG](https://arxiv.org/abs/2310.10239), arXiv, 2023.    
 **·** [Learning linear non-Gaussian directed acyclic graph with diverging number of nodes](https://jmlr.org/papers/v23/21-1173.html), Journal of Machine Learning Research, 2022.
   
