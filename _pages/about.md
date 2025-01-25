@@ -40,6 +40,7 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
 
 ## Awards and Honors
+- 2025 &emsp; Shanghai BYL Talent (Oversea Talent Introduction Program)
 - 2024 &emsp; Junior Researcher Award Honorable Mention, International Chinese Statistical Association (ICSA) China Conference
 - 2023 &emsp; ENAR Distinguished Student Paper Award, International Biometric Society
 - 2022 &emsp; Chinese Academy of Sciences President Award
@@ -48,5 +49,5 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
 ## Professional Services
 **Journal Reviewer**
-- Journal of the American Statistical Association; Biometrics; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
+- Journal of the American Statistical Association; Biometrics; Bernoulli; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
 
