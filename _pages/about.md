@@ -40,7 +40,7 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
 
 ## Awards and Honors
-- 2025 &emsp; Shanghai BYL Talent (Oversea Talent Introduction Program)
+- 2024 &emsp; Shanghai BYL Talent (Oversea Talent Introduction Program)
 - 2024 &emsp; Junior Researcher Award Honorable Mention, International Chinese Statistical Association (ICSA) China Conference
 - 2023 &emsp; ENAR Distinguished Student Paper Award, International Biometric Society
 - 2022 &emsp; Chinese Academy of Sciences President Award
