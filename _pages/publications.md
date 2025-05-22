@@ -15,8 +15,8 @@ This work won the *Junior Researcher Honorable Mention Award* from the ICSA Chin
 - **Ren, M.**, Zhang, Q., Zhang, S., & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
 - Zhang, F., Zhang, S., Ma, S., & **Ren, M.*** Subgroup analysis with double heterogeneity.    
 This work won the *Top Ten Papers* of the National Graduate Statistics Forum held by RUC.
-- Li, X., Zhang, S., **Ren, M.***, & Zhang, Q.* Integrative learning of linear non-Gaussian directed acyclic graphs.
-- Liang, H., **Ren, M.***, & Zhang, Q.* Transfer learning for functional graphical models with application on multi-source brain functional connectivity analysis.
+- Li, X., Zhang, S., **Ren, M.** *, & Zhang, Q. * Integrative learning of linear non-Gaussian directed acyclic graphs.
+- Liang, H., **Ren, M.** *, & Zhang, Q. * Transfer learning for functional graphical models with application on multi-source brain functional connectivity analysis.
 
 
 ## Publications  
