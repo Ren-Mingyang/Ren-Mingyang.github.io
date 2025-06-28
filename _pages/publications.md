@@ -21,7 +21,7 @@ This work won the *Top Ten Papers* of the National Graduate Statistics Forum hel
 
 ## Publications  
 - Zhang, Q., Zhou, J., & **Ren, M.*** (2025+). Network embedding-based directed community detection with unknown community number. *Journal of Computational and Graphical Statistics*, In press.
-- Zhu, G., Zhang, S., & **Ren, M.*** (2025). Conditional Generative Learning from Invariant Representations in Multi-Source: Robustness and Efficiency. The 28th International Conference on Artificial Intelligence and Statistics.
+- Zhu, G., Zhang, S., & **Ren, M.*** (2025). Conditional Generative Learning from Invariant Representations in Multi-Source: Robustness and Efficiency. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:217-225, 2025. [[Article](https://proceedings.mlr.press/v258/zhu25a.html)] [[Codes](https://github.com/zgj19stat/STWGAN)]  
 - **Ren, M.**, Zhen, Y., & Wang, J. (2024). Transfer learning for tensor Gaussian graphical models. *Journal of Machine Learning Research*, 25(396), 1-40. [[Article](https://jmlr.org/papers/v25/22-1313.html)] [[R package](https://CRAN.R-project.org/package=TransGraph)]  
 - Han, W., Zhang, S., Ma, S., & **Ren, M.*** (2024). Information‐incorporated sparse hierarchical cancer heterogeneity analysis. *Statistics in Medicine*, 43(11), 2280-2297. [[Article](https://doi.org/10.1002/sim.10071)] [[Codes](https://github.com/HHanWei/ISHH)]
 - Zhang, F., Zhang, S., Li, S. M., & **Ren, M.*** (2024). Matrix regression heterogeneity analysis. *Statistics and Computing*, 34(3), 95. [[Article](https://doi.org/10.1007/s11222-024-10401-z)][[Codes](https://github.com/Zhang-Fengchuan/Matrix-heterogeneity-linear-regression)]
