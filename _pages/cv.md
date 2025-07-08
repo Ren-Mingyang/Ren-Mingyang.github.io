@@ -21,7 +21,7 @@ permalink: /cv/
 ## 学术经历
 - - -
 - 2024年8月至今，副教授 （长聘教轨）    
-[上海交通大学](https://www.sjtu.edu.cn/) [数学科学学院](https://www.math.sjtu.edu.cn/Default/index)   
+[上海交通大学](https://www.sjtu.edu.cn/) [数学科学学院](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLGIipaGpKF2)   
 - 2022年8月至2024年7月，博士后   
 [香港中文大学](https://www.cuhk.edu.hk/) [统计学系](https://www.sta.cuhk.edu.hk/)    
 导师：[王军辉](https://www.sta.cuhk.edu.hk/peoples/jwang/)教授
@@ -50,7 +50,7 @@ permalink: /cv/
 
 ## 荣誉奖项
 - - -
-- 2024 &emsp; 上海白玉兰人才计划（海外引进高层次人才）
+- 2024 &emsp; 上海白玉兰海外高层次人才
 - 2024 &emsp; 青年研究者奖项荣誉提名, 泛华统计协会(ICSA)2024中国会议 
 - 2023 &emsp; ENAR会议杰出学生论文奖, International Biometric Society
 - 2022 &emsp; 中国科学院 院长奖（优秀奖）
@@ -63,16 +63,19 @@ permalink: /cv/
 - - -
 - 上海交通大学    
 **授课教师**:    
-  多元统计分析，统计学博士生课程 (2024年秋季学期) [[讲义](https://pan.baidu.com/s/1xvWPyaKUxGy_DKIfLCzG-Q)]    
-  高等代数（荣誉）I 习题课 (2024年秋季学期)
-  高等代数（荣誉）II 习题课 (2025年春季学期)
+  多元统计分析，统计学博士生课程 (2025年秋，2024年秋) [[讲义](https://pan.baidu.com/s/1xvWPyaKUxGy_DKIfLCzG-Q)]
+  概率统计  (2025年秋)
+  高等代数（荣誉）I 习题课 (2024年秋)
+  高等代数（荣誉）II 习题课 (2025年春)
+**班主任**: 2024级统计学专业本科班级
+  
 - 中国科学院大学    
 **助教**: 研究生课程      
     &emsp; 回归分析 (2019年秋季学期)  
     &emsp; 高维生物统计数据分析 (2019年暑期课程)  
     &emsp; 现代统计方法 (2019年春季学期)  
     &emsp; 高等数理统计 (2018年秋季学期)    
-**青年班主任**: 2018级数学专业本科班级    
+**班主任**: 2018级数学专业本科班级    
 **授课教师**: 高维回归分析与正则化， 本科生机器学习讨论班 (2018年、2019年 秋季学期)      
 - **期刊审稿人**  
   Journal of the American Statistical Association; Biometrics; The Annals of Applied Statistics; Bernoulli; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
