@@ -22,7 +22,7 @@ Email: mingyangren [at] sjtu.edu.cn
 
 ## Education & Work Experiences
 - Aug. 2024 - Present, Associate Professor (tenure-track)     
-[School of Mathematical Sciences](https://www.math.sjtu.edu.cn/Default/index), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) 
+[School of Mathematical Sciences](https://www.math.sjtu.edu.cn/Default/teachershow/tags/MDAwMDAwMDAwMLGIipaGpKF2), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) 
 - Aug. 2022 - Jul. 2024, Postdoctoral Fellow   
 [Department of Statistics](https://www.sta.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/)  
 Mentor: Prof. [Junhui Wang](https://www.sta.cuhk.edu.hk/peoples/jwang/)
@@ -40,7 +40,7 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
 
 ## Awards and Honors
-- 2024 &emsp; Shanghai BYL Talent (Oversea Talent Introduction Program)
+- 2024 &emsp; Shanghai BYL Oversea Talent
 - 2024 &emsp; Junior Researcher Award Honorable Mention, International Chinese Statistical Association (ICSA) China Conference
 - 2023 &emsp; ENAR Distinguished Student Paper Award, International Biometric Society
 - 2022 &emsp; Chinese Academy of Sciences President Award
