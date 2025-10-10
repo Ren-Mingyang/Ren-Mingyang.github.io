@@ -11,16 +11,14 @@ author_profile: true
 - - -
 ## Submitted Papers 
 - **Ren, M.**, He, X., & Wang, J. Structural transfer learning of non-Gaussian DAG. [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]        
-This work won the *Junior Researcher Honorable Mention Award* from the ICSA China Conference.
 - **Ren, M.**, Zhang, Q., Zhang, S., & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
 - Zhang, F., Zhang, S., Ma, S., & **Ren, M.*** Subgroup analysis with double heterogeneity.    
-This work won the *Top Ten Papers* of the National Graduate Statistics Forum held by RUC.
 - Li, X., Zhang, S., **Ren, M.** *, & Zhang, Q. * Integrative learning of linear non-Gaussian directed acyclic graphs.
 - Liang, H., **Ren, M.** *, & Zhang, Q. * Transfer learning for functional graphical models with application on multi-source brain functional connectivity analysis.
 
 
 ## Publications  
-- Zhang, Q., Zhou, J., & **Ren, M.*** (2025+). Network embedding-based directed community detection with unknown community number. *Journal of Computational and Graphical Statistics*, In press. [[Article & Codes](https://doi.org/10.1080/10618600.2024.2409789)]     
+- Zhang, Q., Zhou, J., & **Ren, M.*** (2025). Network embedding-based directed community detection with unknown community number. *Journal of Computational and Graphical Statistics*, 34(3), 812-823. [[Article & Codes](https://doi.org/10.1080/10618600.2024.2409789)]     
 - Zhu, G., Zhang, S., & **Ren, M.*** (2025). Conditional Generative Learning from Invariant Representations in Multi-Source: Robustness and Efficiency. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:217-225. [[Article](https://proceedings.mlr.press/v258/zhu25a.html)] [[Codes](https://github.com/zgj19stat/STWGAN)]  
 - **Ren, M.**, Zhen, Y., & Wang, J. (2024). Transfer learning for tensor Gaussian graphical models. *Journal of Machine Learning Research*, 25(396), 1-40. [[Article](https://jmlr.org/papers/v25/22-1313.html)] [[R package](https://CRAN.R-project.org/package=TransGraph)]  
 - Han, W., Zhang, S., Ma, S., & **Ren, M.*** (2024). Information‐incorporated sparse hierarchical cancer heterogeneity analysis. *Statistics in Medicine*, 43(11), 2280-2297. [[Article](https://doi.org/10.1002/sim.10071)] [[Codes](https://github.com/HHanWei/ISHH)]
@@ -31,7 +29,7 @@ This work won the *Top Ten Papers* of the National Graduate Statistics Forum hel
 - **Ren, M.**, Zhang, S., Ma, S., & Zhang, Q. (2022). Gene-environment interaction identification via penalized robust divergence. *Biometrical Journal*, 64(3), 461-480. [[Article](https://doi.org/10.1002/bimj.202000157)] [[Codes](https://github.com/Ren-Mingyang/GE-PRD)]
 - **Ren, M.**, Zhang, S., Zhang, Q., & Ma, S. (2021). HeteroGGM: an R package for Gaussian graphical model-based heterogeneity analysis. *Bioinformatics*, 37(18), 3073-3074. [[Article](https://doi.org/10.1093/bioinformatics/btab134)] [[Github](https://github.com/Ren-Mingyang/HeteroGGM)] [[CRAN](https://CRAN.R-project.org/package=HeteroGGM)]
 - **Ren, M.**, Zhang, S., & Zhang, Q. (2021). Robust high-dimensional regression for data with anomalous responses. *Annals of the Institute of Statistical Mathematics*, 73, 703-736. [[Article](https://doi.org/10.1007/s10463-020-00764-1)]  
-- Liu, Y., **Ren, M.**, & Zhang, S. (2021). Empirical likelihood test for regression coefficients in high dimensional partially linear models. *Journal of Systems Science and Complexity*, 34(3), 1135-1155. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]    
+- Liu, Y., **Ren, M.**, & Zhang, S. (2021). Empirical likelihood test for regression coefficients in high-dimensional partially linear models. *Journal of Systems Science and Complexity*, 34(3), 1135-1155. [[Article](https://doi.org/10.1007/s11424-020-9260-3)]    
 - Li, S., Ran, A., Kang, M., Yang, X., **Ren, M.**, Wei, S., ... & Anyang Childhood Eye Study Group. (2022). Effect of text messaging parents of school-aged children on outdoor time to control myopia: a randomized clinical trial. *JAMA Pediatrics*, 176(11), 1077-1083. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]    
 - Li, S. #, **Ren, M.** #, Gan, J., Zhang, S., Kang, M., Li, H., ... & Anyang Childhood Eye Study Group. (2022). Machine learning to determine risk factors for myopia progression in primary school children: the Anyang childhood eye study. *Ophthalmology and Therapy*, 11(2), 573-585. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
 
