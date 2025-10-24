@@ -14,7 +14,7 @@ Email: mingyangren [at] sjtu.edu.cn
 
 
 ## Research Interests
-- Heterogeneous data analysis: subgroup analysis, transfer learning, integrative analysis
+- Statistical machine learning: transfer learning, multi-task learning, subgroup analysis
 - Graphical model: directed acyclic graph, Gaussian graphical mixture model, network data
 - High-dimensional data analysis: robust high-dimensional regression, tensor analysis
 - Biostatistics: brain functional connectivity network analysis, cancer genomics
@@ -49,5 +49,5 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
 ## Professional Services
 **Journal Reviewer**
-- Journal of the American Statistical Association; Biometrics; The Annals of Applied Statistics; Bernoulli; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
+- Journal of the American Statistical Association; Journal of Machine Learning Research; Biometrics; The Annals of Applied Statistics; Bernoulli; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
 
