@@ -15,7 +15,7 @@ Email: mingyangren [at] sjtu.edu.cn
 
 ## Research Interests
 - Statistical machine learning: transfer learning, multi-task learning, subgroup analysis
-- Graphical model: directed acyclic graph, Gaussian graphical mixture model, network data
+- Graphical model: directed acyclic graph, chain graph, Gaussian graphical mixture models, network data
 - High-dimensional data analysis: robust high-dimensional regression, tensor analysis
 - Biostatistics: brain functional connectivity network analysis, cancer genomics
 
