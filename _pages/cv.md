@@ -12,8 +12,8 @@ permalink: /cv/
 
 ## 研究兴趣
 - - -
-- 异质数据分析：迁移学习、整合分析、亚组分析
-- 图模型：有向无环因果图、混合高斯图模型、网络数据
+- 统计机器学习：迁移学习、多任务学习、亚组分析
+- 图模型：有向无环图、链图、高斯图模型、网络数据
 - 高维数据分析：稳健高维回归、张量分析
 - 生物统计：脑功能连接网络分析、癌症基因组学
 
@@ -78,7 +78,7 @@ permalink: /cv/
 **班主任**: 2018级数学专业本科班级    
 **授课教师**: 高维回归分析与正则化， 本科生机器学习讨论班 (2018年、2019年 秋季学期)      
 - **期刊审稿人**  
-  Journal of the American Statistical Association; Biometrics; The Annals of Applied Statistics; Bernoulli; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
+  Journal of the American Statistical Association; Journal of Machine Learning Research; Biometrics; The Annals of Applied Statistics; Bernoulli; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
 
 
 ## 程序开发
