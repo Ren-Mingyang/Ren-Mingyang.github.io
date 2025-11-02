@@ -13,7 +13,7 @@ author_profile: true
 - **Ren, M.**, He, X., & Wang, J. Structural transfer learning of non-Gaussian DAG. [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]        
 - **Ren, M.**, Zhang, Q., Zhang, S., & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
 - Zhang, F., Zhang, S., Ma, S., & **Ren, M.*** Subgroup analysis with double heterogeneity.
-- Li, c., Ma, H., & **Ren, M.*** Local transfer learning for Gaussian graphical model-based heterogeneity analysis.  
+- Li, C., Ma, H., & **Ren, M.*** Local transfer learning for Gaussian graphical model-based heterogeneity analysis.  
 - Liang, H., **Ren, M.** *, & Zhang, Q. * Transfer learning for functional graphical models with application on multi-source brain functional connectivity analysis.
 
 
