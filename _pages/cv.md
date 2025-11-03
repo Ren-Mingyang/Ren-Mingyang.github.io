@@ -42,10 +42,6 @@ permalink: /cv/
 - - -
 - [已发表或完成的学术论文](https://ren-mingyang.github.io//publications/)  
 
-## 学术报告
-- - -
-- [邀请报告](https://ren-mingyang.github.io//talks/)
-- [会议报告](https://ren-mingyang.github.io//talks/)
 
 
 ## 荣誉奖项
