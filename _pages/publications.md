@@ -18,7 +18,7 @@ author_profile: true
 
 
 ## Publications  
-- Li, X., Zhang, S., **Ren, M.** *, & Zhang, Q. * (2025+). Integrative learning of linear non-Gaussian directed acyclic graphs with application on multi-source gene regulatory network analysis. *Annals of Applied Statistics*, In press. [[Codes](https://github.com/Ren-Mingyang/IntegrativeDAG)]
+- Li, X., Zhang, S., **Ren, M.***, & Zhang, Q. * (2025+). Integrative learning of linear non-Gaussian directed acyclic graphs with application on multi-source gene regulatory network analysis. *Annals of Applied Statistics*, In press. [[Codes](https://github.com/Ren-Mingyang/IntegrativeDAG)]
 - Zhang, Q., Zhou, J., & **Ren, M.*** (2025). Network embedding-based directed community detection with unknown community number. *Journal of Computational and Graphical Statistics*, 34(3), 812-823. [[Article & Codes](https://doi.org/10.1080/10618600.2024.2409789)]     
 - Zhu, G., Zhang, S., & **Ren, M.*** (2025). Conditional Generative Learning from Invariant Representations in Multi-Source: Robustness and Efficiency. Proceedings of The 28th International Conference on Artificial Intelligence and Statistics, PMLR 258:217-225. [[Article](https://proceedings.mlr.press/v258/zhu25a.html)] [[Codes](https://github.com/zgj19stat/STWGAN)]  
 - **Ren, M.**, Zhen, Y., & Wang, J. (2024). Transfer learning for tensor Gaussian graphical models. *Journal of Machine Learning Research*, 25(396), 1-40. [[Article](https://jmlr.org/papers/v25/22-1313.html)] [[R package](https://CRAN.R-project.org/package=TransGraph)]  
