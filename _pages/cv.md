@@ -46,7 +46,7 @@ permalink: /cv/
 
 ## 荣誉奖项
 - - -
-- 2024 &emsp; 上海白玉兰海外高层次人才
+- 2024 &emsp; 上海海外高层次人才
 - 2024 &emsp; 青年研究者奖项荣誉提名, 泛华统计协会(ICSA)2024中国会议 
 - 2023 &emsp; ENAR会议杰出学生论文奖, International Biometric Society
 - 2022 &emsp; 中国科学院 院长奖（优秀奖）
