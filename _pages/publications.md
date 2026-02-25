@@ -34,3 +34,13 @@ author_profile: true
 - Li, S., Ran, A., Kang, M., Yang, X., **Ren, M.**, Wei, S., ... & Anyang Childhood Eye Study Group. (2022). Effect of text messaging parents of school-aged children on outdoor time to control myopia: a randomized clinical trial. *JAMA Pediatrics*, 176(11), 1077-1083. [[Article](http://dx.doi.org/10.1001/jamapediatrics.2022.3542)]    
 - Li, S. #, **Ren, M.** #, Gan, J., Zhang, S., Kang, M., Li, H., ... & Anyang Childhood Eye Study Group. (2022). Machine learning to determine risk factors for myopia progression in primary school children: the Anyang childhood eye study. *Ophthalmology and Therapy*, 11(2), 573-585. [[Article](https://doi.org/10.1007/s40123-021-00450-2)]
 
+
+
+## Research Grants
+- - -
+- 国家自然科学基金青年项目（C类），2026-2028，主持
+- 国家海外博士后引才专项计划（教育部），2026-2028，主持
+- 上海启明星项目（扬帆专项），2024-2027，主持
+- 国家自然科学基金面上项目，2026-2029，参与
+- 国家自然科学基金面上项目，2022-2025，参与
+- 深圳市医学研究“揭榜挂帅”项目，2026-2029，参与
