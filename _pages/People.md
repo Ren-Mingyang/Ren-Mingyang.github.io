@@ -18,7 +18,7 @@ permalink: /People/
 
 - - -
 
-## Master's Student
+## Master's Students
 - Tianning Deng (2025 - Present)
 - Hongxuan Li (2025 - Present)
 - Yining Sun (2025 - Present)
