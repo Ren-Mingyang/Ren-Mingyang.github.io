@@ -9,8 +9,8 @@ main:
   - title: "Software"
     url: /software/  
     
-  - title: "News"
-    url: /news/
+  - title: "People"
+    url: /People/
     
   - title: "中文版"
     url: /cv/ 
