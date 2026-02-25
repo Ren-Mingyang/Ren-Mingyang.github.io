@@ -186,7 +186,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  People:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -256,6 +258,14 @@ defaults:
       type: software
     values:
       layout: software
+      author_profile: true
+      share: true
+# _People
+  - scope:
+      path: ""
+      type: People
+    values:
+      layout: People
       author_profile: true
       share: true
       
