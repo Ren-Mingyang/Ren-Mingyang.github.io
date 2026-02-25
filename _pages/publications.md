@@ -7,7 +7,7 @@ author_profile: true
 
 
 # Publications
-(* corresponding author, \# co-first author)
+(* corresponding author, \# co-first author, <u>underline<u> indicates a (co-)supervised student)
 - - -
 ## Submitted Papers 
 - **Ren, M.**, He, X., & Wang, J. Structural transfer learning of non-Gaussian DAG. [[arXiv](https://arxiv.org/abs/2310.10239)] [[R package](https://CRAN.R-project.org/package=TransGraph)]        
