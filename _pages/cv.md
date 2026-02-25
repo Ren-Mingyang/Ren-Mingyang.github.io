@@ -79,5 +79,11 @@ permalink: /cv/
 
 ## 程序开发
 - - -
-- [R语言程序包](https://ren-mingyang.github.io//software/).
+- [R语言程序包](https://ren-mingyang.github.io//software/)
 
+
+## 课题组成员
+- - -
+- [课题组成员](https://ren-mingyang.github.io//People/)
+
+  
