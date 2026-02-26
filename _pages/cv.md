@@ -38,11 +38,6 @@ permalink: /cv/
 
  
 
-## 论文发表
-- - -
-- [已发表或完成的学术论文](https://ren-mingyang.github.io//publications/)  
-
-
 ## 科研项目
 - - -
 - 国家自然科学基金青年项目（C类），2026-2028，主持
@@ -62,6 +57,11 @@ permalink: /cv/
 - 2021 &emsp; 博士生国家奖学金
 - 2021 &emsp; 朱李月华优秀博士生奖学金 &emsp; 中国科学院大学
 - 2020 &emsp; 中国科学院 数学与系统科学研究院 院长奖
+
+
+## 论文发表
+- - -
+- [已发表或完成的学术论文](https://ren-mingyang.github.io//publications/)  
 
 
 ## 教学与专业服务
