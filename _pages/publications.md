@@ -14,6 +14,7 @@ author_profile: true
 - **Ren, M.**, Zhang, Q., Zhang, S., & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
 - <ins>Zhang, F.</ins>, Zhang, S., Ma, S., & **Ren, M.**\* Subgroup analysis with double heterogeneity.
 - <ins>Liang, H.</ins>, **Ren, M.** \*, & Zhang, Q. \* Transfer learning for functional graphical models with application on multi-source brain functional connectivity analysis.
+- <ins>Zhu, G.</ins>, Zhang, S., & **Ren, M.*** Model- and similarity-free transfer learning for classification with label noise.
 - Pi, P., **Ren, M.**, & Luo, S. High-dimensional Covariate-dependent Tensor Gaussian Graphical Models.
 
 ## Publications  
