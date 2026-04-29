@@ -11,7 +11,7 @@ author_profile: true
 - - -
 ## Submitted Papers 
 - **Ren, M.**, He, X., & Wang, J. Structural transfer learning of non-Gaussian DAG. [[arXiv](https://arxiv.org/abs/2310.10239)]
-- <ins>Zhu, G.</ins>, Zhang, S., & **Ren, M.*** Model-agnostic information transfer and fusion for classification with label noise. [[arXiv](https://arxiv.org/pdf/2604.25845)]
+- <ins>Zhu, G.</ins>, Zhang, S., & **Ren, M.*** Model-agnostic information transfer and fusion for classification with label noise. [[arXiv](https://arxiv.org/abs/2604.25845)]
 - **Ren, M.**, Zhang, Q., Zhang, S., & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
 - <ins>Zhang, F.</ins>, Zhang, S., Ma, S., & **Ren, M.**\* Subgroup analysis with double heterogeneity.
 - <ins>Liang, H.</ins>, **Ren, M.** \*, & Zhang, Q. \* Transfer learning for functional graphical models with application on multi-source brain functional connectivity analysis.
