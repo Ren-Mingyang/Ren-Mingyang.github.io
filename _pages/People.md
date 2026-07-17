@@ -23,10 +23,10 @@ permalink: /People/
 - Hongxuan Li (2025 - Present)
 - Yining Sun (2025 - Present)
 - Tiecheng Wang (2025 - Present) 
-- Zhongqing Jiang (2024 - Present)
-- Hongting Tang (2024 - Present)
-- Lining Tang (2024 - Present)
-- Zhaojun Wei (2024 - Present) 
+- Zhongqing Jiang (2024 - 2026)
+- Hongting Tang (2024 - 2026)
+- Lining Tang (2024 - 2026)
+- Zhaojun Wei (2024 - 2026) 
 
 
 - - -
