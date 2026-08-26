@@ -49,5 +49,5 @@ Advisor: Prof. [Sanguo Zhang](http://people.ucas.ac.cn/~sgzhang)
 
 ## Professional Services
 **Journal Reviewer**
-- Journal of the American Statistical Association; Journal of Machine Learning Research; Biometrics; The Annals of Applied Statistics; Bernoulli; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Artificial Intelligence Review; Scientific Reports; ACM Transactions on Mathematical Software
+- Journal of the American Statistical Association; Journal of Machine Learning Research; Biometrics; The Annals of Applied Statistics; Bernoulli; Journal of Computational and Graphical Statistics; Statistica Sinica; Statistics in Medicine; Annals of the Institute of Statistical Mathematics; Scientific Reports; ACM Transactions on Mathematical Software
 
