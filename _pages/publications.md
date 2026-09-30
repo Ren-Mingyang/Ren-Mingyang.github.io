@@ -14,8 +14,9 @@ author_profile: true
 - <ins>Zhu, G.</ins>, Zhang, S., & **Ren, M.*** Model-agnostic information transfer and fusion for classification with label noise. [[arXiv](https://arxiv.org/abs/2604.25845)]
 - **Ren, M.**, Zhang, Q., Zhang, S., & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
 - <ins>Zhang, F.</ins>, Zhang, S., Ma, S., & **Ren, M.**\* Subgroup analysis with double heterogeneity.
+- <ins>Wang, H.</ins>, **Ren, M.** Subgroup-specific information transfer for heterogeneous gene regulatory networks
 - <ins>Liang, H.</ins>, **Ren, M.** \*, & Zhang, Q. \* Transfer learning for functional graphical models with application on multi-source brain functional connectivity analysis.
-- Pi, P., **Ren, M.**, & Luo, S. High-dimensional Covariate-dependent Tensor Gaussian Graphical Models.
+- Pi, P., **Ren, M.** \*, & Luo, S. \* High-dimensional Covariate-dependent Tensor Gaussian Graphical Models.
 
 ## Publications  
 - <ins>Li, X.</ins>, Zhang, S., **Ren, M.** \*, & Zhang, Q. \* (2026). Integrative learning of linear non-Gaussian directed acyclic graphs with application on multi-source gene regulatory network analysis. *Annals of Applied Statistics*, 20(1), 46-67. [[Article](https://doi.org/10.1214/25-AOAS2116)] [[Codes](https://github.com/Ren-Mingyang/IntegrativeDAG)]
