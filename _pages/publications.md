@@ -14,7 +14,7 @@ author_profile: true
 - <ins>Zhu, G.</ins>, Zhang, S., & **Ren, M.*** Model-agnostic information transfer and fusion for classification with label noise. [[arXiv](https://arxiv.org/abs/2604.25845)]
 - **Ren, M.**, Zhang, Q., Zhang, S., & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
 - <ins>Zhang, F.</ins>, Zhang, S., Ma, S., & **Ren, M.**\* Subgroup analysis with double heterogeneity.
-- <ins>Wang, H.</ins>, **Ren, M.** Subgroup-specific information transfer for heterogeneous gene regulatory networks
+- <ins>Wang, H.</ins>, **Ren, M.** Subgroup-specific information transfer for heterogeneous single-cell gene regulatory networks
 - <ins>Liang, H.</ins>, **Ren, M.** \*, & Zhang, Q. \* Transfer learning for functional graphical models with application on multi-source brain functional connectivity analysis.
 - Pi, P., **Ren, M.** \*, & Luo, S. \* High-dimensional Covariate-dependent Tensor Gaussian Graphical Models.
 
