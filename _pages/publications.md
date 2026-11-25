@@ -10,15 +10,17 @@ author_profile: true
 (* corresponding author, \# co-first author, <ins>underline</ins> indicates a (co-)supervised student)
 - - -
 ## Submitted Papers 
-- **Ren, M.**, He, X., & Wang, J. Structural transfer learning of non-Gaussian DAG. [[arXiv](https://arxiv.org/abs/2310.10239)]
+- <ins>Zhu, G.</ins>, <ins>Wang, H.</ins>, & **Ren, M.***  Directed Hypergraphs: Tensor Representation, Embedding Modeling, and Community Detection. [[arXiv](https://arxiv.org/abs/2611.29655)]
 - <ins>Zhu, G.</ins>, Zhang, S., & **Ren, M.*** Model-agnostic information transfer and fusion for classification with label noise. [[arXiv](https://arxiv.org/abs/2604.25845)]
 - **Ren, M.**, Zhang, Q., Zhang, S., & Ma, S. Gaussian graphical model-based hierarchical cancer heterogeneity analysis via integrating pathological imaging and omics data.
 - <ins>Zhang, F.</ins>, Zhang, S., Ma, S., & **Ren, M.**\* Subgroup analysis with double heterogeneity.
 - <ins>Wang, H.</ins>, **Ren, M.** Subgroup-specific information transfer for heterogeneous single-cell gene regulatory networks
+- Nie R., Wang M., Zhang S., **Mingyang Ren***, & Zhu G.* Cross-Order Information-Guided Estimation for Non-Uniform Hypergraphs [[arXiv](https://arxiv.org/abs/2611.32430)]
 - <ins>Liang, H.</ins>, **Ren, M.** \*, & Zhang, Q. \* Transfer learning for functional graphical models with application on multi-source brain functional connectivity analysis.
 - Pi, P., **Ren, M.** \*, & Luo, S. \* High-dimensional Covariate-dependent Tensor Gaussian Graphical Models.
 
 ## Publications  
+- **Ren, M.**, He, X., & Wang, J. (2026+). Local structural transfer learning of non-Gaussian DAG and its application to multi-source cancer gene regulatory networks. *Annals of Applied Statistics*, In press. [[arXiv](https://arxiv.org/abs/2310.10239)]
 - <ins>Li, X.</ins>, Zhang, S., **Ren, M.** \*, & Zhang, Q. \* (2026). Integrative learning of linear non-Gaussian directed acyclic graphs with application on multi-source gene regulatory network analysis. *Annals of Applied Statistics*, 20(1), 46-67. [[Article](https://doi.org/10.1214/25-AOAS2116)] [[Codes](https://github.com/Ren-Mingyang/IntegrativeDAG)]
 - <ins>Li, C.</ins>, Ma, H., & **Ren, M.**\* (2026).  Local transfer learning for Gaussian graphical model-based heterogeneity analysis. *Bioinformatics*, 42(2). [[Article](https://doi.org/10.1093/bioinformatics/btag057)] [[Codes](https://github.com/Ren-Mingyang/LtransHeteroGGM)]
 - Zhang, Q., Zhou, J., & **Ren, M.*** (2025). Network embedding-based directed community detection with unknown community number. *Journal of Computational and Graphical Statistics*, 34(3), 812-823. [[Article & Codes](https://doi.org/10.1080/10618600.2024.2409789)]     
