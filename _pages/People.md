@@ -19,6 +19,10 @@ permalink: /People/
 - - -
 
 ## Master's Students
+- Siwei Chen (2026 - Present)
+- Gaoxiang Liu (2026 - Present)
+- Liyuan Wang (2026 - Present)
+- Zile Zhong (2026 - Present)
 - Tianning Deng (2025 - Present)
 - Hongxuan Li (2025 - Present)
 - Yining Sun (2025 - Present)
